@@ -5,7 +5,7 @@
 - [List of debut album releases](#list-of-debut-album-releases)
 - [List of music video releases](#list-of-music-video-releases)
 - [List of activities](#list-of-activities)
-- 
+
 ## List of album releases
 - Farshad	Nabz		https://soundcloud.com/farshadhiphop/sets/nabz
 - Sorena	Gavazn		https://soundcloud.com/alisorena/sets/gavazn
