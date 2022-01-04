@@ -28,7 +28,7 @@
 - EXIT	Ganje Gharoon		https://soundcloud.com/ug21/sets/ganje-gharoon
 - EXIT	Sayeye Eshgh		https://soundcloud.com/ug21/sets/sayeye-eshgh
 - Maslak x Merzhak	Khato Neshoun	EP	https://open.spotify.com/album/0xNqNxUlPphKB8hTwGO6jl?si=i8ixyQJHQAWNy5jsgWOdBg
-- Tighe	1400	EP
+- Tighe	1400	~~EP~~ (not EP)
 
 
 ## List of instrumental album releases
