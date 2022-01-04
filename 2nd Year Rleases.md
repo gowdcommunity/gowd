@@ -46,12 +46,12 @@
 - Milad Pahlevani	000'	EP	https://soundcloud.com/marzrecord/sets/mp000
 
 ## List of collaboration album releases
-- Morteb	Khatokhaal	Collaboration Album	https://soundcloud.com/motrebam/sets/khatokhal
-- Taramoon	Badban	Collaboration Album	https://open.spotify.com/album/72QfUoPK7tG9xnmQQspk04
-- Dousti	Bad Adat	Collaboration Album	https://soundcloud.com/dousti/sets/bad-habits
-- Haft Eghlim	Salome MC	Collaboration Album	https://soundcloud.com/salomemcee/sets/seven-climes-vol-1
-- WG (Mafogh)	Mohdar	Collaboration Album	https://soundcloud.com/wordgamefamily/sets/mohraz
-- VA	Khakestar Roshan	Collaboration Album	http://rapfarsi.world/various-artists-khakestar-roshan
+- Morteb	Khatokhaal	https://soundcloud.com/motrebam/sets/khatokhal
+- Taramoon	Badban	https://open.spotify.com/album/72QfUoPK7tG9xnmQQspk04
+- Dousti	Bad Adat	https://soundcloud.com/dousti/sets/bad-habits
+- Haft Eghlim	Salome MC	https://soundcloud.com/salomemcee/sets/seven-climes-vol-1
+- WG (Mafogh)	Mohraz	https://soundcloud.com/wordgamefamily/sets/mohraz
+- VA	Khakestar Roshan		http://rapfarsi.world/various-artists-khakestar-roshan
 
 ## List of debut album releases
 - Khalaf Shar	Ahood		https://soundcloud.com/ahoodism/sets/khalafe-share-lp
