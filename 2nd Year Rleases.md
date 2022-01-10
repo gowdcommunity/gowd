@@ -43,6 +43,7 @@
 - Sour	Untold Story	EP	https://soundcloud.com/soorsound/sets/untold-stories-ep
 - VA	Noisy Boxes		https://soundcloud.com/marzrecord/sets/tnb
 - Milad Pahlevani	000'	EP	https://soundcloud.com/marzrecord/sets/mp000
+- Shemrooni x Mardas Downfall https://soundcloud.com/shemroonii/sets/downfall
 
 ## List of collaboration album releases
 - Morteb	Khatokhaal	https://soundcloud.com/motrebam/sets/khatokhal
