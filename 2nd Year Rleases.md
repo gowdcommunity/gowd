@@ -60,6 +60,8 @@
 - مجموعه هنرمندان/ 		https://soundcloud.com/marzrecord/sets/tnb THE NOISY BOXES
 - میلاد پهلوانی / 000	https://soundcloud.com/marzrecord/sets/mp000
 - شمرونی و مرداس /  https://soundcloud.com/shemroonii/sets/downfall  Downfall
+- بدنام / https://soundcloud.com/badnam/sets/lifepit-ep LifePit 
+- بدنام / https://soundcloud.com/badnam/sets/badnam-dreamers-believe-vol-1 Dreamers Believe Vol.1
 
 ## مجموعه های همکاری
 - مطرب / خط و خال	https://soundcloud.com/motrebam/sets/khatokhal
