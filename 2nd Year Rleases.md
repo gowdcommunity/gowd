@@ -45,7 +45,7 @@
 - کیارپ / ظهور  https://soundcloud.com/kiarash-ataei/sets/zohoor-album-1 
 - دانیال / کدر  https://soundcloud.com/aslistream/sets/daniyal-keder
 - مهداد / فرادا  https://open.spotify.com/album/7bg2ACxT32YCdCSzl3uMaD?si=s8pvPS5ETm-j5-1jIzUcow
-
+- صفیر / تفریق
 ## مجموعه های بیکلام 		
 - صور و سپهر / جاده ابدی	https://soundcloud.com/marzrecord/sets/etr
 - فارسی / AWOL		https://soundcloud.com/divarrecords/sets/farsea-awol
@@ -62,6 +62,7 @@
 - شمرونی و مرداس /  https://soundcloud.com/shemroonii/sets/downfall  Downfall
 - بدنام / https://soundcloud.com/badnam/sets/lifepit-ep LifePit 
 - بدنام / https://soundcloud.com/badnam/sets/badnam-dreamers-believe-vol-1 Dreamers Believe Vol.1
+- شمرونی / A Cold Night
 
 ## مجموعه های همکاری
 - مطرب / خط و خال	https://soundcloud.com/motrebam/sets/khatokhal
