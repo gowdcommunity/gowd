@@ -6,7 +6,7 @@
 - [فعالیتها](#فعالیتها)
 
 ## مجموعه ها
-- فرشاد / نبز			https://soundcloud.com/farshadhiphop/sets/nabz
+- فرشاد / نبض		https://soundcloud.com/farshadhiphop/sets/nabz
 - سورنا / گوزن		https://soundcloud.com/alisorena/sets/gavazn
 - پیشرو / پرواز		https://open.spotify.com/album/0iUOpR76ol1mLG7yfWLkLv
 - شایع عصبانی	https://open.spotify.com/album/1CIUfTEm0xPgHDUNc6G7rW
@@ -46,6 +46,7 @@
 - دانیال / کدر  https://soundcloud.com/aslistream/sets/daniyal-keder
 - مهداد / فرادا  https://open.spotify.com/album/7bg2ACxT32YCdCSzl3uMaD?si=s8pvPS5ETm-j5-1jIzUcow
 - صفیر / تفریق
+- هیدن / ذوزنقه
 ## مجموعه های بیکلام 		
 - صور و سپهر / جاده ابدی	https://soundcloud.com/marzrecord/sets/etr
 - فارسی / AWOL		https://soundcloud.com/divarrecords/sets/farsea-awol
