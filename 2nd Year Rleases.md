@@ -43,7 +43,6 @@
 - کبود / بدو	https://soundcloud.com/mellistream/sets/badv
 - کائن / جهت دار
 - کیارپ / ظهور  https://soundcloud.com/kiarash-ataei/sets/zohoor-album-1 
-- دانیال / کدر  https://soundcloud.com/aslistream/sets/daniyal-keder
 - مهداد / فرادا  https://open.spotify.com/album/7bg2ACxT32YCdCSzl3uMaD?si=s8pvPS5ETm-j5-1jIzUcow
 - صفیر / تفریق
 - هیدن / ذوزنقه
