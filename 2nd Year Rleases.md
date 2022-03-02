@@ -44,6 +44,7 @@
 - کائن / جهت دار
 - کیارپ / ظهور  https://soundcloud.com/kiarash-ataei/sets/zohoor-album-1 
 - مهداد / فرادا  https://open.spotify.com/album/7bg2ACxT32YCdCSzl3uMaD?si=s8pvPS5ETm-j5-1jIzUcow
+- صادق / پرسپکتیو  https://open.spotify.com/album/1nYBV7uEQhSPVURZGa8ecA?si=6Gny8AwGQMmPF30epSYjkg 
 - صفیر / تفریق
 - هیدن / ذوزنقه
 ## مجموعه های بیکلام 		
@@ -63,6 +64,7 @@
 - بدنام / https://soundcloud.com/badnam/sets/lifepit-ep LifePit 
 - بدنام / https://soundcloud.com/badnam/sets/badnam-dreamers-believe-vol-1 Dreamers Believe Vol.1
 - شمرونی / A Cold Night
+- اسلان /  https://soundcloud.com/bpayan/sets/imprecise Imprecise 
 
 ## مجموعه های همکاری
 - مطرب / خط و خال	https://soundcloud.com/motrebam/sets/khatokhal
