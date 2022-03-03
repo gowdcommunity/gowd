@@ -46,6 +46,8 @@
 - مهداد / فرادا  https://open.spotify.com/album/7bg2ACxT32YCdCSzl3uMaD?si=s8pvPS5ETm-j5-1jIzUcow
 - صادق / پرسپکتیو  https://open.spotify.com/album/1nYBV7uEQhSPVURZGa8ecA?si=6Gny8AwGQMmPF30epSYjkg 
 - صفیر / تفریق
+- صب / تضاد 
+https://soundcloud.app.goo.gl/ECXzD
 - هیدن / ذوزنقه
 ## مجموعه های بیکلام 		
 - صور و سپهر / جاده ابدی	https://soundcloud.com/marzrecord/sets/etr
