@@ -44,6 +44,7 @@
 - کائن / جهت دار
 - کیارپ / ظهور  https://soundcloud.com/kiarash-ataei/sets/zohoor-album-1 
 - مهداد / فرادا  https://open.spotify.com/album/7bg2ACxT32YCdCSzl3uMaD?si=s8pvPS5ETm-j5-1jIzUcow
+- صب / تضاد https://soundcloud.app.goo.gl/ECXzD
 - صادق / پرسپکتیو  https://open.spotify.com/album/1nYBV7uEQhSPVURZGa8ecA?si=6Gny8AwGQMmPF30epSYjkg 
 - صفیر / تفریق
 - هیدن / ذوزنقه
