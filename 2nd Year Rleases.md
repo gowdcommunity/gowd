@@ -47,6 +47,9 @@
 - صادق / پرسپکتیو  https://open.spotify.com/album/1nYBV7uEQhSPVURZGa8ecA?si=6Gny8AwGQMmPF30epSYjkg 
 - صفیر / تفریق
 - هیدن / ذوزنقه
+- امین تی جی / صفر تا صد https://open.spotify.com/album/3giZJ0MHtYvS0vUrDarN80- 
+- -	پویان اردلان و دارا کی / منوپلی https://www.youtube.com/watch?v=z5LSK8_nAhw 
+
 ## مجموعه های بیکلام 		
 - صور و سپهر / جاده ابدی	https://soundcloud.com/marzrecord/sets/etr
 - فارسی / AWOL		https://soundcloud.com/divarrecords/sets/farsea-awol
@@ -119,6 +122,7 @@
 -	حسین هفت / لال https://www.youtube.com/watch?v=gLk-mad-uZo
 -	پوری / بنزو https://youtu.be/D91W2MrdyKU 
 -	کیارپ و مجهول / توله تونی https://youtu.be/xP8zARWqJfI 
+-	پویان اردلان و دارا کی / منوپلی https://www.youtube.com/watch?v=z5LSK8_nAhw 
 
 ## فعالیتها
 
