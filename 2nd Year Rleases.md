@@ -20,7 +20,7 @@
 - ودا و کهگل / 	ای ایران
 - تس / درد		https://soundcloud.com/tesmc/sets/dard
 - یحیی / دال		https://soundcloud.com/yoyahyo/sets/kalemaatdhaal
-- سانبوی / خواب		
+- سانبوی / خواب		https://open.spotify.com/album/43bpoxTN82NeNALC9EZGeQ?si=o5MZRSUzS32LosVXejuXBg
 - تس / خالی		https://soundcloud.com/tesmc/sets/khaali
 - اگزیت / گنج قارون		https://soundcloud.com/ug21/sets/ganje-gharoon
 - اگزیت / سایه عشق		https://soundcloud.com/ug21/sets/sayeye-eshgh
@@ -131,7 +131,8 @@
 - جدی طنزه  https://www.youtube.com/watch?v=rl_rrhWBrtI&list=PL1RFc4bguWdqJTCNV-m9jXsJmQmWPqWKt
 - پادکست دونده https://open.spotify.com/show/6JNxBj4r7NYv0UtnV7E2NB?si=8d5a94a87f9a4747
 - هیدن تاک https://www.youtube.com/playlist?list=PLWFffuXc9Bcd5GjyJb6i90ybhgGz9d-BF
-- کوکتل تی وی https://www.youtube.com/channel/UCsYVhwxQmvip-AmO2SY7eig
+-  اکوکتل تی وی https://www.youtube.com/channel/UCsYVhwxQmvip-AmO2SY7eig اخبار و حواشی
 - رادیو پلاک https://www.youtube.com/watch?v=rnN33axc26U&list=PL17kpeiRmswMPLF-2GLna3UAHMzAWxNUg
 - کانال نیما https://www.youtube.com/channel/UCh5gKRCY5bWqdpvCEwllTZA DW
 - آزمایشگاه https://www.youtube.com/channel/UCjbpSnGE04wLdP9I7R_vPug	
+- RadioActiceZone - DeadRoom  https://www.youtube.com/playlist?list=PLER0f5KCvBJ21r5z8KgVgxD5wo19oOcaH
