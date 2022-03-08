@@ -46,6 +46,8 @@
 - مهداد / فرادا  https://open.spotify.com/album/7bg2ACxT32YCdCSzl3uMaD?si=s8pvPS5ETm-j5-1jIzUcow
 - صادق / پرسپکتیو  https://open.spotify.com/album/1nYBV7uEQhSPVURZGa8ecA?si=6Gny8AwGQMmPF30epSYjkg 
 - صفیر / تفریق
+- صب / تضاد 
+https://soundcloud.app.goo.gl/ECXzD
 - هیدن / ذوزنقه
 - امین تی جی / صفر تا صد https://open.spotify.com/album/3giZJ0MHtYvS0vUrDarN80- 
 - -	پویان اردلان و دارا کی / منوپلی https://www.youtube.com/watch?v=z5LSK8_nAhw 
