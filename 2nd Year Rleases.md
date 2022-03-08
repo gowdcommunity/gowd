@@ -25,7 +25,7 @@
 - اگزیت / گنج قارون		https://soundcloud.com/ug21/sets/ganje-gharoon
 - اگزیت / سایه عشق		https://soundcloud.com/ug21/sets/sayeye-eshgh
 - مسلک و مرژاک / خط و نشان	https://open.spotify.com/album/0xNqNxUlPphKB8hTwGO6jl?si=i8ixyQJHQAWNy5jsgWOdBg
-- تیغه / 1400	
+- تیغه / 1400	https://20rap.com/view/album/azvym/babak-tighe-1400
 - ناجی / فونیکس https://soundcloud.com/naajiofficial/sets/phoenix 
 - پوتک / رتشیلد https://open.spotify.com/album/5LyoRdFSkBfRebDKncOEiS 
 - عیهود / خلاف شرع		https://soundcloud.com/ahoodism/sets/khalafe-share-lp
@@ -41,16 +41,15 @@
 - ضحا / یکی از همه	https://soundcloud.com/zohaofficial/sets/yeki-az-hame
 - معراج تهرانی / لخت	https://soundcloud.com/meraj-tehrani-825841005/sets/lokht-ep
 - کبود / بدو	https://soundcloud.com/mellistream/sets/badv
-- کائن / جهت دار
+- کائن / جهت دار 
 - کیارپ / ظهور  https://soundcloud.com/kiarash-ataei/sets/zohoor-album-1 
 - مهداد / فرادا  https://open.spotify.com/album/7bg2ACxT32YCdCSzl3uMaD?si=s8pvPS5ETm-j5-1jIzUcow
 - صادق / پرسپکتیو  https://open.spotify.com/album/1nYBV7uEQhSPVURZGa8ecA?si=6Gny8AwGQMmPF30epSYjkg 
-- صفیر / تفریق
-- صب / تضاد 
-https://soundcloud.app.goo.gl/ECXzD
-- هیدن / ذوزنقه
+- صفیر / تفریق  https://soundcloud.com/vaakrecords/sets/tafrigh-vol-2
+- صب / تضاد https://soundcloud.app.goo.gl/ECXzD
+- هیدن / ذوزنقه https://open.spotify.com/album/61ls9EwSwhDuElW9xzyb3M?si=36779e6acfcf41c3
 - امین تی جی / صفر تا صد https://open.spotify.com/album/3giZJ0MHtYvS0vUrDarN80- 
-- -	پویان اردلان و دارا کی / منوپلی https://www.youtube.com/watch?v=z5LSK8_nAhw 
+- پویان اردلان و دارا کی / منوپلی https://www.youtube.com/watch?v=z5LSK8_nAhw 
 
 ## مجموعه های بیکلام 		
 - صور و سپهر / جاده ابدی	https://soundcloud.com/marzrecord/sets/etr
@@ -110,21 +109,21 @@ https://soundcloud.app.goo.gl/ECXzD
 - ساعی / چی ارائه کردیم	https://www.youtube.com/watch?v=4FNVpR-vlCo
 - فرزان / سفر درونی	https://www.youtube.com/watch?v=fmsBLf4HsoE
 - بن / دی	https://youtu.be/fCxahJUNYoU
--	تهم	https://youtu.be/-4lado54cO4  Kaminochimu
--	خلسه و کچی بیتز Jake Paul  https://youtu.be/-oORQZn_Y7Y
--	عرفان و نوان / فرق داره https://youtu.be/-oORQZn_Y7Y
--	 توماج / نرمال  https://youtu.be/p6LzsYdU81o
--	 توماج / تاس  https://youtu.be/x1pKLSl3HSg
--	 توماج / ترکمنچای  https://youtu.be/f0vWAe_IkZ0
--	 توماج / سوراخ موش https://youtu.be/k0XMnGrDy-w
--	 توماج و بیلقب / طناب دار https://youtu.be/PAR2Uo-vmgY
--	زخمی / لاندن رمانس  https://www.radiojavan.com/videos/video/zakhmi-london-romance
--	هیپهاپولوژیست و چرسی / ماشالله https://youtu.be/1vWHcRqtiTo
--	حسین هفت / روش https://www.youtube.com/watch?v=qoc_gdUB9Pg
--	حسین هفت / لال https://www.youtube.com/watch?v=gLk-mad-uZo
--	پوری / بنزو https://youtu.be/D91W2MrdyKU 
--	کیارپ و مجهول / توله تونی https://youtu.be/xP8zARWqJfI 
--	پویان اردلان و دارا کی / منوپلی https://www.youtube.com/watch?v=z5LSK8_nAhw 
+- تهم	https://youtu.be/-4lado54cO4  Kaminochimu
+- خلسه و کچی بیتز Jake Paul  https://youtu.be/-oORQZn_Y7Y
+- عرفان و نوان / فرق داره https://youtu.be/-oORQZn_Y7Y
+- توماج / نرمال  https://youtu.be/p6LzsYdU81o
+- توماج / تاس  https://youtu.be/x1pKLSl3HSg
+- توماج / ترکمنچای  https://youtu.be/f0vWAe_IkZ0
+- توماج / سوراخ موش https://youtu.be/k0XMnGrDy-w
+- توماج و بیلقب / طناب دار https://youtu.be/PAR2Uo-vmgY
+- زخمی / لاندن رمانس  https://www.radiojavan.com/videos/video/zakhmi-london-romance
+- هیپهاپولوژیست و چرسی / ماشالله https://youtu.be/1vWHcRqtiTo
+- حسین هفت / روش https://www.youtube.com/watch?v=qoc_gdUB9Pg
+- حسین هفت / لال https://www.youtube.com/watch?v=gLk-mad-uZo
+- پوری / بنزو https://youtu.be/D91W2MrdyKU 
+- کیارپ و مجهول / توله تونی https://youtu.be/xP8zARWqJfI 
+- پویان اردلان و دارا کی / منوپلی https://www.youtube.com/watch?v=z5LSK8_nAhw 
 
 ## فعالیتها
 
