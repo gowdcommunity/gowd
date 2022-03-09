@@ -50,6 +50,7 @@
 - هیدن / ذوزنقه https://open.spotify.com/album/61ls9EwSwhDuElW9xzyb3M?si=36779e6acfcf41c3
 - امین تی جی / صفر تا صد https://open.spotify.com/album/3giZJ0MHtYvS0vUrDarN80- 
 - پویان اردلان و دارا کی / منوپلی https://www.youtube.com/watch?v=z5LSK8_nAhw 
+- جی جی / آمادئوس 
 
 ## مجموعه های بیکلام 		
 - صور و سپهر / جاده ابدی	https://soundcloud.com/marzrecord/sets/etr
@@ -67,7 +68,7 @@
 - شمرونی و مرداس /  https://soundcloud.com/shemroonii/sets/downfall  Downfall
 - بدنام / https://soundcloud.com/badnam/sets/lifepit-ep LifePit 
 - بدنام / https://soundcloud.com/badnam/sets/badnam-dreamers-believe-vol-1 Dreamers Believe Vol.1
-- شمرونی / A Cold Night
+- شمرونی / A Cold Night https://soundcloud.com/shemroonii/sets/a-cold-night
 - اسلان /  https://soundcloud.com/bpayan/sets/imprecise Imprecise 
 - کائن / تناسخ  https://soundcloud.com/kaenproducer/sets/tanasokh
 
