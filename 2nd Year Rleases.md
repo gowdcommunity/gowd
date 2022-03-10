@@ -50,7 +50,9 @@
 - هیدن / ذوزنقه https://open.spotify.com/album/61ls9EwSwhDuElW9xzyb3M?si=36779e6acfcf41c3
 - امین تی جی / صفر تا صد https://open.spotify.com/album/3giZJ0MHtYvS0vUrDarN80- 
 - پویان اردلان و دارا کی / منوپلی https://www.youtube.com/watch?v=z5LSK8_nAhw 
-- جی جی / آمادئوس 
+- جی جی / آمادئوس
+- پوری / پ  https://open.spotify.com/album/04gIPAcZaE8RsiHlWo84rI?si=TCW_CweAR2acpr9Q8yiWzA
+- منطق / بی کشور https://soundcloud.com/tardastsc/sets/bikeshvar-vol2 
 
 ## مجموعه های بیکلام 		
 - صور و سپهر / جاده ابدی	https://soundcloud.com/marzrecord/sets/etr
