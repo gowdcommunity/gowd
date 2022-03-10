@@ -53,6 +53,7 @@
 - جی جی / آمادئوس
 - پوری / پ  https://open.spotify.com/album/04gIPAcZaE8RsiHlWo84rI?si=TCW_CweAR2acpr9Q8yiWzA
 - منطق / بی کشور https://soundcloud.com/tardastsc/sets/bikeshvar-vol2 
+- مستقل / https://soundcloud.com/mostaqel/sets/darkface Dark Face
 
 ## مجموعه های بیکلام 		
 - صور و سپهر / جاده ابدی	https://soundcloud.com/marzrecord/sets/etr
