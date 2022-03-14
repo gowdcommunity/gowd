@@ -60,7 +60,6 @@
 - فارسی / AWOL		https://soundcloud.com/divarrecords/sets/farsea-awol
 - نجوا / ایثار		https://soundcloud.com/mellistream/sets/najwa-isaar
 - مضراب / نوار گمشده: واوان		https://soundcloud.com/divarrecords/sets/mezrab-lost-tape-vavan
-- مطرب / منتظر	https://soundcloud.com/motrebam/sets/mkmep
 - نکو / آفتاب پرست	https://soundcloud.com/nekootunes/sets/aftabparast
 - شمرونی و مرداس/ 			https://open.spotify.com/album/1Cpf1op4UIKmcaPqQutAU3 Glock 17
 - آلکسی ایوانوویج / جلفا	https://soundcloud.com/alexieivanovich/sets/jolfa
