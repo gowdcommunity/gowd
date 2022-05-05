@@ -30,3 +30,9 @@
 | هنرمند | نام اثر | لینک
 |:----------------:|:----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | پوری | AK46 | <a href="https://youtu.be/o8MsCFwKmGo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| چرسی | آزمایشگاه | <a href="https://youtu.be/ZGwgWpCsliU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| علی تی و علی پاشا | این بَدِه | <a href="https://youtu.be/VNtAW_Np5AQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ایلیا شین | لا پوتا | <a href="https://youtu.be/IdsPAjq2jqg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| پوری | کیلو کیلو | <a href="https://youtu.be/MDmM5XPEo1w"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| هومن | تسویه‌ی قرن | <a href="https://youtu.be/nP_t6uB8AUE"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| یانگ صادن | 23 | <a href="https://www.instagram.com/tv/CcicwBegKh6/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
