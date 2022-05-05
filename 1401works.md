@@ -36,3 +36,11 @@
 | پوری | کیلو کیلو | <a href="https://youtu.be/MDmM5XPEo1w"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | هومن | تسویه‌ی قرن | <a href="https://youtu.be/nP_t6uB8AUE"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | یانگ صادن | 23 | <a href="https://www.instagram.com/tv/CcicwBegKh6/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
+| دلو | دستمال یزدی | <a href="https://youtu.be/JrsYg6By2V4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| 021G | ژن | <a href="https://youtu.be/0DdN7xOSPio"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| امیر ریبار | فری‌استایل رادیواکتیوزون | <a href="https://youtu.be/e7eefX6SpYs"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ایمانمون | واس ما خاطرس (فری‌استایل) | <a href="https://youtu.be/XbS_v3Ca_9I"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ایمانمون، سامی بیگی و جیدال | سایکوناز | <a href="https://youtu.be/m9XYMCRoWqo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| سجادی | فالگیر | <a href="https://youtu.be/1WZF9-5qBHs"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| تهم | کارداشیان | <a href="https://youtu.be/5skJuFUnyaU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| بهزاد لیتو، کچی بیتز و پوتک | ناسا | <a href="https://youtu.be/-R08EWsH4Bo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
