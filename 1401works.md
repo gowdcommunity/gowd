@@ -44,3 +44,8 @@
 | سجادی | فالگیر | <a href="https://youtu.be/1WZF9-5qBHs"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | تهم | کارداشیان | <a href="https://youtu.be/5skJuFUnyaU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | بهزاد لیتو، کچی بیتز و پوتک | ناسا | <a href="https://youtu.be/-R08EWsH4Bo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| سانبوی | مرحبا | <a href="https://youtu.be/bizTQUCoZ6E"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| کیارپ | کارتونیا | <a href="https://youtu.be/yQ4pvOTDar4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| عیهود | عقده‌ای | <a href="https://www.instagram.com/tv/Cbfj5l5unIe/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
+| پوریا ادرویت و کاوه | میباخ | <a href="https://youtu.be/rouJdG8D4iU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| میلاد هانیبال | آزمایشگاه | <a href="https://youtu.be/12YMyTWaIII"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
