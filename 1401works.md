@@ -55,3 +55,54 @@
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک
 |:----------------:|:----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| سزاوار | نِدا | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| 021kid و علی ازا | لب تر کن | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پوری | AK46 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| شرقی | خدافظ | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| مرصاد | دیپلمات | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| گویا | گم کردیم | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| آیسم | زخم | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| آیسم | کرملین | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پوبون و پوتک | اقیانوس | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| چرسی | آزمایشگاه 5 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| چرسی | لیپ | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
