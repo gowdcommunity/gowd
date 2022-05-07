@@ -126,3 +126,9 @@
 | پوریا ادرویت و ایسین | شیشه خرده | <a href="https://soundcloud.com/poriya-adroit/pouriya-adroit-x-eycin_shishe"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | امین تیجی و پوریا | Reset Memory | <a href="https://soundcloud.com/amintijayy/amin-tijay-x-pouria-k-reset"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | کوشان | 336 | <a href="https://open.spotify.com/track/5CYDDUsAuRzmpiqy3Ty4tb?si=3e1773f820ce49f1"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+
+
+### اینسترومنتال‌ها
+| هنرمند | نام اثر | لینک
+|:----------------:|:----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| محمد صالح‌نیا | DeLavAl | <a href="https://soundcloud.com/msnmusic/mohammad-salehnia-delaval"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
