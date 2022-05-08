@@ -85,7 +85,7 @@
 | امیر ریبار | رادیواکتیوزون (فری‌استایل) | <a href="https://open.spotify.com/track/7x6zGXLc79EnxSiUiYednO?si=ec23271fb16c4c97"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | یحیی، تاحر و کارد | موجودی کافی نیست | <a href="https://soundcloud.com/taherflow/mojoudi-kaafi-nist-ft-yahya"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | آرش سرطان و پارسا | Life's Been A Mess | <a href="https://open.spotify.com/track/200evY286lU23Xe342gyTN?si=587dcd951adb4b26"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| ایمانمون | ماس ما خاطرس (فری‌استایل) | <a href="https://open.spotify.com/track/559PXWTvtbMgqnN5cnFSmF?si=6aef62dc6f314c69"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ایمانمون | واس ما خاطرس (فری‌استایل) | <a href="https://open.spotify.com/track/559PXWTvtbMgqnN5cnFSmF?si=6aef62dc6f314c69"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ایمانمون، سامی بیگی و جیدال | سایکوناز | <a href="https://www.radiojavan.com/mp3s/mp3/Imanemun-PsychoNaz-(Ft-Sami-Beigi-Gdaal)"><img src="https://www.radiojavan.com/images/default_fb.png" width="25"></a>
 | سجادی | فالگیر | <a href="https://open.spotify.com/album/0B66MCTLUILTBRERPUJwmR?si=78a4d6dac4444cbb"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | چرسی | ریمیکس ایلیگال | <a href="https://open.spotify.com/track/17KVs45ztUsQSSOdw8QF19?si=c8a2a98e5dfb4111"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
