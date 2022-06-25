@@ -152,6 +152,10 @@
 |:-:|:-:|:-:|
 | میلاد هانیبال و حسین هفت | سر سخت | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | شروین حاجیپور | دائمی | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کیارش | GOAT | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| امیر ریبار | کوکتیل (فری‌استایل) | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کچی بیتز (خشایار اس‌آر) | اِلِلی و استایل | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ناجی | ناجی | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -162,6 +166,19 @@
 | دیگرد و سوال | خزون | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a
 | کیارش و پویا | شباهنگ | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a
 | شروین حاجیپور | دائمی | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a
+| سهراب ام‌جی | پلمپ | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پوزکس | دوست من | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| آئین | آدرس | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ساتراپ، اِیکور و ایزابلا | اگه | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| آروین اِی‌اِف | متر | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| حُسِن و ریکا | 24 | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کیارش | GOAT | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| امیر ریبار | کوکتیل (فری‌استایل) | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کچی بیتز (خشایار اس‌آر) | استایل | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کچی بیتز (خشایار اس‌آر) | اللی | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| نکو | White Porsche | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| دژاک | Nature | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ناجی | ناجی | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ### متفرقه
 | هنرمند | نام اثر | لینک |
