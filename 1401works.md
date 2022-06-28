@@ -164,37 +164,37 @@
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
-| بامداد | آسمون | <a href="https://youtu.be/aTFuoG8SOH8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
-| میلاد هانیبال و حسین هفت | سر سخت | <a href="https://youtu.be/aTFuoG8SOH8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>  | ژودیت | Money and Fame | <a href="https://youtu.be/aTFuoG8SOH8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
-| ایدین وان | WOW | <a href="https://youtu.be/aTFuoG8SOH8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
-| دیگرد و سوال | خزون | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a
-| کیارش و پویا | شباهنگ | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a
-| شروین حاجیپور | دائمی | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a
-| سهراب ام‌جی | پلمپ | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| پوزکس | دوست من | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| آئین | آدرس | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| ساتراپ، اِیکور و ایزابلا | اگه | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| آروین اِی‌اِف | متر | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| حُسِن و ریکا | 24 | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| کیارش | GOAT | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| امیر ریبار | کوکتیل (فری‌استایل) | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| کچی بیتز (خشایار اس‌آر) | استایل | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| کچی بیتز (خشایار اس‌آر) | اللی | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| نکو | White Porsche | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| دژاک | Nature | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| ناجی | ناجی | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| امین تی‌جِی | TBC (Freesryle) | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| سزاوار | قایق کاغذی | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| رایان بدیعی | Gangway | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| مهدی شور | پاکسازی | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| طومار | Hangover | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| حسین هفت | بَرِه بَرِه | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| فورتِم | فنی | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| ایلیا شین | مددی | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| امیر اَتُم | نَسَخ | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| یانگ مو | پژمان | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| پِی بَک | INDOOR | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| اِی‌سین | ژلوفن | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| بامداد | آسمون | <a href="https://open.spotify.com/track/3Nvv5SFpzO1twgQdHzqnuA?si=10b9ad5ee78d48d2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| میلاد هانیبال و حسین هفت | سر سخت | <a href="https://open.spotify.com/track/7rm5NoHnKndoulzOV4jfT0?si=d17dc9abcf9a4d88"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>  
+| ژودیت | Money and Fame | <a href="https://open.spotify.com/track/047cEdEqJjd57hhunriWqy?si=a82edbcfd93043f2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ایدین وان | WOW | <a href="https://open.spotify.com/track/4vuXkt7U5DTpZNBtbt6phc?si=12d8582977584863"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| دیگرد و سوال | خزون | <a href="https://open.spotify.com/track/5LPDTbKGBbsIn1kuErAWs1?si=ee87490b041b4c77"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کیارش و پویا | شباهنگ | <a href="https://open.spotify.com/track/24mirEwoOAT7h0Ukb6j8Hl?si=35fd2ea85b604ba3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| شروین حاجیپور | دائمی | <a href="https://open.spotify.com/track/4FlVdlFuAgY0cWQEpT761J?si=a3059085792247c6"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سهراب ام‌جی | پلمپ | <a href="https://open.spotify.com/track/4yEjoykC0sfd4sPjrY7GeN?si=9be8a8f68d9444c7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پوزکس | دوست من | <a href="https://open.spotify.com/track/5TYJULasgYviBd8CU6YXGR?si=7a92e5e42e3649ce"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آئین | آدرس | <a href="https://open.spotify.com/track/7yFfQrVjeTUBQROE4kM953?si=b184a0fb42b34f19"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ساتراپ، اِیکور و ایزابلا | اگه | <a href="https://open.spotify.com/track/1co5oDtvKlhkiBM1RdJ1qh?si=726fcf8423c14e31"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آروین اِی‌اِف | متر | <a href="https://open.spotify.com/track/35nV4BSgdSOkGPTeji9hlm?si=b5b110e723a44b46"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| حُسِن و ریکا | 24 | <a href="https://open.spotify.com/track/3q7PGvYjNbbmWakqjtWqgl?si=babeae33f9234d40"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کیارش | GOAT | <a href="https://soundcloud.com/dekiarash/g-o-a-t-prod-by-rfm-mehrzvd"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| امیر ریبار | کوکتیل (فری‌استایل) | <a href="https://open.spotify.com/track/1OyhRDiYTrsctccnREKmIn?si=946d26404cb44a0b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کچی بیتز (خشایار اس‌آر) | استایل | <a href="https://open.spotify.com/track/2UWFx3bXQedUVnegxaVtYI?si=b826fcb63f434550"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کچی بیتز (خشایار اس‌آر) | اللی | <a href="https://open.spotify.com/track/0MyLg0lQkOve16lLRCnJgI?si=154d7c6dab734097"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| نکو | White Porsche | <a href="https://open.spotify.com/track/3fv3BdGRZdoK1SMWX5LNoq?si=d5106548776d4af7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ناجی | ناجی | <a href="https://open.spotify.com/track/4y8WNpDchiRfCSYWFP35Pq?si=e3445734ea23479b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| امین تی‌جِی | TBC (Freesryle) | <a href="https://open.spotify.com/track/4f7HM2o6DERkBSYoRjgHSb?si=dd03cc44f7ab41a4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سزاوار | قایق کاغذی | <a href="https://open.spotify.com/track/3bsjN8SAB6esgrMpmoxMqn?si=1da3c534ba034f5e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| رایان بدیعی | Gangway | <a href="https://open.spotify.com/track/7o6sQ6xLBkSXAQSUTfxzaJ?si=022c921a6e9348b4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مهدی شور | پاکسازی | <a href="https://soundcloud.com/metyshour/paaksaazi"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| طومار | Hangover | <a href="https://open.spotify.com/track/0k9B9vTNDiMjqxn2JMLLpU?si=43a4bcdce88e4f5a"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| حسین هفت | بَرِه بَرِه | <a href="https://open.spotify.com/track/7D0DnzZp70bU60GCS9qf2u?si=aa50816e0a924cc0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| فورتِم | فنی | <a href="https://open.spotify.com/track/6basjKRQVu2WSzxUpql6Jc?si=2993a96cf4224fb3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ایلیا شین | مددی | <a href="https://soundcloud.com/iliyashin/madadi"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| امیر اَتُم | نَسَخ | <a href="https://open.spotify.com/track/1uJ1JY0ZUpxn58QWnRyKO1?si=b2a4e445852d48e5"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| یانگ مو | پژمان | <a href="https://soundcloud.com/mhmadhooshmndd/pejman-ft-ag"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پِی بَک | INDOOR | <a href="https://open.spotify.com/track/4u8ydW2N7khqYJv94RQrak?si=80582869742b460c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| اِی‌سین | ژلوفن | <a href="https://open.spotify.com/track/77s1aIY1yybmHkeJVa1N5a?si=8ab4ae2078044513"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | بهداد، رسام،Chit2am | به من میاد | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | لابیت | الماس | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | فرشاد | مست | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
@@ -229,6 +229,7 @@
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | اسدی | FAR FAR AWAY | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| دژاک | Nature | <a href="https://soundcloud.com/zhak-beat/nature"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ### متفرقه
 | هنرمند | نام اثر | لینک |
