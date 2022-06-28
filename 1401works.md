@@ -145,28 +145,28 @@
 ### مجموعه‌ها
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
-| ویشتاسب | خود | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ویشتاسب | خود | <a href="https://soundcloud.com/wishtasb/sets/khod-ep"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ### ویدئوها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
-| میلاد هانیبال و حسین هفت | سر سخت | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| شروین حاجیپور | دائمی | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| کیارش | GOAT | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| امیر ریبار | کوکتیل (فری‌استایل) | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| کچی بیتز (خشایار اس‌آر) | اِلِلی و استایل | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| ناجی | ناجی | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| نسیم و عرفان | 2 دلی | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| چرسی | Flame | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| خلسه و سیجل | لابستر | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| علی اوج | سراب | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| میلاد هانیبال و حسین هفت | سر سخت | <a href="https://youtu.be/zANOvaUfjH4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| شروین حاجیپور | دائمی | <a href="https://youtu.be/kIbFBMm5Ikk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| کیارش | GOAT | <a href="https://www.instagram.com/tv/CdkoJ_Fs1Hp/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
+| امیر ریبار | کوکتیل (فری‌استایل) | <a href="https://youtu.be/ap9gqpyvfjs"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| کچی بیتز (خشایار اس‌آر) | اِلِلی و استایل | <a href="https://youtu.be/UBIb7FAPbBI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ناجی | ناجی | <a href="https://youtu.be/g9--mD67Ji8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| نسیم و عرفان | 2 دلی | <a href="https://youtu.be/KHpM6xDf05Y"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| چرسی | Flame | <a href="https://youtu.be/rcxd-YcnYu0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| خلسه و سیجل | لابستر | <a href="https://youtu.be/B7C8_T7N5a8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| علی اوج | سراب | <a href="https://youtu.be/aTFuoG8SOH8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
-| بامداد | آسمون | <a href="https://soundcloud.com/poriya-adroit/pouriya-adroit-x-eycin_shishe"><img
-| میلاد هانیبال و حسین هفت | سر سخت | <a href="https://soundcloud.com/poriya-adroit/pouriya-adroit-x-eycin_shishe"><img                                               | ژودیت | Money and Fame | <a href="https://soundcloud.com/poriya-adroit/pouriya-adroit-x-eycin_shishe"><img
-| ایدین وان | WOW | <a href="https://soundcloud.com/poriya-adroit/pouriya-adroit-x-eycin_shishe"><img
+| بامداد | آسمون | <a href="https://youtu.be/aTFuoG8SOH8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| میلاد هانیبال و حسین هفت | سر سخت | <a href="https://youtu.be/aTFuoG8SOH8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>  | ژودیت | Money and Fame | <a href="https://youtu.be/aTFuoG8SOH8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ایدین وان | WOW | <a href="https://youtu.be/aTFuoG8SOH8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | دیگرد و سوال | خزون | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a
 | کیارش و پویا | شباهنگ | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a
 | شروین حاجیپور | دائمی | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a
