@@ -195,17 +195,17 @@
 | یانگ مو | پژمان | <a href="https://soundcloud.com/mhmadhooshmndd/pejman-ft-ag"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | پِی بَک | INDOOR | <a href="https://open.spotify.com/track/4u8ydW2N7khqYJv94RQrak?si=80582869742b460c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | اِی‌سین | ژلوفن | <a href="https://open.spotify.com/track/77s1aIY1yybmHkeJVa1N5a?si=8ab4ae2078044513"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| بهداد، رسام،Chit2am | به من میاد | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| لابیت | الماس | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| فرشاد | مست | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| مستر کیارش | کجایی یعنی | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| دنیرو و علی پاشا | یاد من بیفت | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| دِ دان | دورترین عشق | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| ویناک و کَس | اکیپ ما | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| یاسر بینام | می‌گردم دورت | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| 38، کوشا و سارا پیروان | تقصیر منه | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| سینا مافی | یه روز همه رفیقام میرن | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| اپیکور، حصین و سهراب ام‌جی | کُدِکس | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| بهداد، رسام،Chit2am | به من میاد | <a href="https://open.spotify.com/track/3iT0GTNFmZipmWcZMeOTgp?si=85f9973015994758"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| لابیت | الماس | <a href="https://open.spotify.com/track/1mCyDkCrbFMwpopW7s3dFw?si=fea832f26e004cae"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| فرشاد | مست | <a href="https://open.spotify.com/track/25bIFWMJj6aAhunsqoXI1l?si=7d5570a048964ac9"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مستر کیارش | کجایی یعنی | <a href="https://soundcloud.com/imkiarash/mr-kiarash-kojae-yani"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| دنیرو و علی پاشا | یاد من بیفت | <a href="https://open.spotify.com/album/3toswHS7X7HgUK0Akvc9p8?si=6_WpmkdnQemrv8cdyXLp4Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| دِ دان | دورترین عشق | <a href="https://www.radiojavan.com/mp3s/mp3/The-Don-Door-Tarin-Eshgh"><img src="https://www.radiojavan.com/images/default_fb.png" width="25"></a>
+| ویناک و کَس | اکیپ ما | <a href="https://soundcloud.com/i-am-kas/ekip-ma"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| یاسر بینام | می‌گردم دورت | <a href="https://open.spotify.com/track/5nNeW5N24MzujXrBF6J3R8?si=4382a769db2b439d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| 38، کوشا و سارا پیروان | تقصیر منه | <a href="https://open.spotify.com/track/5P2Lqx4uREG2IhIJgyCGuE?si=785a551579af44d7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سینا مافی | یه روز همه رفیقام میرن | <a href="https://www.radiojavan.com/mp3s/mp3/Sina-Mafee-Yerooz-Hame-Refigham-Miran"><img src="https://www.radiojavan.com/images/default_fb.png" width="25"></a>
+| اپیکور، حصین و سهراب ام‌جی | کُدِکس | <a href="https://www.radiojavan.com/mp3s/mp3/EpiCure-Ho3ein-Sohrab-MJ-Kodex"><img src="https://www.radiojavan.com/images/default_fb.png" width="25"></a>
 | آیسم | فیس‌تایم | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | چرسی | Flame | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | حامد فرد و بیگ کروز | پوتلر | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
