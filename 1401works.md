@@ -206,32 +206,27 @@
 | 38، کوشا و سارا پیروان | تقصیر منه | <a href="https://open.spotify.com/track/5P2Lqx4uREG2IhIJgyCGuE?si=785a551579af44d7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | سینا مافی | یه روز همه رفیقام میرن | <a href="https://www.radiojavan.com/mp3s/mp3/Sina-Mafee-Yerooz-Hame-Refigham-Miran"><img src="https://www.radiojavan.com/images/default_fb.png" width="25"></a>
 | اپیکور، حصین و سهراب ام‌جی | کُدِکس | <a href="https://www.radiojavan.com/mp3s/mp3/EpiCure-Ho3ein-Sohrab-MJ-Kodex"><img src="https://www.radiojavan.com/images/default_fb.png" width="25"></a>
-| آیسم | فیس‌تایم | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| چرسی | Flame | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| حامد فرد و بیگ کروز | پوتلر | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| کیث دِ کید و امیر خلوت | سَمِّه | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| مدگل | چرا | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| بامداد | بی بها | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| نیما نیموش، سجاد ریزور و مصیبد | مستند | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| مدگل | چرا (نسخه کُند و ریوِرب) | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| 021کید و آیسم | توفانی | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| جی‌دال و ریچ اِی | بیدارم | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| سانبوی | R.I.P | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| علی اِزا و فِدی | گنگ گنگ نکن | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| خلسه و سیجل | لابستر | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| امیر تتلو | حق | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| علی اِزا و ایلیا | نمی‌تونی | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| پوری | مارگاریتا | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| مدگل | به خود آی | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| 021kid & Ess2Mad | Business Man | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| آیسم | فیس‌تایم | <a href="https://open.spotify.com/track/6OjCsDASisWSCfS2btHbeD?si=178023acc0434417"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| چرسی | Flame | <a href="https://open.spotify.com/track/581OypYElK8mF3Kb1UyJy9?si=2eb503670dda465f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| حامد فرد و بیگ کروز | پوتلر | <a href="https://open.spotify.com/track/2tyAmv9xJUe6ewjv3y0IHE?si=81e30eec88f8454e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کیث دِ کید و امیر خلوت | سَمِّه | <a href="https://open.spotify.com/track/2vuS2Ucfpv4z84Upx5ZPvZ?si=60e064e7b1884fed"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مدگل | چرا | <a href="https://open.spotify.com/track/7BRiMKhZbQ4tSthvf1oL8M?si=5cb6bdde08074ed3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| بامداد | بی بها | <a href="https://open.spotify.com/track/2BKGCnriAZRSjhymO06tas?si=1bcce7214d774627"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| نیما نیموش، سجاد ریزور و مصیبد | مستند | <a href="https://open.spotify.com/track/5hRY1T1z6QW7AaTnuCWIj1?si=d1f28d23ebfd4e1c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مدگل | چرا (نسخه کُند و ریوِرب) | <a href="https://youtu.be/-OMAufoD6Yw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| 021کید و آیسم | توفانی | <a href="https://open.spotify.com/track/3srJxNvkqTSe82qBPmUGeY?si=5a4ab34394d746ec"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جی‌دال و ریچ اِی | بیدارم | <a href="https://open.spotify.com/track/5jUSaNG5hYTLrbfAHlZ2jB?si=ef6db59dfc794173"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سانبوی | R.I.P | <a href="https://open.spotify.com/track/24EObwPvA1WAZWNIAkZUA5?si=507998969f6d4a7e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| علی اِزا و فِدی | گنگ گنگ نکن | <a href="https://youtu.be/6HP2UGW-56s"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| خلسه و سیجل | لابستر | <a href="https://open.spotify.com/track/6HYig8qv7lk97RDfWTY6EV?si=c0471e2e721d4947"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| امیر تتلو | حق | <a href="https://open.spotify.com/track/5dT9DuHXP3TCNU2ykHlGaU?si=d969f6c6ad354c49"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| علی اِزا و ایلیا | نمی‌تونی | <a href="https://open.spotify.com/track/4yZHasTbOBWu6fr0NhjNUc?si=3f1a3b89c6694414"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پوری | مارگاریتا | <a href="https://open.spotify.com/track/72QQ5nAWzWJKxr644ytan8?si=ca850acb798d40b4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مدگل | به خود آی | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| 021kid & Ess2Mad | Business Man | <a href="https://open.spotify.com/track/1Ht3NqvtxKvgJ9POlB0f9T?si=d42164281f4f411f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
-| اسدی | FAR FAR AWAY | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| اسدی | FAR FAR AWAY | <a href="https://open.spotify.com/track/62lZQ9vEf7dT1A32xA6NjI?si=4f23b5eb4876426e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | دژاک | Nature | <a href="https://soundcloud.com/zhak-beat/nature"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-
-### متفرقه
-| هنرمند | نام اثر | لینک |
-|:-:|:-:|:-:|
-| ویشتاسب | خود | <a href="https://soundcloud.com/user-358327841/21-68-ft-eycin"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
