@@ -245,6 +245,7 @@
 |:-:|:-:|:-:|
 | کولی | آدم زیادی | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | الهام | رقص خاکستر | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ایمانمون | بایپولار | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ### مجموعه‌های بی‌کلام
 | هنرمند | نام مجموعه | لینک |
@@ -278,7 +279,9 @@
 | گویا | غلط گیر | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | یانگ صادن | فردا | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | ویناک | کالیبر 9 | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| عرفان و اسدی | ای دل | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a
 
+  
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
@@ -356,7 +359,12 @@
 | پارسالیپ | HighamRooCoc | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | جی‌دال، پارسا سیمپسون و لوکی | Lottery1 | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | سیجل، بهزاد لیتو و خلسه | شل کن | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a
-  
+| مهیار | بیشتر از همیشه | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a
+| 021کید | کاکا سنگی | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a
+| آرش سرطان و بیزار | We Don't Give A Fuck | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a
+| عرفان و اسدی | ای دل | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| مهراد هیدن | شنبه (ورژن آلترناتیو) | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پوبون و میلانو | فندی | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
