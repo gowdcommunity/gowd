@@ -271,6 +271,13 @@
 | ویناک | Bloody Street | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | دورچی | PAINFUL LOVE | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | امیر ثانیه | پرواز | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| 021جی و شایان اشراقی | یه جا دیگه | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| بابک تیغه | متروپل | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| حسین هفت | Laeb (Game) | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ناجی | توکا | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| گویا | غلط گیر | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| یانگ صادن | فردا | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ویناک | کالیبر 9 | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -319,9 +326,40 @@
 | امیر ثانیه | پرواز | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | جی‌دال، عرفان، سامی بیگی و مدگل | حالا نه | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | نثر | Fancy Girl | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-
+| دال | اصل 154 (روایت شخصی) | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| 021جی و شایان اشراقی | یه جا دیگه | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کابوس | میدوام دنبالت | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سنیور | بده بزنیم بریم | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| مسین و بی‌بال | لقمه | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سوال و دیگرد | تک گل | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| شرقی | GodShot | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| نیما نیموش | تمام | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| 021کید و جی لارج | Live My Life | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| حسین هفت | Laeb (Game) | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پاپا بویز | فرمولاسیون | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سهراب ام‌جی، مهراد هیدن، کچی بیتز و علی اردوان | میام روی خطت | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| بابک تیغه | متروپل | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| حیدر | شنی السالفه؟ | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ناجی | توکا | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| وطنی و مات | یه روز دیگه | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| گویا | غلط گیر | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| یانگ صادن | فردا | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| اسمین | با سر | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پوریا (مرز) | در گوشی | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ویناک | کالیبر 9 | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سینا ساعی | می‌خوام پارک کنم قایقمو رو یاتم | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| آیسم | Obsessed (Freestyle) | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پایا، محراب نابی و آرسیدی | دِرِیل | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| آرش سرطان و امین تی جی | Trendsetter | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| امیر تتلو | شیطان | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| یاس | بیم | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پارسالیپ | HighamRooCoc | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| جی‌دال، پارسا سیمپسون و لوکی | Lottery1 | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سیجل، بهزاد لیتو و خلسه | شل کن | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a
+  
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | حکم | Untitled | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | امیر لواسانی | TiTan | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کائن | Surfeit | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
