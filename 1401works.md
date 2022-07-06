@@ -234,8 +234,6 @@
 
 ## خرداد
 - [مجموعه‌ها](#مجموعهها)
-- [مجموعه‌های بی‌کلام](#مجموعههای-بیکلام)
-- [مجموعه‌های همکاری](#مجموعههای-همکاری)
 - [ویدئوها](#ویدئوها)
 - [تک آهنگ‌ها](#تک-آهنگها)
 - [اینسترومنتال‌ها](#اینسترومنتالها)
@@ -243,54 +241,44 @@
 ### مجموعه‌ها
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
-| کولی | آدم زیادی | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| الهام | رقص خاکستر | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| ایمانمون | بایپولار | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-
-### مجموعه‌های بی‌کلام
-| هنرمند | نام مجموعه | لینک |
-|:-:|:-:|:-:|
-
-
-### مجموعه‌های همکاری
-| هنرمند | نام اثر | لینک |
-|:-:|:-:|:-:|
-
+| کولی | آدم زیادی | <a href="https://soundcloud.com/kolifarsi/sets/adame-ziadi"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| الهام | رقص خاکستر | <a href="https://open.spotify.com/album/7ESJPddGhqDNbeWcHKlygF?si=c9-i9knvROG5sK3nKTBn1Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ایمانمون | بایپولار | <a href="https://www.radiojavan.com/mp3s/album/Imanemun-Bipolar"><img src="https://www.radiojavan.com/images/default_fb.png" width="25"></a>
 
 ### ویدئوها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
-| کوروش، آرتا و خلسه | فنا | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| شایع | اینترو آماده باش | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کوروش، آرتا و خلسه | فنا | <a href="https://youtu.be/qmVpyIX0atc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| شایع | اینترو آماده باش | <a href="https://youtu.be/aDNg9qcVFQg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | ویناک | اربابی | <a href="https://youtu.be/Gn0EZgDDEiw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
-| جهش و چرسی | عجیبن | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| سینا قیام | بچه پر رو | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| شهرام تنسی | بی‌قانونا | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| امین تی جی | بده بره | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| راعی | تمیز | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| بهداد | کارت پستال | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| ویناک | Bloody Street | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| دورچی | PAINFUL LOVE | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| امیر ثانیه | پرواز | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| 021جی و شایان اشراقی | یه جا دیگه | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| بابک تیغه | متروپل | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| حسین هفت | Laeb (Game) | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| ناجی | توکا | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| گویا | غلط گیر | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| یانگ صادن | فردا | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| ویناک | کالیبر 9 | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| عرفان و اسدی | ای دل | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a
+| جهش و چرسی | عجیبن | <a href="https://youtu.be/wNEL6S4JGMg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| سینا قیام | بچه پر رو | <a href="https://youtu.be/gR55xGIlDkw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| شهرام تنسی و لشگر | بی‌قانونا | <a href="https://youtu.be/ehPyvm9iLGk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| امین تی جی | بده بره | <a href="https://youtu.be/NUVrhHDt6K8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| راعی | تمیز | <a href="https://youtu.be/fibK7PGRlNE"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| بهداد | کارت پستال | <a href="https://youtu.be/lFXfBPRDhBQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ویناک | Bloody Street | <a href="https://youtu.be/aIC3XtKhtvA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| دورچی | PAINFUL LOVE | <a href="https://youtu.be/Nt7YFFu8kOo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| امیر ثانیه | پرواز | <a href="https://youtu.be/O1WKBXLvi60"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| 021جی و شایان اشراقی | یه جا دیگه | <a href="https://youtu.be/b3i1lyPwZfA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| بابک تیغه | متروپل | <a href="https://www.instagram.com/tv/CeQsCXrlsCx/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
+| حسین هفت | Laeb (Game) | <a href="https://youtu.be/Ay2WuF7JUTQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ناجی | توکا | <a href="https://youtu.be/RoXPPnrNR04"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| گویا | غلط گیر | <a href="https://youtu.be/m4vz1b7z4QY"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| یانگ صادن | فردا | <a href="https://youtu.be/f1nlynQViXM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ویناک | کالیبر 9 | <a href="https://youtu.be/vFlBuZ5PtbU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| عرفان و اسدی | ای دل | <a href="https://youtu.be/RpkugHpk_mw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a
 
   
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
-| کوروش، آرتا و خلسه | فنا | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| عیهود | قاطی ما | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| دِ دان و پویان جی‌سی | آدمکا | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| امیر تتلو | بهشت | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| خلسه | همبستگی | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| هیپ‌هاپولوژیست | بکس سروش | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کوروش، آرتا و خلسه | فنا | <a href="https://open.spotify.com/track/5pssOw6VltJ1AZJH5rfOYx?si=d000e2d65e84497f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| عیهود | قاطی ما | <a href="https://open.spotify.com/track/2saGbIj7kx1vCMZpWso6Gf?si=4457d170c1914c4c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| دِ دان و پویان جی‌سی | آدمکا | <a href="https://www.radiojavan.com/mp3s/mp3/Pooyan-JC-The-Don-Adamaka"><img src="https://www.radiojavan.com/images/default_fb.png" width="25"></a>
+| امیر تتلو | بهشت | <a href="https://open.spotify.com/track/1P61Rc9rrCEg5q9ijy1BOc?si=b07129cd9a7a432b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| خلسه | همبستگی | <a href="https://open.spotify.com/track/6rQSvYjrh03Rtd8BgO4PnY?si=5499fc5112e64130"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| هیپ‌هاپولوژیست | بکس سروش | <a href="https://open.spotify.com/track/2mBLmta6TErcomMV0Nn2ct?si=feda7980c1ce4d1e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | شایع | اینترو آماده باش | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | امین تی جی | بده بره | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | مهشاد و مستر کیارش | Missed Call | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
@@ -365,6 +353,7 @@
 | عرفان و اسدی | ای دل | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | مهراد هیدن | شنبه (ورژن آلترناتیو) | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | پوبون و میلانو | فندی | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
