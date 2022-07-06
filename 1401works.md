@@ -279,15 +279,14 @@
 | امیر تتلو | بهشت | <a href="https://open.spotify.com/track/1P61Rc9rrCEg5q9ijy1BOc?si=b07129cd9a7a432b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | خلسه | همبستگی | <a href="https://open.spotify.com/track/6rQSvYjrh03Rtd8BgO4PnY?si=5499fc5112e64130"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | هیپ‌هاپولوژیست | بکس سروش | <a href="https://open.spotify.com/track/2mBLmta6TErcomMV0Nn2ct?si=feda7980c1ce4d1e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| شایع | اینترو آماده باش | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| امین تی جی | بده بره | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| مهشاد و مستر کیارش | Missed Call | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| سنیور و رضا عرب‌نژاد | کارما | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| جهش و چرسی | عجیبن | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| شروین حاجی‌پور | به دنیا نمیدمش | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| سینا قیام | بچه پر رو | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| دلو | جزمین | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| پی بک | صد و ده | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| شایع | اینترو آماده باش | <a href="https://open.spotify.com/track/5XSj3Dke19hKkmOYp1Jypk?si=a2012551af5f470b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| امین تی جی | بده بره | <a href="https://open.spotify.com/track/4LKQKWlQljSDAhljHkVld5?si=bc3ba797a55d416f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مهشاد و مستر کیارش | Missed Call | <a href="https://soundcloud.com/imkiarash/mahshaad-ft-mr-kiarash-missed-call"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سنیور و رضا عرب‌نژاد | کارما | <a href="https://soundcloud.com/user-358327841/karma-x-rezabnd"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| شروین حاجی‌پور | به دنیا نمیدمش | <a href="https://open.spotify.com/track/6gQOh4Glv3p4NfckDP29Tb?si=67ed4c843c20427e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سینا قیام | بچه پر رو | <a href="https://open.spotify.com/track/1syqLQhj9SGSuIVizsQkvJ?si=35bd7fab787b4f45"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| دلو | جزمین | <a href="https://open.spotify.com/track/1JCCSflQL8pS0T3CUkD9en?si=fb1b6e0ee1434015"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پی بک | صد و ده | <a href="https://open.spotify.com/track/5mVFQNoCjwPyoKPbOD7TPc?si=2fe2a83999a64bc3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | امیر اسپار | الله اکبر | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | کیارش، پوریا و پرهام | قفلی | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | شهرام تنسی | بی‌قانونا | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
