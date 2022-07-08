@@ -287,27 +287,26 @@
 | سینا قیام | بچه پر رو | <a href="https://open.spotify.com/track/1syqLQhj9SGSuIVizsQkvJ?si=35bd7fab787b4f45"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | دلو | جزمین | <a href="https://open.spotify.com/track/1JCCSflQL8pS0T3CUkD9en?si=fb1b6e0ee1434015"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | پی بک | صد و ده | <a href="https://open.spotify.com/track/5mVFQNoCjwPyoKPbOD7TPc?si=2fe2a83999a64bc3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| امیر اسپار | الله اکبر | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| کیارش، پوریا و پرهام | قفلی | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| شهرام تنسی | بی‌قانونا | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| داراب | Numb | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| اِلون | پیدا | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| جریان و علی پاشا | سفید برفی | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| اسمین | فک | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| آبان، آرتیست و مرداس | Grey | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| امین تی جی و تیِم | ایلان ماسک | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| سنیور | Suicide | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| بهداد | کارت پستال | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| انسیگان | پورشه (فری‌استایل) | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| آریوژ | بِسمِل | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| سالک | اجاره نشین (بازسازی شده) | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| سیناب | گوچی | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| راوی و سام | رویا | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| شایع و امتداد | خود درگیر | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| آروین اِی اِف | جوجو | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| تس | حضور | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| ویناک | Bloody Street | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| دورچی | PAINFUL LOVE | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| امیر اسپار | الله اکبر | <a href="https://soundcloud.com/user-996469258/allaho-akbar-x-roohi"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کیارش، پوریا و پرهام | قفلی | <a href="https://soundcloud.com/dekiarash/ghofli-kiara-h-x-pouriya-k-x"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| داراب | Numb | <a href="https://soundcloud.com/darabhiphop/numb-3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| اِلون | پیدا | <a href="https://soundcloud.com/alonhiphop/peyda"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| جریان و علی پاشا | سفید برفی | <a href="https://open.spotify.com/track/4HhtgBVHmbzlmSS7TeBfQo?si=33a2a37ecd334b04"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| اسمین | فک | <a href="https://soundcloud.com/user-775219771/fak"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| آبان، آرتیست و مرداس | Grey | <a href="https://soundcloud.com/eightvioletdreams/grey-aban-x-rtist-x-marda"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| امین تی جی و تیِم | ایلان ماسک | <a href="https://open.spotify.com/track/6oKN67imUR8bbzRwwo15Z5?si=41899bb2542547f1"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سنیور | Suicide | <a href="https://soundcloud.com/user-358327841/suicide"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| بهداد | کارت پستال | <a href="https://soundcloud.com/user-134690757-226539417/card-postal"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| انسیگان | پورشه (فری‌استایل) | <a href="https://soundcloud.com/ensigan/freestyle-porsche-ensigan"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| آریوژ | بِسمِل | <a href="https://open.spotify.com/track/4ZXmsXr6Ne1igtjjj5lfPy?si=5f2aa54c59ae47dd"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سالک | اجاره نشین (بازسازی شده) | <a href="https://open.spotify.com/album/11zGF9ZDaAab0DXw1CGm57?si=f23e6115991a4831"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سیناب | گوچی | <a href="https://open.spotify.com/track/23RXeLAPJADQTmAaulUEUA?si=ecc244b533e24fcc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| راوی و سام | رویا | <a href="https://soundcloud.com/navid-ravi/roya-prod-faghan"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| شایع و امتداد | خود درگیر | <a href="https://open.spotify.com/track/2aqPdMdVL1gtMDUKPH6IxR?si=693fd8bb92e94209"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آروین اِی اِف | جوجو (فری‌استایل) | <a href="https://open.spotify.com/track/7CBUzzREXspmJhZCPbuNLi?si=3151babb5efb46d9"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تس | حضور | <a href="https://open.spotify.com/track/2dnAkUhZwq4kq3UCIRXhZV?si=b2d3f1430ec44e09"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ویناک | Bloody Street | <a href="https://open.spotify.com/track/4SWJm5mL5QhwMp8MDy1VSC?si=0bfbcc66f7cd4b67"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| دورچی | PAINFUL LOVE | <a href="https://open.spotify.com/track/5rEpcRDZCuPwAhTkSllot7?si=3d1d1226b8ef4d99"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | امیر ریبار | هیته کی | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | مستر کیارش | Babe Babe Babe | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | رضا اودین و اِی جی کِی | تگزاس | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
