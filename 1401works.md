@@ -307,44 +307,43 @@
 | تس | حضور | <a href="https://open.spotify.com/track/2dnAkUhZwq4kq3UCIRXhZV?si=b2d3f1430ec44e09"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ویناک | Bloody Street | <a href="https://open.spotify.com/track/4SWJm5mL5QhwMp8MDy1VSC?si=0bfbcc66f7cd4b67"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | دورچی | PAINFUL LOVE | <a href="https://open.spotify.com/track/5rEpcRDZCuPwAhTkSllot7?si=3d1d1226b8ef4d99"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| امیر ریبار | هیته کی | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| مستر کیارش | Babe Babe Babe | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| رضا اودین و اِی جی کِی | تگزاس | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| P.I.A | W8 (Freestyle) | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| سایه | خانواده | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| امیر ثانیه | پرواز | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| جی‌دال، عرفان، سامی بیگی و مدگل | حالا نه | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| نثر | Fancy Girl | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| دال | اصل 154 (روایت شخصی) | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| 021جی و شایان اشراقی | یه جا دیگه | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| کابوس | میدوام دنبالت | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| سنیور | بده بزنیم بریم | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| مسین و بی‌بال | لقمه | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| سوال و دیگرد | تک گل | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| شرقی | GodShot | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| نیما نیموش | تمام | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| 021کید و جی لارج | Live My Life | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| حسین هفت | Laeb (Game) | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| پاپا بویز | فرمولاسیون | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| سهراب ام‌جی، مهراد هیدن، کچی بیتز و علی اردوان | میام روی خطت | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| بابک تیغه | متروپل | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| حیدر | شنی السالفه؟ | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| ناجی | توکا | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| وطنی و مات | یه روز دیگه | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| گویا | غلط گیر | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| یانگ صادن | فردا | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| اسمین | با سر | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| پوریا (مرز) | در گوشی | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| ویناک | کالیبر 9 | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| سینا ساعی | می‌خوام پارک کنم قایقمو رو یاتم | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| آیسم | Obsessed (Freestyle) | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| پایا، محراب نابی و آرسیدی | دِرِیل | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| آرش سرطان و امین تی جی | Trendsetter | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| امیر تتلو | شیطان | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| یاس | بیم | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| پارسالیپ | HighamRooCoc | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| جی‌دال، پارسا سیمپسون و لوکی | Lottery1 | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| سیجل، بهزاد لیتو و خلسه | شل کن | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a
+| امیر ریبار | هیته کی | <a href="https://open.spotify.com/track/3KpNKAwCGNNtJYCAlHoXTQ?si=7eb68981687745b4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مستر کیارش | Babe Babe Babe | <a href="https://soundcloud.com/imkiarash/mr-kiarash-babe-babe-babe"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| رضا اودین و اِی جی کِی | تگزاس | <a href="https://soundcloud.com/rezaodin/texas-x-ag"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| P.I.A | W8 (Freestyle) | <a href="https://open.spotify.com/track/5KWHmvKY2wdrjpvRRH1sP0?si=8535e4dd3ffd48e3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سایه | خانواده | <a href="https://open.spotify.com/track/67FsZP3hpRTz9Db8C9nYq0?si=148352e8edac4a88"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جی‌دال، عرفان، سامی بیگی و مدگل | حالا نه | <a href="https://youtu.be/U8D7q1i5QuI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| نثر | Fancy Girl | <a href="https://open.spotify.com/track/4XQgf1txUyfzaMk2ltS0Np?si=43e3364967704fe2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| دال | اصل 154 (روایت شخصی) | <a href="https://soundcloud.com/daalroostaii/154a1"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| 021جی و شایان اشراقی | یه جا دیگه | <a href="https://open.spotify.com/track/07k6xThtJfN1uAjoWqVaJ2?si=af19d15cf89b42a4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کابوس | میدوام دنبالت | <a href="https://open.spotify.com/track/4FnOxel01BMwZD3SaPsz27?si=3ae4597cd1ef40db"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سنیور | بده بزنیم بریم | <a href="https://soundcloud.com/user-358327841/bbb"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| مسین و بی‌بال | لقمه | <a href="https://open.spotify.com/track/2WiLoZgR7Hrl3QyBYW89b8?si=245094b548e147d7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سوال و دیگرد | تک گل | <a href="https://open.spotify.com/track/17fcV73CKkEhjTGP9FKqlY?si=5dca09542aa64761"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| شرقی | GodShot | <a href="https://open.spotify.com/track/7nR6vzQdvh357gZvqmkrfX?si=a25e66f43dfa4035"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| نیما نیموش | تمام | <a href="https://open.spotify.com/track/4djviHaQVObeI7OAXJ1urT?si=5bebf12948274da9"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| 021کید و جی لارج | Live My Life | <a href="https://open.spotify.com/track/6GAhccd8Gy57sGPvOgZJKP?si=a02b08bf290a4d7e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| حسین هفت | Laeb (Game) | <a href="https://soundcloud.com/haftofficial/leab"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پاپا بویز | فرمولاسیون | <a href="https://open.spotify.com/track/4bJNoJmFu5vMGv6V2EsdNQ?si=07f19da393154eed"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سهراب ام‌جی، مهراد هیدن، کچی بیتز و علی اردوان | میام روی خطت | <a href="https://youtu.be/zpw_45VlWQg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| بابک تیغه | متروپل | <a href="https://soundcloud.com/babak-rostami-50723092/metropol-freestyle-mp3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| حیدر | شنی السالفه؟ | <a href="https://youtu.be/iW_V9tjn-ak"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ناجی | توکا | <a href="https://open.spotify.com/track/2yzExtvmQAzhCsc25KUxs1?si=b092690951164679"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| وطنی و مات | یه روز دیگه | <a href="https://open.spotify.com/track/5Fea8dVmtMdC3EN4hHmN6L?si=371163ccdf7b4350"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| گویا | غلط گیر | <a href="https://open.spotify.com/track/1uwIoH5aXYEMlVbarPVCVJ?si=25ec5d024c864de2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| یانگ صادن | فردا | <a href="https://open.spotify.com/track/6vA7stnvr5WhYqqaS9R12R?si=8d929caf76bd4b37"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| اسمین | با سر | <a href="https://soundcloud.com/user-775219771/ba-sar"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پوریا (مرز) | در گوشی | <a href="https://open.spotify.com/track/3V37XlXvCd64VAD8nCMLf8?si=c81a73122bcc4c96"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ویناک | کالیبر 9 | <a href="https://open.spotify.com/track/08E9BmaNV3ZjA0BPdZzd32?si=ad50760095ea4945"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سینا ساعی | می‌خوام پارک کنم قایقمو رو یاتم | <a href="https://open.spotify.com/track/0k2VHbWQAMmeJZXM1TMrPh?si=f13e6f28e55145de"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آیسم | Obsessed (Freestyle) | <a href="https://open.spotify.com/track/5TCs85N6BguAFD1rwC5r9e?si=a271be8ca92d4c39"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پایا، محراب نابی و آرسیدی | دِرِیل | <a href="https://open.spotify.com/track/2CBWC7C5eWnoj3hu8ay7cx?si=0475e481dc174f11"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آرش سرطان و امین تی جی | Trendsetter | <a href="https://open.spotify.com/track/6JHKfB7q4JZ1jk7zE7kLr8?si=049ef05a7fb649af"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| امیر تتلو | شیطان | <a href="https://open.spotify.com/album/509mTxG15G6xUGBWnHdWIb?si=11ef10959b5e4a2d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| یاس | بیم | <a href="https://open.spotify.com/track/0lwbUHpym90RNfmqSXPZp5?si=902ffed223d14ce9"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پارسالیپ | HighamRooCoc | <a href="https://open.spotify.com/track/3fETfUebTahGVag0NcMQRu?si=bb040e926e2d4cc8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جی‌دال، پارسا سیمپسون و لوکی | Lottery1 | <a href="https://open.spotify.com/track/7MdSqtxq9lQAgDGJOO9Ol3?si=2020f3cfd5e74002"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سیجل، بهزاد لیتو و خلسه | شل کن | <a href="https://open.spotify.com/track/3C0s9QOAKOU6lUCh7nCVUT?si=6b4c4bb84c814ae1"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a
 | مهیار | بیشتر از همیشه | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a
 | 021کید | کاکا سنگی | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a
 | آرش سرطان و بیزار | We Don't Give A Fuck | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a
