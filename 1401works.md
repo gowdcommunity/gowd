@@ -2,7 +2,8 @@
 - [فروردین](#فروردین)
 - [اردیبهشت](#اردیبهشت)
 - [خرداد](#خرداد)
-- 
+- [تیر](#تیر)
+
 ## فروردین
 - [مجموعه‌ها](#مجموعهها)
 - [مجموعه‌های بی‌کلام](#مجموعههای-بیکلام)
@@ -10,6 +11,7 @@
 - [ویدئوها](#ویدئوها)
 - [تک آهنگ‌ها](#تک-آهنگها)
 - [اینسترومنتال‌ها](#اینسترومنتالها)
+
 ### مجموعه‌ها
 | هنرمند           | نام مجموعه    | لینک                                                                                                                                                                                   |
 |:----------------:|:----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
@@ -357,3 +359,66 @@
 | حکم | Untitled | <a href="https://soundcloud.com/hokm/untitled"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | امیر لواسانی | TiTan | <a href="https://open.spotify.com/track/02zNoHYxIIVC5nhEqtjNH3?si=675e0d367e324228"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | کائن | Surfeit | <a href="https://soundcloud.com/kaenproducer/surfeit-prod-kaen"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+
+
+## تیر
+- [مجموعه‌ها](#مجموعهها)
+- [مجموعه‌های بی‌کلام](#مجموعههای-بیکلام)
+- [مجموعه‌های همکاری](#مجموعههای-همکاری)
+- [ویدئوها](#ویدئوها)
+- [تک آهنگ‌ها](#تک-آهنگها)
+- [اینسترومنتال‌ها](#اینسترومنتالها)
+
+### مجموعه‌ها
+| هنرمند | نام مجموعه | لینک |
+|:-:|:-:|:-:|
+| پوبون و میلانو | فندی | <a href="https://open.spotify.com/track/03kRClVw6BNKerM2cybuFC?si=affde90994394d9d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+
+### مجموعه‌های بی‌کلام
+| هنرمند | نام مجموعه | لینک |
+|:-:|:-:|:-:|
+| پوبون و میلانو | فندی | <a href="https://open.spotify.com/track/03kRClVw6BNKerM2cybuFC?si=affde90994394d9d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+
+### مجموعه‌های همکاری
+| هنرمند | نام مجموعه | لینک |
+|:-:|:-:|:-:|
+| پوبون و میلانو | فندی | <a href="https://open.spotify.com/track/03kRClVw6BNKerM2cybuFC?si=affde90994394d9d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+
+### ویدئوها
+| هنرمند | نام اثر | لینک |
+|:-:|:-:|:-:|
+| جاستینا و توماج | پیچک | <a href="https://open.spotify.com/track/03kRClVw6BNKerM2cybuFC?si=affde90994394d9d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| دِ آریا | 444 | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| زمانی | جنوب شهر | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پوری | ماما | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تورج پارازیت | لِه | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پرشام و رودز | مازندریل | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+
+### تک آهنگ‌ها
+| هنرمند | نام اثر | لینک |
+|:-:|:-:|:-:|
+| نیکوتین | روایت | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جاستینا و توماج | شلاق | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جاستینا و توماج | پیچک | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ارشیا | هواخوری | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| بامداد | محله | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| دِ آریا | 444 | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کاوه فارد | باید حالیم شه | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کائن | سرنوشت | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| زمانی | جنوب شهر | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تیِم و ویناک | به شما چی؟ | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| چرسی | بوف | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| بهداد | همون پسره | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| هومان | فکر میکنه تنهاست | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پوری | ماما | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تورج پارازیت | لِه | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پرشام و رودز | مازندریل | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| عرفام | Unfair | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سینک فایو و فورتم | Trap House | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کاوه فارد | ستاره بازی | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| شروین حاجیپور | تلفن | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+
+### اینسترومنتال‌ها
+| هنرمند | نام اثر | لینک |
+|:-:|:-:|:-:|
+| رودی | کتک | <a href="https://open.spotify.com/track/03kRClVw6BNKerM2cybuFC?si=affde90994394d9d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
