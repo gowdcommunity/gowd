@@ -393,6 +393,7 @@
 | پوری | ماما | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | تورج پارازیت | لِه | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | پرشام و رودز | مازندریل | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جی‌دال | 7th of July | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -417,6 +418,11 @@
 | سینک فایو و فورتم | Trap House | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | کاوه فارد | ستاره بازی | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | شروین حاجیپور | تلفن | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تهی، تتلو، حصین و پیشرو | حله | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ویسکی و سمی لو | برفای خاکستری | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| 30کاس و آرما | Skadi | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جی‌دال | 7th of July | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| فرید | پایمال | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
