@@ -343,17 +343,17 @@
 | یاس | بیم | <a href="https://open.spotify.com/track/0lwbUHpym90RNfmqSXPZp5?si=902ffed223d14ce9"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | پارسالیپ | HighamRooCoc | <a href="https://open.spotify.com/track/3fETfUebTahGVag0NcMQRu?si=bb040e926e2d4cc8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | جی‌دال، پارسا سیمپسون و لوکی | Lottery1 | <a href="https://open.spotify.com/track/7MdSqtxq9lQAgDGJOO9Ol3?si=2020f3cfd5e74002"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| سیجل، بهزاد لیتو و خلسه | شل کن | <a href="https://open.spotify.com/track/3C0s9QOAKOU6lUCh7nCVUT?si=6b4c4bb84c814ae1"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a
-| مهیار | بیشتر از همیشه | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a
-| 021کید | کاکا سنگی | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a
-| آرش سرطان و بیزار | We Don't Give A Fuck | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a
-| عرفان و اسدی | ای دل | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| مهراد هیدن | شنبه (ورژن آلترناتیو) | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| پوبون و میلانو | فندی | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سیجل، بهزاد لیتو و خلسه | شل کن | <a href="https://open.spotify.com/track/3C0s9QOAKOU6lUCh7nCVUT?si=6b4c4bb84c814ae1"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مهیار | بیشتر از همیشه | <a href="https://open.spotify.com/track/6ZzKZdvgyqs6Z3EkBR5PUn?si=a9e4302f335a4f96"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| 021کید | کاکا سنگی (فری‌استایل) | <a href="https://open.spotify.com/track/3PlhUhBzZcoGFxP2zmbRIN?si=83444057495e4d10"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آرش سرطان و بیزار | We Don't Give A Fuck | <a href="https://open.spotify.com/track/4Ejmf9RSAYm8PqbFVGGYR6?si=9d8ad17e23194bee"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| عرفان و اسدی | ای دل | <a href="https://open.spotify.com/track/6xqDJwKqO1Thsfti5VZViW?si=d613f79ccde546d1"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مهراد هیدن | شنبه (ورژن آلترناتیو) | <a href="https://open.spotify.com/track/4tW0Q7ZqNNUAHYndt8GKDf?si=0eedfc6e0ebc4e01"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پوبون و میلانو | فندی | <a href="https://open.spotify.com/track/03kRClVw6BNKerM2cybuFC?si=affde90994394d9d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
-| حکم | Untitled | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| امیر لواسانی | TiTan | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| کائن | Surfeit | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| حکم | Untitled | <a href="https://soundcloud.com/hokm/untitled"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| امیر لواسانی | TiTan | <a href="https://open.spotify.com/track/02zNoHYxIIVC5nhEqtjNH3?si=675e0d367e324228"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کائن | Surfeit | <a href="https://soundcloud.com/kaenproducer/surfeit-prod-kaen"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
