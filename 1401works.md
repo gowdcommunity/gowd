@@ -140,10 +140,10 @@
 | محمد صالح‌نیا | DeLavAl | <a href="https://soundcloud.com/msnmusic/mohammad-salehnia-delaval"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ## اردیبهشت
-- [مجموعه‌ها](#مجموعهها)
-- [ویدئوها](#ویدئوها)
-- [تک آهنگ‌ها](#تک-آهنگها)
-- [اینسترومنتال‌ها](#اینسترومنتالها)
+- [مجموعه‌ها](#مجموعهها-1)
+- [ویدئوها](#ویدئوها-1)
+- [تک آهنگ‌ها](#تک-آهنگها-1)
+- [اینسترومنتال‌ها](#اینسترومنتالها-1)
 
 ### مجموعه‌ها
 | هنرمند | نام مجموعه | لینک |
@@ -235,10 +235,10 @@
 | دژاک | Nature | <a href="https://soundcloud.com/zhak-beat/nature"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ## خرداد
-- [مجموعه‌ها](#مجموعهها)
-- [ویدئوها](#ویدئوها)
-- [تک آهنگ‌ها](#تک-آهنگها)
-- [اینسترومنتال‌ها](#اینسترومنتالها)
+- [مجموعه‌ها](#مجموعهها-2)
+- [ویدئوها](#ویدئوها-2)
+- [تک آهنگ‌ها](#تک-آهنگها-2)
+- [اینسترومنتال‌ها](#اینسترومنتالها-2)
 
 ### مجموعه‌ها
 | هنرمند | نام مجموعه | لینک |
@@ -269,7 +269,7 @@
 | گویا | غلط گیر | <a href="https://youtu.be/m4vz1b7z4QY"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | یانگ صادن | فردا | <a href="https://youtu.be/f1nlynQViXM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | ویناک | کالیبر 9 | <a href="https://youtu.be/vFlBuZ5PtbU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
-| عرفان و اسدی | ای دل | <a href="https://youtu.be/RpkugHpk_mw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a
+| عرفان و اسدی | ای دل | <a href="https://youtu.be/RpkugHpk_mw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
   
 ### تک آهنگ‌ها
@@ -362,12 +362,12 @@
 
 
 ## تیر
-- [مجموعه‌ها](#مجموعهها)
-- [مجموعه‌های بی‌کلام](#مجموعههای-بیکلام)
-- [مجموعه‌های همکاری](#مجموعههای-همکاری)
-- [ویدئوها](#ویدئوها)
-- [تک آهنگ‌ها](#تک-آهنگها)
-- [اینسترومنتال‌ها](#اینسترومنتالها)
+- [مجموعه‌ها](#مجموعهها-3)
+- [مجموعه‌های بی‌کلام](#مجموعههای-بیکلام-1)
+- [مجموعه‌های همکاری](#مجموعههای-همکاری-1)
+- [ویدئوها](#ویدئوها-3)
+- [تک آهنگ‌ها](#تک-آهنگها-3)
+- [اینسترومنتال‌ها](#اینسترومنتالها-3)
 
 ### مجموعه‌ها
 | هنرمند | نام مجموعه | لینک |
