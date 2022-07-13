@@ -387,45 +387,43 @@
 ### ویدئوها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
-| جاستینا و توماج | پیچک | <a href="https://open.spotify.com/track/03kRClVw6BNKerM2cybuFC?si=affde90994394d9d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| دِ آریا | 444 | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| زمانی | جنوب شهر | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| پوری | ماما | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| تورج پارازیت | لِه | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| پرشام و رودز | مازندریل | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| جی‌دال | 7th of July | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| ایمانمون و عرفان | صبح و ظهر و شب | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| علی اوج | تو بمون | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| کیارپ | تنهایی | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جاستینا و توماج | پیچک | <a href="https://youtu.be/-goicC713nU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| پوری | ماما | <a href="https://youtu.be/dKvYyA6gjF0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| تورج پارازیت | لِه | <a href="https://youtu.be/NJJXuJa7a4g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| پرشام و رودز | مازندریل | <a href="https://youtu.be/xWV1qbTni10"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| جی‌دال | 7th of July | <a href="https://youtu.be/X3Qy9iHagoQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ایمانمون و عرفان | صبح و ظهر و شب | <a href="https://youtu.be/RWxktS45Dpc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| علی اوج و مرساستا | تو بمون | <a href="https://youtu.be/BXXH9tz9_q0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| کیارپ | تنهایی | <a href="https://youtu.be/a8txEjnyFqo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
-| نیکوتین | روایت | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| جاستینا و توماج | شلاق | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| جاستینا و توماج | پیچک | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| ارشیا | هواخوری | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| بامداد | محله | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| دِ آریا | 444 | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| کاوه فارد | باید حالیم شه | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| کائن | سرنوشت | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| زمانی | جنوب شهر | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| تیِم و ویناک | به شما چی؟ | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| چرسی | بوف | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| بهداد | همون پسره | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| هومان | فکر میکنه تنهاست | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| پوری | ماما | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| تورج پارازیت | لِه | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| پرشام و رودز | مازندریل | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| عرفام | Unfair | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| سینکو و فورتم | Trap House | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| کاوه فارد | ستاره بازی | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| شروین حاجیپور | تلفن | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| تهی، تتلو، حصین و پیشرو | حله | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| ویسکی و سمی لو | برفای خاکستری | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| 30کاس و آرما | Skadi | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| جی‌دال | 7th of July | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| فرید | پایمال | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| نیکوتین | روایت | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=07a9f6915417459a"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جاستینا و توماج | شلاق | <a href="https://soundcloud.com/toomajsalehi/shallagh"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| جاستینا و توماج | پیچک | <a href="https://soundcloud.com/toomajsalehi/pichak"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ارشیا | هواخوری | <a href="https://open.spotify.com/track/16GWAMsFGurXmQqB1T1rfO?si=715e64d121b0452c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| بامداد | محله | <a href="https://open.spotify.com/track/7emId5HGeKbXwrBTugD0U4?si=f02cb25875f141b0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| دِ آریا | 444 | <a href="https://open.spotify.com/track/6H1ivLacIiJvNWMc7PSTiO?si=ae631f5f08984df1"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کاوه فارد | باید حالیم شه | <a href="https://open.spotify.com/track/2Vkw01nsF6LZF5bO9PIkmK?si=9dcf68a2da754a0d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کائن | سرنوشت | <a href="https://open.spotify.com/track/3L0D7QfTHwldRmyMqtW3Iv?si=e692a4b1c9234715"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مهدی زمانی | جنوب شهر | <a href="https://open.spotify.com/track/7BIFMtoUXl00AqbYuem1hZ?si=d5f536fa09c94729"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تیِم و ویناک | به شما چی؟ | <a href="https://soundcloud.com/justiem/be-shoma-chi-ft-vinak"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| چرسی | بوف | <a href="https://open.spotify.com/track/4w4dLCO6zTM9Q8Quziltpm?si=98aca189bd3449b6"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| بهداد | همون پسره | <a href="https://youtu.be/E2PBYNlBNXI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| هومان | فکر میکنه تنهاست | <a href="https://youtu.be/6Cee2ZW2FFM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| پوری | ماما | <a href="https://open.spotify.com/album/2UQHdiTTqTulloOWmSn7lP?si=14fe34068e04439f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تورج پارازیت | لِه | <a href="https://soundcloud.com/tourajparazit/leh"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پرشام و رودز | مازندریل | <a href="https://soundcloud.com/amir-rodes/parshaam-x-rodes-mazandrill"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| عرفام | Unfair | <a href="https://open.spotify.com/track/2mEkUjKryS4kmzlyPz2jCH?si=3f818eff95c84afd"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سینکو و فورتم | Trap House | <a href="https://open.spotify.com/track/1Osz5xPHx3q8oYUejXwFyd?si=8c7aa693c6214e1f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کاوه فارد | ستاره بازی | <a href="https://soundcloud.com/kavehfared/kaveh-fared-setare-bazi-prodfared"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| شروین حاجیپور | تلفن | <a href="https://open.spotify.com/track/5Y66knIaL4zjhDATcmso3e?si=20efc8579fde4b86"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تهی، تتلو، حصین و پیشرو | حله | <a href="https://open.spotify.com/track/4uPIkRhWXwFq9tmBAuGnOJ?si=3f1260a5a7254c06"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ویسکی و سمی لو | برفای خاکستری | <a href="https://open.spotify.com/track/2OCScgMP7mxnilP305eLSy?si=8752e2f147664143"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| 30کاس و آرما | Skadi | <a href="https://open.spotify.com/track/2ElgTMld5WMTXMm5qA4xNZ?si=56b306ff882147bc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جی‌دال | 7th of July | <a href="https://open.spotify.com/track/5I8gdrCiUiYdrPGPHu8lp0?si=9154f2a974a54d33"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| فرید | پایمال | <a href="https://soundcloud.com/faridofficial7/farid-paymal"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | علی اِزا | خیلی وقته | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | امیر تتلو | منو بساز از اول | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | بهزاد لیتو | میکروفونم (بازسازی شده) | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=35d636e9416b43ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
