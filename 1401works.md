@@ -459,6 +459,7 @@
 | بابک تیغه و ممدرضا ناجی | The GOAT | <a href="https://soundcloud.com/babak-rostami-50723092/the-goat-mp3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | KLA | واللهی | <a href="https://soundcloud.com/klatrap/vallahi-x-low-a-beats"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | سهیل سرب، پیکار و فَر | راضی | <a href="https://soundcloud.com/klatrap/vallahi-x-low-a-beats"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پارسا سیمپسون | AC Milan | <a href="https://open.spotify.com/track/1HNt4Toqu6LUjqGtE96cSd?si=5c2a2c1b1b654a0e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
