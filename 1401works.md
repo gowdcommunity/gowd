@@ -392,6 +392,7 @@
 | ایمانمون و عرفان | صبح و ظهر و شب | <a href="https://youtu.be/RWxktS45Dpc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | علی اوج و مرساستا | تو بمون | <a href="https://youtu.be/BXXH9tz9_q0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | کیارپ | تنهایی | <a href="https://youtu.be/a8txEjnyFqo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| Hoodadk4 | 1390s | <a href="https://youtu.be/a8txEjnyFqo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
