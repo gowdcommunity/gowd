@@ -446,6 +446,14 @@
 | Sati, Bina, Smin, Funi, Lijov, Lilyj | Peace | <a href="https://soundcloud.com/user-775219771/peace"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | ساتراپ | به درک | <a href="https://open.spotify.com/track/51TFg4jeNggNRrICbraXKa?si=b6877b09b4c5456f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ایسین و امین تی جی | فایزر | <a href="https://open.spotify.com/track/7eQfp9qBFndTRPZ16QHWhs?si=76fc47996ee24102"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| بابک تیغه | پورن هاب | <a href="https://soundcloud.com/babak-rostami-50723092/pornhub-mp3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| Hoodad4k | 1390s | <a href="https://soundcloud.com/hoodadk4/1390s-prodby-dousti"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| داریوش تبهکار | Leaked | <a href="https://soundcloud.com/bacheasli/leaked"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| اسمین | توهم | <a href="https://soundcloud.com/user-775219771/tavahom"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| رسام و کیارش | اپیزود اول پادکست پارادوکس با کیارش | <a href="https://soundcloud.com/rasam-sohrabi/paradox_ep01_with_kiara-h"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| رضا اودین | مارکت | <a href="https://soundcloud.com/rezaodin/market"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| اسمین | بلاله | <a href="https://soundcloud.com/user-775219771/balae"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ایلیا شین | هنوز دلم خونه | <a href="https://soundcloud.com/iliyashin/hanooz-delam-khoone"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
