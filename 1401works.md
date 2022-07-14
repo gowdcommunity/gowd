@@ -372,17 +372,14 @@
 ### مجموعه‌ها
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
-| پوبون و میلانو | فندی | <a href="https://open.spotify.com/track/03kRClVw6BNKerM2cybuFC?si=affde90994394d9d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 ### مجموعه‌های بی‌کلام
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
-| پوبون و میلانو | فندی | <a href="https://open.spotify.com/track/03kRClVw6BNKerM2cybuFC?si=affde90994394d9d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 ### مجموعه‌های همکاری
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
-| پوبون و میلانو | فندی | <a href="https://open.spotify.com/track/03kRClVw6BNKerM2cybuFC?si=affde90994394d9d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 ### ویدئوها
 | هنرمند | نام اثر | لینک |
