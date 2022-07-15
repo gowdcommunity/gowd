@@ -393,6 +393,8 @@
 | علی اوج و مرساستا | تو بمون | <a href="https://youtu.be/BXXH9tz9_q0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | کیارپ | تنهایی | <a href="https://youtu.be/a8txEjnyFqo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | Hoodadk4 | 1390s | <a href="https://youtu.be/a8txEjnyFqo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| نیش | Freeway | <a href="https://youtu.be/c0WLXCWCKNk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| یانگ صادن | Blood Freestyle | <a href="https://youtu.be/1SQxI3T2XnE"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -460,6 +462,8 @@
 | KLA | واللهی | <a href="https://soundcloud.com/klatrap/vallahi-x-low-a-beats"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | سهیل سرب، پیکار و فَر | راضی | <a href="https://soundcloud.com/klatrap/vallahi-x-low-a-beats"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | پارسا سیمپسون | AC Milan | <a href="https://open.spotify.com/track/1HNt4Toqu6LUjqGtE96cSd?si=5c2a2c1b1b654a0e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| نیش | Freeway | <a href="https://soundcloud.com/neeshsound/neesh-freeway"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| هیپ‌هاپولوژیست | نسخ نسخه | <a href="https://soundcloud.com/hiphopologistsoroush/nasakhe-noskhe"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
