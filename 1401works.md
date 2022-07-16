@@ -398,6 +398,7 @@
 | 38 | 38 بیتی فری‌استایل | <a href="https://youtu.be/c6ux3drzrq8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | سالار ماهور | پنجشنبه | <a href="https://youtu.be/-FHmzA3Mv18"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | اژدر | RapXHipHop  | <a href="https://youtu.be/xJHyROOwqeI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| 021کید و آیسم | توفانی  | <a href="https://youtu.be/bY4jcE_wQrY"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -473,6 +474,8 @@
 | سالار ماهور | پنجشنبه | <a href="https://soundcloud.com/salar-mahoor/salar-mahoor-panjshanbeh?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | پیام ترک | irəli  | <a href="https://soundcloud.com/payam-turk/ireli?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | اژدر | RapXHipHop  | <a href="https://open.spotify.com/album/0GQJRUUqjdfLVaJ3Ae6dAJ?si=97bf6c14252746af"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| نسیم و جی‌دال | راز  | <a href="https://open.spotify.com/track/4Tx568VERwOxzSwoxbPX7Q?si=7a65cc2978444cf7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تردست و راگز | CAMMY RIDDIM FREESTYLE | <a href="https://soundcloud.com/tardastsc/cammy-riddim-freestyle-ft-rugz?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
