@@ -372,6 +372,8 @@
 ### مجموعه‌ها
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
+| شاهین نجفی | سیگما  | <a href="https://open.spotify.com/album/1M7ICkaPMy3kIaAuINBGKj?si=ehyrsft4TGKqG5zZXVBF6Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ولگرد | نزدیک‌تر  | <a href="https://soundcloud.com/velgard/sets/nazdiktar?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ### مجموعه‌های بی‌کلام
 | هنرمند | نام مجموعه | لینک |
@@ -399,6 +401,8 @@
 | سالار ماهور | پنجشنبه | <a href="https://youtu.be/-FHmzA3Mv18"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | اژدر | RapXHipHop  | <a href="https://youtu.be/xJHyROOwqeI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | 021کید و آیسم | توفانی  | <a href="https://youtu.be/bY4jcE_wQrY"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| XwhiskY | Hakuna Ratata | <a href="https://youtu.be/EfLgABvcb4g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| شاهین نجفی و گلرخ امینیان | آذر (از آلبوم سیگما) | <a href="https://youtu.be/PK0HX0Xz8IA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -476,6 +480,8 @@
 | اژدر | RapXHipHop  | <a href="https://open.spotify.com/album/0GQJRUUqjdfLVaJ3Ae6dAJ?si=97bf6c14252746af"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | نسیم و جی‌دال | راز  | <a href="https://open.spotify.com/track/4Tx568VERwOxzSwoxbPX7Q?si=7a65cc2978444cf7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | تردست و راگز | CAMMY RIDDIM FREESTYLE | <a href="https://soundcloud.com/tardastsc/cammy-riddim-freestyle-ft-rugz?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| XwhiskY | Hakuna Ratata | <a href="https://soundcloud.com/user-521998630/hakuna-ratata?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پاپا بویز | Game Over | <a href="https://open.spotify.com/album/1f3tamn7RhyFgtVfZOPbiy?si=6608bfd8e8864e07"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
