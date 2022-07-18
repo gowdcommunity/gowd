@@ -374,6 +374,7 @@
 |:-:|:-:|:-:|
 | شاهین نجفی | سیگما  | <a href="https://open.spotify.com/album/1M7ICkaPMy3kIaAuINBGKj?si=ehyrsft4TGKqG5zZXVBF6Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ولگرد | نزدیک‌تر  | <a href="https://soundcloud.com/velgard/sets/nazdiktar?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| 3B Sadra | یه پسر | <a href="https://open.spotify.com/album/6gqjnaMPJie40XuZ4JShJT?si=rdM7ni0wTZGnq5kxOVK89g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 ### مجموعه‌های بی‌کلام
 | هنرمند | نام مجموعه | لینک |
@@ -403,6 +404,10 @@
 | 021کید و آیسم | توفانی  | <a href="https://youtu.be/bY4jcE_wQrY"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | XwhiskY | Hakuna Ratata | <a href="https://youtu.be/EfLgABvcb4g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | شاهین نجفی و گلرخ امینیان | آذر (از آلبوم سیگما) | <a href="https://youtu.be/PK0HX0Xz8IA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| 3BSADRA و Soulful  | شباب | <a href="https://youtu.be/KLGkvFOmx1Y"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| توماج | ببخشید | <a href="https://youtu.be/Ca52t_979jU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| لیل موو، سینکو و وردمهدی | PERSIAN FLEX | <a href="https://youtu.be/9pa_d9uGrF4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| تورج پارازیت | صلاح | <a href="https://youtu.be/Qt8N3mh0Ogc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -482,6 +487,13 @@
 | تردست و راگز | CAMMY RIDDIM FREESTYLE | <a href="https://soundcloud.com/tardastsc/cammy-riddim-freestyle-ft-rugz?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | XwhiskY | Hakuna Ratata | <a href="https://soundcloud.com/user-521998630/hakuna-ratata?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | پاپا بویز | Game Over | <a href="https://open.spotify.com/album/1f3tamn7RhyFgtVfZOPbiy?si=6608bfd8e8864e07"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| حصین، تتلو و پیشرو | جنگل تاریک | <a href="https://youtu.be/REE7tdO17WM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| توماج | ببخشید | <a href="https://soundcloud.com/toomajsalehi/bebakhshid?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| لیل موو، سینکو و وردمهدی | PERSIAN FLEX | <a href="https://open.spotify.com/track/1Ck1xRJoF9joebUZIEtesA?si=f293edc6d79d46a4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تورج پارازیت | صلاح | <a href="https://soundcloud.com/tourajparazit/salah?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| بابک تیغه | فیک | <a href="https://soundcloud.com/babak-rostami-50723092/fake-babak-tighe-mp3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| آیسم | Tease | <a href="https://youtu.be/636wbw9_-b0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| دورچی | Memphis | <a href="https://soundcloud.com/dorcci/memphis?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
