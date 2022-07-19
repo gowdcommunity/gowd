@@ -499,6 +499,10 @@
 | صادی | نسل کشی | <a href="https://soundcloud.com/user-577645356/nasl-koshi?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | مجهول | گُما | <a href="https://open.spotify.com/track/1aGGZVPYF7Cbf5e8ChLJBe?si=525f46b7af294d01"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | سانبوی | 2017 | <a href="https://soundcloud.com/sunboy_official/s2017?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| اسمین | Yokh-D | <a href="https://soundcloud.com/user-775219771/yokh-d?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| دیگرد | جعبه سیاه (زنده) | <a href="https://soundcloud.com/arsalun/jabesiahlive?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| یانگ صادن | Blood Freestyle | <a href="https://soundcloud.com/youngsudden/yooung-sudden-blood-freestyle?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| فرهود | بختیاری | <a href="https://soundcloud.com/farhoodofficial/bakhtyari?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
