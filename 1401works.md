@@ -408,6 +408,8 @@
 | توماج | ببخشید | <a href="https://youtu.be/Ca52t_979jU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | لیل موو، سینکو و وردمهدی | PERSIAN FLEX | <a href="https://youtu.be/9pa_d9uGrF4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | تورج پارازیت | صلاح | <a href="https://youtu.be/Qt8N3mh0Ogc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| علی اوج و بابک ماکاولی | استوار | <a href="https://youtu.be/TajmeyfWQyU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| مجهول | گُما | <a href="https://youtu.be/eu69_HQi9ps"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -432,7 +434,7 @@
 | سینکو و فورتم | Trap House | <a href="https://open.spotify.com/track/1Osz5xPHx3q8oYUejXwFyd?si=8c7aa693c6214e1f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | کاوه فارد | ستاره بازی | <a href="https://soundcloud.com/kavehfared/kaveh-fared-setare-bazi-prodfared"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | شروین حاجیپور | تلفن | <a href="https://open.spotify.com/track/5Y66knIaL4zjhDATcmso3e?si=20efc8579fde4b86"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| تهی، تتلو، حصین و پیشرو | حله | <a href="https://open.spotify.com/track/4uPIkRhWXwFq9tmBAuGnOJ?si=3f1260a5a7254c06"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تهی، تتلو، حصین و پیشرو | حله | <a href="https://youtu.be/FoIm2sKyzNM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | ویسکی و سمی لو | برفای خاکستری | <a href="https://open.spotify.com/track/2OCScgMP7mxnilP305eLSy?si=8752e2f147664143"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | 30کاس و آرما | Skadi | <a href="https://open.spotify.com/track/2ElgTMld5WMTXMm5qA4xNZ?si=56b306ff882147bc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | جی‌دال | 7th of July | <a href="https://open.spotify.com/track/5I8gdrCiUiYdrPGPHu8lp0?si=9154f2a974a54d33"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
@@ -494,9 +496,13 @@
 | بابک تیغه | فیک | <a href="https://soundcloud.com/babak-rostami-50723092/fake-babak-tighe-mp3?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | آیسم | Tease | <a href="https://youtu.be/636wbw9_-b0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | دورچی | Memphis | <a href="https://soundcloud.com/dorcci/memphis?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| صادی | نسل کشی | <a href="https://soundcloud.com/user-577645356/nasl-koshi?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| مجهول | گُما | <a href="https://open.spotify.com/track/1aGGZVPYF7Cbf5e8ChLJBe?si=525f46b7af294d01"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سانبوی | 2017 | <a href="https://soundcloud.com/sunboy_official/s2017?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | رودی | کتک | <a href="https://soundcloud.com/roodyrapkone/kotak"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | محمد صالح‌نیا (MSN) | I'm Here | <a href="https://soundcloud.com/msnmusic/im-here"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| رودی | یه قل دو قل | <a href="https://soundcloud.com/roodyrapkone/yeqol?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
