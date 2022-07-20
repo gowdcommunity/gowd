@@ -410,6 +410,7 @@
 | تورج پارازیت | صلاح | <a href="https://youtu.be/Qt8N3mh0Ogc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | علی اوج و بابک ماکاولی | استوار | <a href="https://youtu.be/TajmeyfWQyU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | مجهول | گُما | <a href="https://youtu.be/eu69_HQi9ps"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| علی اوج و هانیه | گنگ ماییم | <a href="https://youtu.be/ARJhupKg6J8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -503,6 +504,8 @@
 | دیگرد | جعبه سیاه (زنده) | <a href="https://soundcloud.com/arsalun/jabesiahlive?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | یانگ صادن | Blood Freestyle | <a href="https://soundcloud.com/youngsudden/yooung-sudden-blood-freestyle?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | فرهود | بختیاری | <a href="https://soundcloud.com/farhoodofficial/bakhtyari?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ویناک، علی پاشا و علی تی | الکی | <a href="https://youtu.be/BRLUXflVUY4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| AGK | ریخته سم | <a href="https://soundcloud.com/user-731904156/rikhte-sam-wav?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
