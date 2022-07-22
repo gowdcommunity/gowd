@@ -416,6 +416,7 @@
 | چرسی | نایک بوی | <a href="https://youtu.be/tikH_p1wQvc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | گویا | آزمایشگاه | <a href="https://youtu.be/oTbf360TqWU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | ایمانوف | کته کباب | <a href="https://www.instagram.com/tv/CgOsq49M5NC/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
+| هیپ‌هاپولوژیست | ویزیت بین المللی | <a href="https://youtu.be/jGNEibZaF1Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -520,6 +521,8 @@
 | ایمانوف | کته کباب | <a href="https://soundcloud.com/imanofoof/kate-kabab?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | مهیار | کجایی | <a href="https://open.spotify.com/track/2HUFExd0xe2jYDTi6ByIsd?si=cc337444b8f34d7c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | کاناپوس | بهشت | <a href="https://soundcloud.com/user-315642161/behesht?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| امیر تتلو | مرسی امیر تتلو | <a href="https://youtu.be/Yeni_MHLaY0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| بهمن دیو | هنوز | <a href="https://open.spotify.com/track/7usMY38myvI7cDBDPrAhC9?si=6635e6f9279f4bc0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
