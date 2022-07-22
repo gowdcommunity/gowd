@@ -523,6 +523,8 @@
 | کاناپوس | بهشت | <a href="https://soundcloud.com/user-315642161/behesht?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | امیر تتلو | مرسی امیر تتلو | <a href="https://youtu.be/Yeni_MHLaY0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | بهمن دیو | هنوز | <a href="https://open.spotify.com/track/7usMY38myvI7cDBDPrAhC9?si=6635e6f9279f4bc0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پرهام | اپیزود 2 پادکست پارادوکس | <a href="https://soundcloud.com/rasam-sohrabi/paradox_ep02_with_parhum?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| یانگ مو | بی‌پلن | <a href="https://soundcloud.com/mhmadhooshmndd/bi-plan?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
