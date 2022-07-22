@@ -411,6 +411,11 @@
 | علی اوج و بابک ماکاولی | استوار | <a href="https://youtu.be/TajmeyfWQyU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | مجهول | گُما | <a href="https://youtu.be/eu69_HQi9ps"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | علی اوج و هانیه | گنگ ماییم | <a href="https://youtu.be/ARJhupKg6J8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ام سی تِس | کوچه | <a href="https://youtu.be/TudIujKH6UI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ویناک و تیِم | بسم الله | <a href="https://youtu.be/XU8swkT6gjM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| چرسی | نایک بوی | <a href="https://youtu.be/tikH_p1wQvc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| گویا | آزمایشگاه | <a href="https://youtu.be/oTbf360TqWU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ایمانوف | کته کباب | <a href="https://www.instagram.com/tv/CgOsq49M5NC/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -506,6 +511,15 @@
 | فرهود | بختیاری | <a href="https://soundcloud.com/farhoodofficial/bakhtyari?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | ویناک، علی پاشا و علی تی | الکی | <a href="https://youtu.be/BRLUXflVUY4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | AGK | ریخته سم | <a href="https://soundcloud.com/user-731904156/rikhte-sam-wav?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| نسیم و امیر خلوت | بی‌مقصد (چهارمین اثر از آلبوم پارادوکس) | <a href="https://open.spotify.com/track/5Vb4TqyjUlU0mzFntroJWb?si=598ed18e4aa34619"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ام سی تس | کوچه | <a href="https://soundcloud.com/tesmc/kooche?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ارشیا | دم صبح | <a href="https://soundcloud.com/arshyaw/dame-sobh?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پوریا ادرویت | گلدون | <a href="https://soundcloud.com/poriyaadroit/goldoon?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| چرسی | نایک بوی | <a href="https://open.spotify.com/track/3v9bn8Nzz5ZrRKq4YxCyZU?si=901e1a4a40b04e5d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| گویا | آزمایشگاه 9 | <a href="https://open.spotify.com/album/3eFJgZKVFiFolRQ1iCf6OH?si=6402b6371e5e4b62"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ایمانوف | کته کباب | <a href="https://soundcloud.com/imanofoof/kate-kabab?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| مهیار | کجایی | <a href="https://open.spotify.com/track/2HUFExd0xe2jYDTi6ByIsd?si=cc337444b8f34d7c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کاناپوس | بهشت | <a href="https://soundcloud.com/user-315642161/behesht?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
