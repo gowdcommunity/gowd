@@ -363,8 +363,6 @@
 
 ## تیر
 - [مجموعه‌ها](#مجموعهها-3)
-- [مجموعه‌های بی‌کلام](#مجموعههای-بیکلام-1)
-- [مجموعه‌های همکاری](#مجموعههای-همکاری-1)
 - [ویدئوها](#ویدئوها-3)
 - [تک آهنگ‌ها](#تک-آهنگها-3)
 - [اینسترومنتال‌ها](#اینسترومنتالها-3)
@@ -375,14 +373,6 @@
 | شاهین نجفی | سیگما  | <a href="https://open.spotify.com/album/1M7ICkaPMy3kIaAuINBGKj?si=ehyrsft4TGKqG5zZXVBF6Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ولگرد | نزدیک‌تر  | <a href="https://soundcloud.com/velgard/sets/nazdiktar?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | 3B Sadra | یه پسر | <a href="https://open.spotify.com/album/6gqjnaMPJie40XuZ4JShJT?si=rdM7ni0wTZGnq5kxOVK89g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-
-### مجموعه‌های بی‌کلام
-| هنرمند | نام مجموعه | لینک |
-|:-:|:-:|:-:|
-
-### مجموعه‌های همکاری
-| هنرمند | نام مجموعه | لینک |
-|:-:|:-:|:-:|
 
 ### ویدئوها
 | هنرمند | نام اثر | لینک |
