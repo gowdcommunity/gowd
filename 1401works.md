@@ -417,6 +417,7 @@
 | گویا | آزمایشگاه | <a href="https://youtu.be/oTbf360TqWU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | ایمانوف | کته کباب | <a href="https://www.instagram.com/tv/CgOsq49M5NC/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
 | هیپ‌هاپولوژیست | ویزیت بین المللی | <a href="https://youtu.be/jGNEibZaF1Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| لاکی حسام | Respect | <a href="https://youtu.be/fK_oLveYcgo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -525,6 +526,9 @@
 | بهمن دیو | هنوز | <a href="https://open.spotify.com/track/7usMY38myvI7cDBDPrAhC9?si=6635e6f9279f4bc0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | پرهام | اپیزود 2 پادکست پارادوکس | <a href="https://soundcloud.com/rasam-sohrabi/paradox_ep02_with_parhum?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | یانگ مو | بی‌پلن | <a href="https://soundcloud.com/mhmadhooshmndd/bi-plan?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کیارش | 5$tar | <a href="https://soundcloud.com/dekiarash/5-tar-prod-by-ashkan-kagan?si=da141aac17164a21aa92660b322e158c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| لاکی حسام | Respect | <a href="https://soundcloud.com/lucky_hesam/lucky-hesam-x-roohi-respect?si=549a304f049841db9c6da81fa2d0814d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| عرفام | Diamond | <a href="https://open.spotify.com/track/2ULvY8h9P936Honytd5OlS?si=0f62e483dd2244ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
