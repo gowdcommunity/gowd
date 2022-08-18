@@ -18,7 +18,7 @@
 | نقش            | عنکبوت        | <a href="https://soundcloud.com/naghsh/sets/ankabout"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | عرفان و اسدی | نور | <a href="https://soundcloud.com/asadimusic/sets/asadi-erfan-nur"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | پدی آی | نابغه | <a href="https://www.radiojavan.com/mp3s/album/Pedi-I-Nabeghe"><img src="https://www.radiojavan.com/images/default_fb.png" width="25"></a>
-| جنس من | آریوژ | <a href="https://soundcloud.com/ariozh/sets/jense-man"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| جنس من | عاریوژ | <a href="https://soundcloud.com/ariozh/sets/jense-man"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### مجموعه‌های بی‌کلام
@@ -300,7 +300,7 @@
 | سنیور | Suicide | <a href="https://soundcloud.com/user-358327841/suicide"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | بهداد | کارت پستال | <a href="https://soundcloud.com/user-134690757-226539417/card-postal"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | انسیگان | پورشه (فری‌استایل) | <a href="https://soundcloud.com/ensigan/freestyle-porsche-ensigan"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| آریوژ | بِسمِل | <a href="https://open.spotify.com/track/4ZXmsXr6Ne1igtjjj5lfPy?si=5f2aa54c59ae47dd"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| عاریوژ | بِسمِل | <a href="https://open.spotify.com/track/4ZXmsXr6Ne1igtjjj5lfPy?si=5f2aa54c59ae47dd"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | سالک | اجاره نشین (بازسازی شده) | <a href="https://open.spotify.com/album/11zGF9ZDaAab0DXw1CGm57?si=f23e6115991a4831"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | سیناب | گوچی | <a href="https://open.spotify.com/track/23RXeLAPJADQTmAaulUEUA?si=ecc244b533e24fcc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | راوی و سام | رویا | <a href="https://soundcloud.com/navid-ravi/roya-prod-faghan"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
@@ -465,7 +465,7 @@
 | نکو | خاکستر | <a href="https://open.spotify.com/track/4VPsMx6ltfs8mS0yZcT12L?si=06a0127b557b4ca5"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | پوری | سوا | <a href="https://soundcloud.com/godpoori/sava"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | کیارپ | تنهایی | <a href="https://open.spotify.com/track/3UoG8dtnxBMgfLQCiUycTl?si=fec29c681dc046c5"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| آریوژ | خواب | <a href="https://soundcloud.com/ariozh/khaab"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| عاریوژ | خواب | <a href="https://soundcloud.com/ariozh/khaab"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | امین بیگ ای | کجایی | <a href="https://open.spotify.com/album/1vEcpL9sxWhwzhDqniDjXh?si=844a18e2034f4a72"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | پوریا ادرویت و کاوه | سرد | <a href="https://soundcloud.com/poriya-adroit/sard-x-kaveh-prodby-xanax"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | Sati, Bina, Smin, Funi, Lijov, Lilyj | Peace | <a href="https://soundcloud.com/user-775219771/peace"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
@@ -529,6 +529,8 @@
 | کیارش | 5$tar | <a href="https://soundcloud.com/dekiarash/5-tar-prod-by-ashkan-kagan?si=da141aac17164a21aa92660b322e158c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | لاکی حسام | Respect | <a href="https://soundcloud.com/lucky_hesam/lucky-hesam-x-roohi-respect?si=549a304f049841db9c6da81fa2d0814d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | عرفام | Diamond | <a href="https://open.spotify.com/track/2ULvY8h9P936Honytd5OlS?si=0f62e483dd2244ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| عاریوژ | خدافظ | <a href="https://soundcloud.com/ariozh/khodafez?si=42d88043f6b3482596d1f316360b4c72&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| اوکتاو | بذا برم | <a href="https://open.spotify.com/track/5xIlK7ruH3VMuY0AyhH2ZV?si=322aaeed59224bd0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
