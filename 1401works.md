@@ -529,12 +529,19 @@
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | پیدار و سنیور | Gold Chain | <a href="https://youtu.be/Wbr2k1DAGEo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| امیر تئور | ارشاد | <a href="https://youtu.be/mAq1I9seHOA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | امیر ربلز | Pure | <a href="https://open.spotify.com/track/1VxJWVKB7gVu4pOwwMXTT9?si=ebe181dd0fe643a0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| فریانگ | بمون | <a href="https://open.spotify.com/track/7k46SHzmrwDz15C197z5Ht?si=b96af4f947204fb1"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| اسمین | شوخی | <a href="https://soundcloud.com/user-775219771/smin-shookhi?si=3930324970a14028a7ca4bc579a69cb4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سایه | کدوماتون؟ | <a href="https://open.spotify.com/track/32T4ZzNwHeVTaFzOeQWhwv?si=73354384ae4648fd"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| امیر تئور | ارشاد | <a href="https://open.spotify.com/track/45RGMm2KJDBhySBnyu9cuT?si=9dd76b2b472247ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| بی بال و کنیس | خیابون | <a href="https://open.spotify.com/track/4Gu1CRcPQ5JutSaRNy7yJM?si=e963801e8bd74461"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| بهداد و پیلتن امشهی | You No Gang | <a href="https://soundcloud.com/piltanemshahi/the-behdad-ft-piltan-emshahi?si=4610bc973caa4566a5908c186fc8e5cd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
