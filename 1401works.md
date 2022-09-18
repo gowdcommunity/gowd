@@ -3,6 +3,7 @@
 - [اردیبهشت](#اردیبهشت)
 - [خرداد](#خرداد)
 - [تیر](#تیر)
+- [مرداد](#مرداد)
 
 ## فروردین
 - [مجموعه‌ها](#مجموعهها)
@@ -363,8 +364,6 @@
 
 ## تیر
 - [مجموعه‌ها](#مجموعهها-3)
-- [مجموعه‌های بی‌کلام](#مجموعههای-بیکلام-1)
-- [مجموعه‌های همکاری](#مجموعههای-همکاری-1)
 - [ویدئوها](#ویدئوها-3)
 - [تک آهنگ‌ها](#تک-آهنگها-3)
 - [اینسترومنتال‌ها](#اینسترومنتالها-3)
@@ -375,14 +374,6 @@
 | شاهین نجفی | سیگما  | <a href="https://open.spotify.com/album/1M7ICkaPMy3kIaAuINBGKj?si=ehyrsft4TGKqG5zZXVBF6Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ولگرد | نزدیک‌تر  | <a href="https://soundcloud.com/velgard/sets/nazdiktar?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | 3B Sadra | یه پسر | <a href="https://open.spotify.com/album/6gqjnaMPJie40XuZ4JShJT?si=rdM7ni0wTZGnq5kxOVK89g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-
-### مجموعه‌های بی‌کلام
-| هنرمند | نام مجموعه | لینک |
-|:-:|:-:|:-:|
-
-### مجموعه‌های همکاری
-| هنرمند | نام مجموعه | لینک |
-|:-:|:-:|:-:|
 
 ### ویدئوها
 | هنرمند | نام اثر | لینک |
@@ -510,3 +501,42 @@
 | رودی | کتک | <a href="https://soundcloud.com/roodyrapkone/kotak"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | محمد صالح‌نیا (MSN) | I'm Here | <a href="https://soundcloud.com/msnmusic/im-here"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | رودی | یه قل دو قل | <a href="https://soundcloud.com/roodyrapkone/yeqol?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+
+
+## مرداد
+- [مجموعه‌ها](#مجموعهها)
+- [مجموعه‌های بی‌کلام](#مجموعههای-بیکلام)
+- [مجموعه‌های همکاری](#مجموعههای-همکاری)
+- [ویدئوها](#ویدئوها)
+- [تک آهنگ‌ها](#تک-آهنگها)
+- [اینسترومنتال‌ها](#اینسترومنتالها)
+
+### مجموعه‌ها
+| هنرمند | نام مجموعه | لینک |
+|:-:|:-:|:-:|
+
+### مجموعه‌های بی‌کلام
+| هنرمند | نام مجموعه | لینک |
+|:-:|:-:|:-:|
+
+
+### مجموعه‌های همکاری
+| هنرمند | نام مجموعه | لینک |
+|:-:|:-:|:-:|
+
+
+### ویدئوها
+| هنرمند | نام اثر | لینک |
+|:-:|:-:|:-:|
+| پیدار و سنیور | Gold Chain | <a href="https://youtu.be/Wbr2k1DAGEo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+
+
+### تک آهنگ‌ها
+| هنرمند | نام اثر | لینک |
+|:-:|:-:|:-:|
+| امیر ربلز | Pure | <a href="https://open.spotify.com/track/1VxJWVKB7gVu4pOwwMXTT9?si=ebe181dd0fe643a0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+
+
+### اینسترومنتال‌ها
+| هنرمند | نام مجموعه | لینک |
+|:-:|:-:|:-:|
