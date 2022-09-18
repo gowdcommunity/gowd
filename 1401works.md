@@ -514,6 +514,7 @@
 ### مجموعه‌ها
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
+| هلیوم، اشکان کاگان و نعمتی | Envy | <a href="https://open.spotify.com/album/2EGkaTBjDG6q78RQqipqbv?si=o3MZZvW6T_OZSv7ts_9-9g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 ### مجموعه‌های بی‌کلام
 | هنرمند | نام مجموعه | لینک |
@@ -530,6 +531,7 @@
 |:-:|:-:|:-:|
 | پیدار و سنیور | Gold Chain | <a href="https://youtu.be/Wbr2k1DAGEo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | امیر تئور | ارشاد | <a href="https://youtu.be/mAq1I9seHOA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| رخ | صفا باشه | <a href="https://youtu.be/p6i9dJwT7os"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 
 ### تک آهنگ‌ها
@@ -542,6 +544,10 @@
 | امیر تئور | ارشاد | <a href="https://open.spotify.com/track/45RGMm2KJDBhySBnyu9cuT?si=9dd76b2b472247ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | بی بال و کنیس | خیابون | <a href="https://open.spotify.com/track/4Gu1CRcPQ5JutSaRNy7yJM?si=e963801e8bd74461"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | بهداد و پیلتن امشهی | You No Gang | <a href="https://soundcloud.com/piltanemshahi/the-behdad-ft-piltan-emshahi?si=4610bc973caa4566a5908c186fc8e5cd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| رخ | صفا باشه | <a href="https://open.spotify.com/track/2TIMLshBdXOxvHBwn2Oiyr?si=9c856c4359f544b9"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| لابیت | نبودم مثل شما | <a href="https://open.spotify.com/track/4plIsiarolGaSAdb62mzWE?si=497dc25c39494d02"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| امیر تتلو و زیرو توئنی وان جی | گرگ 3 | <a href="https://open.spotify.com/track/3sZFr8cN4phRrfriRTbUaT?si=d20c7e08dfaa4d9d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کیارش | Fenx Penx | <a href="https://soundcloud.com/dekiarash/fenx-penx-prod-by-dousti?si=803531dafe1c415db4ddf6a6a30d8b37&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
