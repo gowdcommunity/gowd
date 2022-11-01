@@ -533,6 +533,7 @@
 | امیر تئور | ارشاد | <a href="https://youtu.be/mAq1I9seHOA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | رخ | صفا باشه | <a href="https://youtu.be/p6i9dJwT7os"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | جرشا و اشکان موسوی | منظومه | <a href="https://youtu.be/ytVXgMTSxg8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| یانگ صادن | 23 | <a href="https://youtu.be/G0GN2mGtPek"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -550,6 +551,11 @@
 | کیارش | Fenx Penx | <a href="https://soundcloud.com/dekiarash/fenx-penx-prod-by-dousti?si=803531dafe1c415db4ddf6a6a30d8b37&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | تاحر و کائن | پرچم رپ | <a href="https://open.spotify.com/album/03CERlKzigpnMPPcA7FwTd?si=ef629d4dcde2435a"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | روحی، ممرض و تورج پارازیت | Teflon Don | <a href="https://open.spotify.com/track/3uTTJhr68YFId2zlzv328x?si=af3d420bc2a64107"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| الون | 25 | <a href="https://soundcloud.com/alonhiphop/25-prod-theweirdmo?si=b83024fc255643009856dc80a6e1b7b7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| وطنی | نسیه | <a href="https://soundcloud.com/vatanii/nesiye?si=9c124cc32d3e490aa3a44f3c1e16b9e3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پوریا ادرویت | Non S | <a href="https://open.spotify.com/track/0SIIjuZ1Yjisy8DUSHj2Xq?si=48f3b0a2710f4b72"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| بهراد، بینام، راودی و آرما | بِکِش تو | <a href="https://open.spotify.com/track/3VfdLX8kvh4REUvAoY4BUa?si=608b3bfb376a4534"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سالک و پیما | تبعیدی | <a href="https://open.spotify.com/track/5I0oonGKnick8mh98AXKer?si=36962c198da94c5c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام مجموعه | لینک |
