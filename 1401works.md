@@ -543,6 +543,7 @@
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
 | هلیوم، اشکان کاگان و نعمتی | Envy | <a href="https://open.spotify.com/album/2EGkaTBjDG6q78RQqipqbv?si=o3MZZvW6T_OZSv7ts_9-9g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ناجی | Phonenix (Deluxe) | <a href="https://open.spotify.com/album/3jfuT0vAnWG8wj1r12TjGa?si=pQ8RZ825SfeXMB87-RQ1tQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 ### مجموعه‌های بی‌کلام
 | هنرمند | نام مجموعه | لینک |
@@ -562,6 +563,11 @@
 | رخ | صفا باشه | <a href="https://youtu.be/p6i9dJwT7os"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | جرشا و اشکان موسوی | منظومه | <a href="https://youtu.be/ytVXgMTSxg8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | یانگ صادن | 23 | <a href="https://youtu.be/G0GN2mGtPek"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| شروین حاجی پور | نباش | <a href="https://www.instagram.com/reel/ChPqSu2llcr/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
+| پوتک | شاخ مارکت کیه | <a href="https://youtu.be/fv7w9OORZkg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| علی پاشا و شمرونی | اژدها | <a href="https://youtu.be/EyPMviE9KHQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| توماج صالحی | گاپون | <a href="https://youtu.be/KR32UlHBezw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| نیش | 68 Freestyle | <a href="https://youtu.be/aGIBYeG-I_Y"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -584,7 +590,16 @@
 | پوریا ادرویت | Non S | <a href="https://open.spotify.com/track/0SIIjuZ1Yjisy8DUSHj2Xq?si=48f3b0a2710f4b72"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | بهراد، بینام، راودی و آرما | بِکِش تو | <a href="https://open.spotify.com/track/3VfdLX8kvh4REUvAoY4BUa?si=608b3bfb376a4534"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | سالک و پیما | تبعیدی | <a href="https://open.spotify.com/track/5I0oonGKnick8mh98AXKer?si=36962c198da94c5c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سیناتزا | Opps | <a href="https://open.spotify.com/track/08VuoIhXZwYkuzocyIO7WE?si=cca90d2670264b78"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کیارپ و رسام | قسمت سوم پادکست پارادوکس | <a href="https://open.spotify.com/track/08VuoIhXZwYkuzocyIO7WE?si=cca90d2670264b78"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| دورچی | WIN | <a href="https://open.spotify.com/track/24NUl9BcT1aDoIR50zDyD1?si=7b09b9459a284274"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مِهرو | تنها | <a href="https://open.spotify.com/track/1AD4in0wKkHeIHKdomVR7v?si=5827134d4df4453d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کیارش، پرهام و رسام | RAW | <a href="https://soundcloud.com/dekiarash/raw-kiara-h-x-parhum-x-rasam?si=4b95f85e00a14bb0afdec6fd35f18659&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| توماج | گاپون | <a href="https://open.spotify.com/album/744edAUUAGyud0yZnCx2Re?si=2HpBI4zgRw-7BuuaesH0eg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| طومار و یانگ مو | ادعا نی | <a href="https://open.spotify.com/track/5b1qvFKPVUAS5cQdYpM8xx?si=2a0285a127144f2d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سینا ساعی و آرما | نمیشه هیچی عین قبل | <a href="https://open.spotify.com/track/71xQms16VPFOMrSLK36uWs?si=d23c6289399f4c6c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
+| هومی (هومن زمانی) و مهرشاد | Breaking Sun | <a href="https://soundcloud.com/hoomi21/breaking-sun-x-mrshvd?si=4f45bd28aacf4ac38a213e4c3564c110&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
