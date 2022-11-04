@@ -568,6 +568,9 @@
 | علی پاشا و شمرونی | اژدها | <a href="https://youtu.be/EyPMviE9KHQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | توماج صالحی | گاپون | <a href="https://youtu.be/KR32UlHBezw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | نیش | 68 Freestyle | <a href="https://youtu.be/aGIBYeG-I_Y"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| هومن و شمرونی | رینگ رینگ | <a href="https://youtu.be/1R5fWR6xNWQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| سینا مافی | یه روز همه رفیقام میرن | <a href="https://youtu.be/mm_P70A0LH0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| علی اوج و مینور بیت باکس | هیپی هیپی هاپ | <a href="https://youtu.be/xrx53ge_1dM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -598,6 +601,19 @@
 | توماج | گاپون | <a href="https://open.spotify.com/album/744edAUUAGyud0yZnCx2Re?si=2HpBI4zgRw-7BuuaesH0eg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | طومار و یانگ مو | ادعا نی | <a href="https://open.spotify.com/track/5b1qvFKPVUAS5cQdYpM8xx?si=2a0285a127144f2d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | سینا ساعی و آرما | نمیشه هیچی عین قبل | <a href="https://open.spotify.com/track/71xQms16VPFOMrSLK36uWs?si=d23c6289399f4c6c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| هومن و شمرونی | رینگ رینگ | <a href="https://open.spotify.com/track/40FZrdIqeCEYocX0LWdtR9?si=6effd1a01633457d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ENESAAD, ADVIN, SiavashMX, RichRose | چهار هفت | <a href="https://soundcloud.com/chaarhaft/chaarhaft?si=bc3a0a03cc43462a8344a6005ab6f361&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| آیدین وان | LOWKEY | <a href="https://open.spotify.com/track/12VqSyxJLmYSvWi4jEhPCK?si=c21763cfcc9a47a4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پی.آی.ای و رسام | جدیدنا | <a href="https://open.spotify.com/track/5vagAwxgRGYV22VbYOZ4qz?si=36e714e1687a4476"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| رِف | Safe Zone | <a href="https://open.spotify.com/track/3JQIb4ovkO7e5Wd8Fcb4Pe?si=4fe8abee65f04c00"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کاوه | Respect | <a href="https://soundcloud.com/kavehofficial/kaveh_respect?si=a4c287f3c0334be29acc48c5ff3f6ff8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| Wavyboie | J Too | <a href="https://open.spotify.com/track/14dzEXcqQTZCTxpSnjrqzY?si=7022581cf6ab417d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| رضا اودین | Long Beach | <a href="https://open.spotify.com/track/2evjaGUEpuHy4FgMGPNTp1?si=425332be66fc41e9"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| لیل موو | CHIRON | <a href="https://open.spotify.com/album/7yL1ben7m5eJDIZJb74BoY?si=rbjpWz66QTC5CXmf8LLW6A"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| معراج تهرانی | آخرین سفر | <a href="https://soundcloud.com/merajtehrani/akharin-safar?si=6f90e9d237ba4d8ea0177c881f1448a5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| لاکی حسام | بی‌رنگ فری‌استایل | <a href="https://soundcloud.com/lucky_hesam/lucky-hesam-birang-freestyle?si=57d3748a3c694aae8788fab6a3b9e339&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| علی اوج و مینور بیت باکس | هیپی هیپی هاپ | <a href="https://soundcloud.com/owjali/hipihipihop?si=863c2b4702d940e4b94af1d259c95d39&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سام | آئینه | <a href="https://soundcloud.com/tunes_sam/aeine-prod-shafie?si=b8721c9915ad4ec5b40cbcf100df1bfa&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام مجموعه | لینک |
