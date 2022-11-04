@@ -571,6 +571,7 @@
 | هومن و شمرونی | رینگ رینگ | <a href="https://youtu.be/1R5fWR6xNWQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | سینا مافی | یه روز همه رفیقام میرن | <a href="https://youtu.be/mm_P70A0LH0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | علی اوج و مینور بیت باکس | هیپی هیپی هاپ | <a href="https://youtu.be/xrx53ge_1dM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| کَدیش | C. C. Vibez | <a href="https://youtu.be/oDkIf8yWEyM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -614,6 +615,9 @@
 | لاکی حسام | بی‌رنگ فری‌استایل | <a href="https://soundcloud.com/lucky_hesam/lucky-hesam-birang-freestyle?si=57d3748a3c694aae8788fab6a3b9e339&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | علی اوج و مینور بیت باکس | هیپی هیپی هاپ | <a href="https://soundcloud.com/owjali/hipihipihop?si=863c2b4702d940e4b94af1d259c95d39&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | سام | آئینه | <a href="https://soundcloud.com/tunes_sam/aeine-prod-shafie?si=b8721c9915ad4ec5b40cbcf100df1bfa&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| جیدال، عرفان و پارسا سیمپسون | چارلی | <a href="https://youtu.be/XPdouuZJt3U"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| Arfa, Imaan, Ali Aran | Ca$h Money | <a href="https://youtu.be/0OYg8v7MVDM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| آرتیست | اشکای روی دستکشم (Slowed & Reverbed) | <a href="https://soundcloud.com/rtistkid/ashkaye-rouye-daskesham-slowed-reverbed?si=c61410db813e4db19bd5f40cbd9dc214&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام مجموعه | لینک |
