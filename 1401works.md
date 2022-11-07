@@ -634,6 +634,7 @@
 | سپهر سین جیم | براق | <a href="https://open.spotify.com/track/1DBxB6rJh9BIr6P3am5OQ8?si=2cae64cf18de4e1f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | رایان | DripDrop | <a href="https://soundcloud.com/rayantrap/dripdrop?si=667389bdb83a4eefab1dfd7d8684771a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | طومار | مامان ببخش | <a href="https://soundcloud.com/tumar-trap/maman-bebakhsh?si=3cb09cf687a4440592aae856e2f04948&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| بهزاد لیتو، سهراب ام جی، سیجل و علیرضا جی جی | تولد | <a href="https://open.spotify.com/track/3XmS0SRDdnszbY5Rjk3eua?si=a9e774f4c9da411b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام مجموعه | لینک |
