@@ -553,6 +553,7 @@
 ### مجموعه‌های همکاری
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
+| تعدادی از هنرمندان | Savage | <a href="https://soundcloud.com/raptunemusic/sets/savage-various-artist-album?si=98021c20cfa84eb9b45c879a4698d1e1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### ویدئوها
@@ -572,6 +573,13 @@
 | سینا مافی | یه روز همه رفیقام میرن | <a href="https://youtu.be/mm_P70A0LH0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | علی اوج و مینور بیت باکس | هیپی هیپی هاپ | <a href="https://youtu.be/xrx53ge_1dM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | کَدیش | C. C. Vibez | <a href="https://youtu.be/oDkIf8yWEyM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| Amir Ta-arif | صلوات | <a href="https://youtu.be/cxNcUW89qm8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| کوروش، سیجل، سمی لو و رها | اکستازی | <a href="https://youtu.be/5E2hIaAm6fE"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| گویا | یکه | <a href="https://youtu.be/EKysL9dXPR8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| دارودسته و پی دی سی | حش می‌خوای هس | <a href="https://youtu.be/B7WJsfIeuH4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| سپهر سین جیم | براق (تیزر) | <a href="https://youtu.be/rPDkOdTdR3A"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| لاکی حسام | Respect | <a href="https://www.instagram.com/tv/CgUO-3xj_Wk/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
+| رایان | DripDrop | <a href="https://youtu.be/Jyiw5S-RA0I"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -618,6 +626,14 @@
 | جیدال، عرفان و پارسا سیمپسون | چارلی | <a href="https://youtu.be/XPdouuZJt3U"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | Arfa, Imaan, Ali Aran | Ca$h Money | <a href="https://youtu.be/0OYg8v7MVDM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | آرتیست | اشکای روی دستکشم (Slowed & Reverbed) | <a href="https://soundcloud.com/rtistkid/ashkaye-rouye-daskesham-slowed-reverbed?si=c61410db813e4db19bd5f40cbd9dc214&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کاوه | Monster | <a href="https://soundcloud.com/kavehofficial/kaveh-monster?si=975d51a96df84b84925ce6269521ad91&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| فارتم | قرصای قرمز (فری‌استایل) | <a href="https://open.spotify.com/track/2AGqTYL23FGCxOtHGmLpwu?si=5817c27ad5c24b5d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| نازلی مکفیان و آیسم | Euphoria | <a href="https://open.spotify.com/track/5QQOHwX8Kct3iSdXHyitjM?si=95eb82f18711444c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| علیس | پیرزن قدیمی | <a href="https://soundcloud.com/arteshofficial/pzg?si=f498d9745292447396d723a625993d8e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| د آریا | مرسدس بنز | <a href="https://open.spotify.com/track/2LXkiogarGBP41hFSfXU4P?si=a224e2196cd3437a"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سپهر سین جیم | براق | <a href="https://open.spotify.com/track/1DBxB6rJh9BIr6P3am5OQ8?si=2cae64cf18de4e1f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| رایان | DripDrop | <a href="https://soundcloud.com/rayantrap/dripdrop?si=667389bdb83a4eefab1dfd7d8684771a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| طومار | مامان ببخش | <a href="https://soundcloud.com/tumar-trap/maman-bebakhsh?si=3cb09cf687a4440592aae856e2f04948&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام مجموعه | لینک |
