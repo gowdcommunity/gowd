@@ -198,7 +198,7 @@
 | امیر اَتُم | نَسَخ | <a href="https://open.spotify.com/track/1uJ1JY0ZUpxn58QWnRyKO1?si=b2a4e445852d48e5"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | یانگ مو | پژمان | <a href="https://soundcloud.com/mhmadhooshmndd/pejman-ft-ag"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | پِی بَک | INDOOR | <a href="https://open.spotify.com/track/4u8ydW2N7khqYJv94RQrak?si=80582869742b460c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| اِی‌سین | ژلوفن | <a href="https://open.spotify.com/track/77s1aIY1yybmHkeJVa1N5a?si=8ab4ae2078044513"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| اِی‌سین | ژلوفن| <a href="https://open.spotify.com/track/77s1aIY1yybmHkeJVa1N5a?si=8ab4ae2078044513"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | بهداد، رسام،Chit2am | به من میاد | <a href="https://open.spotify.com/track/3iT0GTNFmZipmWcZMeOTgp?si=85f9973015994758"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | لابیت | الماس | <a href="https://open.spotify.com/track/1mCyDkCrbFMwpopW7s3dFw?si=fea832f26e004cae"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | فرشاد | مست | <a href="https://open.spotify.com/track/25bIFWMJj6aAhunsqoXI1l?si=7d5570a048964ac9"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
@@ -571,7 +571,7 @@
 | نیش | 68 Freestyle | <a href="https://youtu.be/aGIBYeG-I_Y"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | هومن و شمرونی | رینگ رینگ | <a href="https://youtu.be/1R5fWR6xNWQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | سینا مافی | یه روز همه رفیقام میرن | <a href="https://youtu.be/mm_P70A0LH0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
-| علی اوج و مینور بیت باکس | هیپی هیپی هاپ | <a href="https://youtu.be/xrx53ge_1dM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| علی اوج و مینور بیت باکس | هیپی هیپی هاپ (دستگرمی) | <a href="https://youtu.be/xrx53ge_1dM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | کَدیش | C. C. Vibez | <a href="https://youtu.be/oDkIf8yWEyM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | Amir Ta-arif | صلوات | <a href="https://youtu.be/cxNcUW89qm8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | کوروش، سیجل، سمی لو و رها | اکستازی | <a href="https://youtu.be/5E2hIaAm6fE"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
@@ -580,6 +580,15 @@
 | سپهر سین جیم | براق (تیزر) | <a href="https://youtu.be/rPDkOdTdR3A"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | لاکی حسام | Respect | <a href="https://www.instagram.com/tv/CgUO-3xj_Wk/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
 | رایان | DripDrop | <a href="https://youtu.be/Jyiw5S-RA0I"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| جرشا، احسان کین، ماکاولی، ترین، هفت، کیارپ، کوهگل و رضا پیکه | گروهی | <a href="https://youtu.be/5aKw3yfnRVo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| جیدال، لوکی، پارسا سیمپسون و پرهام Thei | Lottery 2 | <a href="https://youtu.be/HfNcoP4n-8g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| موئر | استثنا | <a href="https://youtu.be/rhANTlY8TFs"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| عرفان، ایمانمون، پویان اردلان و دارا کی | Hallelujah | <a href="https://youtu.be/q46Ly0wvImE"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| چرسی | هرزه (اجرای زنده) | <a href="https://youtu.be/qK8wi2GRiOs"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| پارسالیپ و آیسی وایرس | جی مرسدس | <a href="https://youtu.be/DE0txDo1Brc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| آرش سرطان | Mix Ish 2 | <a href="https://youtu.be/JBTljFIZw7A"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| بهزاد لیتو، سیجل و خلسه | شل کن | <a href="https://youtu.be/Ev15rFAxd2w"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| علی اوج | دهه هیپ‌هاپ | <a href="https://youtu.be/0l66wEqNr9A"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -635,6 +644,22 @@
 | رایان | DripDrop | <a href="https://soundcloud.com/rayantrap/dripdrop?si=667389bdb83a4eefab1dfd7d8684771a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | طومار | مامان ببخش | <a href="https://soundcloud.com/tumar-trap/maman-bebakhsh?si=3cb09cf687a4440592aae856e2f04948&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | بهزاد لیتو، سهراب ام جی، سیجل و علیرضا جی جی | تولد | <a href="https://open.spotify.com/track/3XmS0SRDdnszbY5Rjk3eua?si=a9e774f4c9da411b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جرشا، احسان کین، ماکاولی، ترین، هفت، کیارپ، کوهگل و رضا پیکه | گروهی | <a href="https://open.spotify.com/track/1ii7cyF7yxDVBoPlwkW8bH?si=13f4b2a1b07f4cf7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پدی آی | جانی | <a href="https://soundcloud.com/pedi-i-463233270/jani?si=a3c6477fe89f47728c415f05d215bba5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| بن و پوزاکس | ژولیده مو | <a href="https://open.spotify.com/track/1dSQAU70wiwJCAFhaTXlnZ?si=e52bebf252224047"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| شاهین لو (تی ام بکس) | مدلمونه | <a href="https://open.spotify.com/track/0uAkmwHptt8x8ojuTi5Z4P?si=88afa3f8fc0847a7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| موئر | استثنا | <a href="https://open.spotify.com/track/07yArAtkQgj5OkDIFf7IRB?si=ab46039d73eb44c4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| عرفان، ایمانمون، پویان اردلان و دارا کی | Hallelujah | <a href="https://open.spotify.com/track/5bnyjjXQo6zQm4kyW6qhWR?si=66f647aeb62446d1"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| د دان و گرزان | با تو حال میداد | <a href="https://youtu.be/85y9Mip9H8g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| علی اِزا | Shawty | <a href="https://open.spotify.com/track/5jpsZk4WN5RGkbausM07VO?si=d3d240ab9bf7404a"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تهی، تتلو و پیشرو | بیبی اونم دوست منه | <a href="https://open.spotify.com/track/0HLQRljaGjU5oZVyt0EiCA?si=1e99f3aef6254ce8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تهی، تتلو و پیشرو | ژلوفن 2 | <a href="https://open.spotify.com/track/0HLQRljaGjU5oZVyt0EiCA?si=1e99f3aef6254ce8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سیناب | کد | <a href="https://youtu.be/Uc1Y31J3qKo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| سوگند | داد نزن | <a href="https://youtu.be/sN7z-RzkFm4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ایسین و شایان روحی | Hooka | <a href="https://soundcloud.com/arash-sayadi-492866300/eycin-x-roohi-hooka-mp3?si=bf8087cde1294ce5801ff740c64feb95&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تی ام بکس | آفلاین | <a href="https://youtu.be/k68_ruhNVjs"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| سامی بیگی، بهزاد لیتو و سیجل | فوق العاده (ریمیکس) | <a href="https://open.spotify.com/track/0RrOyCMbCrmoj8Bc37o5k3?si=dd62b43732824b4e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تی ام بکس | جز تو (ریمیکس) | <a href="https://open.spotify.com/album/3XiO5IYvhncZbtXIrJm3DE?si=sGtVWaeXTv6PFCdQlteAiA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام مجموعه | لینک |
