@@ -589,6 +589,9 @@
 | آرش سرطان | Mix Ish 2 | <a href="https://youtu.be/JBTljFIZw7A"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | بهزاد لیتو، سیجل و خلسه | شل کن | <a href="https://youtu.be/Ev15rFAxd2w"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | علی اوج | دهه هیپ‌هاپ | <a href="https://youtu.be/0l66wEqNr9A"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| مهیار (اصلی) | کجایی | <a href="https://youtu.be/5N70eJyJD2A"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| رض و مطرب | رنگی (اجرای زنده) | <a href="https://www.instagram.com/tv/CgclZeHLeZB/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
+| دلو | کوچه به کوچه | <a href="https://youtu.be/c2RXkRxLw_Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -660,6 +663,12 @@
 | تی ام بکس | آفلاین | <a href="https://youtu.be/k68_ruhNVjs"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | سامی بیگی، بهزاد لیتو و سیجل | فوق العاده (ریمیکس) | <a href="https://open.spotify.com/track/0RrOyCMbCrmoj8Bc37o5k3?si=dd62b43732824b4e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | تی ام بکس | جز تو (ریمیکس) | <a href="https://open.spotify.com/album/3XiO5IYvhncZbtXIrJm3DE?si=sGtVWaeXTv6PFCdQlteAiA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| رضو ممو | با تو | <a href="https://soundcloud.com/rezomemo/ba-to-mit-dir?si=b94f4e68dc9f486fab1d554f8daae3ce&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| زدبازی | تهران می‌بینمت | <a href="https://open.spotify.com/track/0mYshvmdiWu6Q5w0HB5yNG?si=7465d00647014c6d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| دورچی | ریری | <a href="https://soundcloud.com/dorcci/riri"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| شمرونی و فَرَنگ | کنار تو | <a href="https://soundcloud.com/shemroonii/kenare-to?si=37af4c6cbd6c40ff974009f51e6f81dd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| دلو و مرداس | کوچه به کوچه | <a href="https://soundcloud.com/shemroonii/kenare-to?si=37af4c6cbd6c40ff974009f51e6f81dd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پوریا ادرویت و روحی | تیرکس | <a href="https://soundcloud.com/shemroonii/kenare-to?si=37af4c6cbd6c40ff974009f51e6f81dd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام مجموعه | لینک |
