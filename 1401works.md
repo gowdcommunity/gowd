@@ -533,7 +533,6 @@
 
 ## مرداد
 - [مجموعه‌ها](#مجموعهها-4)
-- [مجموعه‌های بی‌کلام](#مجموعههای-بیکلام-1)
 - [مجموعه‌های همکاری](#مجموعههای-همکاری-1)
 - [ویدئوها](#ویدئوها-4)
 - [تک آهنگ‌ها](#تک-آهنگها-4)
@@ -544,11 +543,6 @@
 |:-:|:-:|:-:|
 | هلیوم، اشکان کاگان و نعمتی | Envy | <a href="https://open.spotify.com/album/2EGkaTBjDG6q78RQqipqbv?si=o3MZZvW6T_OZSv7ts_9-9g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ناجی | Phonenix (Deluxe) | <a href="https://open.spotify.com/album/3jfuT0vAnWG8wj1r12TjGa?si=pQ8RZ825SfeXMB87-RQ1tQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-
-### مجموعه‌های بی‌کلام
-| هنرمند | نام مجموعه | لینک |
-|:-:|:-:|:-:|
-
 
 ### مجموعه‌های همکاری
 | هنرمند | نام مجموعه | لینک |
@@ -592,6 +586,8 @@
 | مهیار (اصلی) | کجایی | <a href="https://youtu.be/5N70eJyJD2A"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | رض و مطرب | رنگی (اجرای زنده) | <a href="https://www.instagram.com/tv/CgclZeHLeZB/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
 | دلو | کوچه به کوچه | <a href="https://youtu.be/c2RXkRxLw_Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| امین تی جی | Mug Shot | <a href="https://youtu.be/XFkaB5Ob0ak"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| اپریصا | جراحت | <a href="https://youtu.be/sWnhEUur6iA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -669,6 +665,8 @@
 | شمرونی و فَرَنگ | کنار تو | <a href="https://soundcloud.com/shemroonii/kenare-to?si=37af4c6cbd6c40ff974009f51e6f81dd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | دلو و مرداس | کوچه به کوچه | <a href="https://soundcloud.com/shemroonii/kenare-to?si=37af4c6cbd6c40ff974009f51e6f81dd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | پوریا ادرویت و روحی | تیرکس | <a href="https://soundcloud.com/shemroonii/kenare-to?si=37af4c6cbd6c40ff974009f51e6f81dd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پویان جی سی، شایان اشراقی و کوریبوم | مال من باش | <a href="https://youtu.be/NUotYqr7jAk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| امیر رقاب | اوریگامی | <a href="https://open.spotify.com/track/5rvP2VjhZjVbiyIcGilRpA?si=44eb7bd38ccc4bfe"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام مجموعه | لینک |
