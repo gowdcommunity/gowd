@@ -698,15 +698,19 @@
 
 
 ### ویدئوها
-| هنرمند | نام مجموعه | لینک |
+| هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
-
+| کیارپ و ناجی | جدی طنزه قسمت 4 فصل 2 | <a href="https://youtu.be/LYoPv5c5OPU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| لیل موو | باراباس | <a href="https://youtu.be/sjOkLlONSN4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
-| هنرمند | نام مجموعه | لینک |
+| هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
+| لیل موو | باراباس | <a href="https://open.spotify.com/track/2yWXuob8O4B9pR5pehnYaB?si=2678669b3f2f48c7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| معراج تهرانی | شهر قرق | <a href="https://soundcloud.com/merajtehrani/shahre-ghorogh-merajtehrani?si=3b888c91987443c8852806f58e06f54f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| حسین موسوی | ارتفاغ | <a href="https://www.radiojavan.com/mp3s/mp3/Hosein-Mousavi-Ertefa"><img src="https://www.radiojavan.com/images/default_fb.png" width="25"></a>
 
 
 ### اینسترومنتال‌ها
-| هنرمند | نام مجموعه | لینک |
+| هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
