@@ -702,6 +702,15 @@
 |:-:|:-:|:-:|
 | کیارپ و ناجی | جدی طنزه قسمت 4 فصل 2 | <a href="https://youtu.be/LYoPv5c5OPU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | لیل موو | باراباس | <a href="https://youtu.be/sjOkLlONSN4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ویناک و تی ام | اخوی | <a href="https://youtu.be/kxTivR_GOII"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| سینا ساعی | کاکتوس | <a href="https://youtu.be/inKeY2kxF0k"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| مُنجی | متروک | <a href="https://youtu.be/yWypt4tBQs0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| هیپ‌هاپولوژیست | نسخ نسخه | <a href="https://youtu.be/vGxxBvYKlzc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| علی تی و سرطان | بسته بسته | <a href="https://www.radiojavan.com/videos/video/ali-t-haajit-saretan-baste-baste"><img src="https://www.radiojavan.com/images/default_fb.png" width="25"></a>
+| چرسی | Sign | <a href="https://youtu.be/kw3CEM7zI1s"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| مسلک | Freak | <a href="https://youtu.be/j-YmktwPRO8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| شروین حاجی‌پور | چشماتو ببند | <a href="https://youtu.be/aO3xC85MUVY"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| یانگ صادن و نیگزد | دو دو دو | <a href="https://youtu.be/EQcO937GWz8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -710,8 +719,20 @@
 | معراج تهرانی | شهر قرق | <a href="https://soundcloud.com/merajtehrani/shahre-ghorogh-merajtehrani?si=3b888c91987443c8852806f58e06f54f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | حسین موسوی | ارتفاغ | <a href="https://www.radiojavan.com/mp3s/mp3/Hosein-Mousavi-Ertefa"><img src="https://www.radiojavan.com/images/default_fb.png" width="25"></a>
 | مشرقی و سیک‌اسکرت | Acrophobia | <a href="https://soundcloud.com/sickskrrrt/acrophobia?si=0d48253699244094b05be9bd9a115a16&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| الف هوداد | شام آخر | <a href="https://soundcloud.com/kakacrew/shameakhar?si=ca0586c6bbd649718999fcc9f59b4f9e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| P.I.A | Flex | <a href="https://open.spotify.com/track/5Js3bclDeKFKx4HZrsWH5F?si=5f9e3c2b9c404145"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| دانیال | لواط | <a href="https://youtu.be/0GrDasjLI5c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ایسین | این روزا می‌‌گذره | <a href="https://open.spotify.com/track/0remiQza7Mq5DZ3oHLFVXR?si=8dde7a6638324e46"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| رضا اودین | پِیک | <a href="https://open.spotify.com/track/0PSTMaOnSxXy72OoiF6aUV?si=b00dd938c5b74f45"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پیام تُرک | Qorxma | <a href="https://open.spotify.com/track/0kLyrlZdrALQjZ4qhBY6Ul?si=ead01f93d2d04fae"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| امینک | هر جا | <a href="https://open.spotify.com/track/4msAiKjq869uVHf8c6n3DT?si=95d725f9fef240c8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| لیل موو | Hennessy | <a href="https://open.spotify.com/track/00fM1hnW2x6e0luqRrnkyA?si=bbc4a8fa9fa94edc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| شروین حاجی‌پور | چشماتو ببند | <a href="https://open.spotify.com/track/1lmsO0vlb3FHbaV4G1mOTW?si=7adb89fa182f4b63"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مسلک | فریک | <a href="https://open.spotify.com/artist/6ZWZCww4so7LacgTJiFTWb?si=a95d4085a39b4f2b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| یانگ صادن و نیگزد | دو دو دو | <a href="https://open.spotify.com/track/4uunBJuTtb9QBynKdAUInC?si=2bfc7c8143594d41"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
+| رضا دد و فون کیدز | 999 | <a href="https://soundcloud.com/rezadead/999phonk?si=88731b1be7404c82a9c6ca602455fd6d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
