@@ -719,6 +719,13 @@
 | زیروتوئنی‌وان کید و بهزاد لیتو | Avalanche | <a href="https://youtu.be/1x5C2J4Tz8M"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | جیدال | رمز | <a href="https://youtu.be/rgXChWgd7YA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | سینا قیام | تهران گاتهام | <a href="https://youtu.be/zEb2-XEigVI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| Colorful Revolution | We Broken Head | <a href="https://youtu.be/w-y2vnZRSZk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| جرشا | محکمه | <a href="https://youtu.be/RQTa6j-xKlI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| حسیم هفت، وارماشین و ساتراپ | Street | <a href="https://youtu.be/Q6e6STybnMc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| عرفان | شهریور بعد | <a href="https://youtu.be/HcpG_GScIa8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| یاسر بینام | تیزر خوش‌حالمون کن | <a href="https://youtu.be/a2NKu6_5PrU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| حُسِن | بِینِ مریض | <a href="https://www.instagram.com/reel/ChxU1LophxL/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
+| آیسم | Rebel | <a href="https://youtu.be/sKYYaj9U79s"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -757,6 +764,20 @@
 | امیر ربلز | Breakdown Freestyle | <a href="https://soundcloud.com/amirrebels/breakdown-freestyle-prod-amirrebels-x-majesty_beats?si=b0f24360360d4ed5a1b9c3ec7b40ffe5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | سینا ساعی | کاکتوس | <a href="https://open.spotify.com/track/5nQHWPAIQV8VkUo6H20Gq3?si=be1b1962075c4fc6"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | امیر عرش | یاکوزا | <a href="https://soundcloud.com/amirarsh/yakuza-amirarsh-prodbynava?si=7f54d80760d5427490379934df548fe2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| شرقی | Compass | <a href="https://open.spotify.com/track/32reCtpmc9CezvUz1bjF4m?si=0d6cc754efa54773"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| Colorful Revolution | We Broken Head | <a href="https://open.spotify.com/track/12cJ8f3PO2t0yXbSPTfpxO?si=2e761611258a47c5"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| چیت تو ای ام، نیما تاون و سینا کوش | میشیم و رد | <a href="https://open.spotify.com/track/3hgqX232z9m6MOI4DMDVOp?si=54e1e1b6c37a4599"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جرشا | محکمه | <a href="https://open.spotify.com/track/0GUNxmwAcxSt6NxB8YgbRA?si=296d353451114801"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ارشیا و ممرض | کارتل | <a href="https://open.spotify.com/track/7sw0rxdfT4hszENL3OqRhp?si=47b8e0d06e3f498c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سنگ | مکزیکو | <a href="https://soundcloud.com/sangbeats/sang-mexico?si=a6f060b8cf8b436d8f02f1565ed73645&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| Son of Space | اسکینی | <a href="https://open.spotify.com/track/0qaoLQL5ptWiQCxtijG3UR?si=eb8a799e18d04be1"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کیارپ و ناجی | شطرنج | <a href="https://open.spotify.com/track/3T7zh9OEFBQZjSMpM6p821?si=ab84af5308ec4b05"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آراه | زخمی | <a href="https://open.spotify.com/track/3e3TvugelQsrmuK3FXMJoa?si=f77b5a037a5a483e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| علی ازا و ممزی | بنتلی | <a href="https://open.spotify.com/track/4Kd19rX7B5MY1yXN4jGHxf?si=75a4bbe6d6ae489c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| یاسر بینام | خوش‌حالمون کن | <a href="https://open.spotify.com/track/45nOyYlcMQZUM0AEjs2dtH?si=58defce7cbd54fbc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| حُسِن | بِینِ مریض | <a href="https://soundcloud.com/hosendreams/beyne-mariz-prod-faghan-2?si=af433c1ff21448f584d35e938bf7342a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سزاگادز و هیپ‌هاپولوژیست | نسخ نسخه ریمیکس | <a href="https://open.spotify.com/track/3dFHZ9KKTzWuYzcAIC44XJ?si=f6ba4d749c0f437c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آیسم | Rebel | <a href="https://open.spotify.com/track/6vEV4DTbruvBH9jl9SMarX?si=2c39941493b342ab"><img src="https://edent.github.io/SuperTinyIcons/images/svg/Spotify.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
