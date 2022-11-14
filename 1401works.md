@@ -731,6 +731,7 @@
 | کیارش، پرهام، کاگان، دوستی و متینم | CUPA CODI | <a href="https://youtu.be/foRk1-uXeU8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | پوری | اوراقی و نداره کار | <a href="https://youtu.be/8ftavsA5Uwc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | نیش | آزمایشگاه قسمت 10 فصل 2 | <a href="https://youtu.be/GDQywh003K0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| علی اوج و مینور بیت‌باکس | طنز تلخ | <a href="https://youtu.be/D6pbETD7TtM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -792,6 +793,8 @@
 | پوری | اوراقی | <a href="https://open.spotify.com/track/58CElmcij1WkSdT9hbwVPP?si=1f78dc31b0194828"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | پوری | نداره کار | <a href="https://open.spotify.com/track/0mjqBKrrSbMvD3H3fRevUj?si=7ddc90f526764c4d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | نیش | آزمایشگاه قسمت 10 فصل 2 | <a href="https://open.spotify.com/track/03jib58PTQJnK0VIinHkFn?si=c6ae57f3f1df4cf4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کاربازی | Dopelari | <a href="https://soundcloud.com/karbazi/doplari?si=ec1754bab80c4a82a2e5d584f74ff337&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| علی اوج و مینور بیت‌باکس | طنز تلخ | <a href="https://soundcloud.com/owjali/tanze-talkh?si=7103e4f8f5dc4cb2be2c81f487af99a8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
