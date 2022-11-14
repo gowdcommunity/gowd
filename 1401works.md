@@ -685,6 +685,8 @@
 ### مجموعه‌ها
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
+| سالک | کوچ | <a href="https://open.spotify.com/album/1QPYuHeLUM2ij37uFxM85l?si=e2fea39887fc42b2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کچی بیتز | یایا | <a href="https://youtube.com/playlist?list=PLXP077hjd4JmttkOWFTfY0mrS34TeNdBP"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 
 ### مجموعه‌های بی‌کلام
@@ -716,6 +718,7 @@
 | دلو و امین تی جی | Potter (منو نمیگیره) | <a href="https://youtu.be/kvtB6TrZSfs"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | زیروتوئنی‌وان کید و بهزاد لیتو | Avalanche | <a href="https://youtu.be/1x5C2J4Tz8M"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | جیدال | رمز | <a href="https://youtu.be/rgXChWgd7YA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| سینا قیام | تهران گاتهام | <a href="https://youtu.be/zEb2-XEigVI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -745,6 +748,15 @@
 | سوگند و زخمی | تلخ | <a href="https://youtu.be/UUnocn4m4fI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | جیدال | رمز | <a href="https://open.spotify.com/track/4wkPnEzNMqWCFUJOXixoFa?si=9e5892977f794a70"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | سالک و صفریسم | غربتی | <a href="https://open.spotify.com/track/3Qv5uGLRblhQfKYEBpf69D?si=8a439d3c8e264f2e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سینا قیام | تهران گاتهام | <a href="https://open.spotify.com/track/5TgNQ2GbiLBZ9MkJa0bCSN?si=f28ae018fc664fe4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| میلاد هانیبال | Mojide | <a href="https://open.spotify.com/track/4cbBtRBM7nNaAT9vA8H9i3?si=25090078d60e4e66"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مهراد هیدن، سامان ویلسون، سهراب ام‌جی و مودی موسوی | اوف | <a href="https://open.spotify.com/track/4BVUvulb6oZF6jdC0t9El5?si=8b9f33985de14748"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| رِف | بازی | <a href="https://open.spotify.com/track/2ojg2ACC0tkmZmjyT7qymI?si=2efb32c73349483b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پوریا ادرویت و ایسین | بِدِه 2 | <a href="https://open.spotify.com/track/7EK4Go5Fw4iz6OhouENx11?si=f0d22803a1324ebe"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| طومار | بده سم | <a href="https://open.spotify.com/track/0T5CUvsOVKRzuxpYTSBP31?si=30c5d3d95d9d4a03"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| امیر ربلز | Breakdown Freestyle | <a href="https://soundcloud.com/amirrebels/breakdown-freestyle-prod-amirrebels-x-majesty_beats?si=b0f24360360d4ed5a1b9c3ec7b40ffe5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سینا ساعی | کاکتوس | <a href="https://open.spotify.com/track/5nQHWPAIQV8VkUo6H20Gq3?si=be1b1962075c4fc6"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| امیر عرش | یاکوزا | <a href="https://soundcloud.com/amirarsh/yakuza-amirarsh-prodbynava?si=7f54d80760d5427490379934df548fe2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
