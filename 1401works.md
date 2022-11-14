@@ -690,6 +690,7 @@
 ### مجموعه‌های بی‌کلام
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
+| بیگ کید و کژتاب | A REAL BOYS STORY | <a href="https://soundcloud.com/bigkid-beats/sets/bigkid-x-kazhtab_a-real-boys-story"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### مجموعه‌های همکاری
@@ -711,6 +712,10 @@
 | مسلک | Freak | <a href="https://youtu.be/j-YmktwPRO8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | شروین حاجی‌پور | چشماتو ببند | <a href="https://youtu.be/aO3xC85MUVY"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | یانگ صادن و نیگزد | دو دو دو | <a href="https://youtu.be/EQcO937GWz8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| مِندا | Jasho | <a href="https://youtu.be/2M8Rl07hjf0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| دلو و امین تی جی | Potter (منو نمیگیره) | <a href="https://youtu.be/kvtB6TrZSfs"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| زیروتوئنی‌وان کید و بهزاد لیتو | Avalanche | <a href="https://youtu.be/1x5C2J4Tz8M"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| جیدال | رمز | <a href="https://youtu.be/rgXChWgd7YA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -730,6 +735,16 @@
 | شروین حاجی‌پور | چشماتو ببند | <a href="https://open.spotify.com/track/1lmsO0vlb3FHbaV4G1mOTW?si=7adb89fa182f4b63"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | مسلک | فریک | <a href="https://open.spotify.com/artist/6ZWZCww4so7LacgTJiFTWb?si=a95d4085a39b4f2b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | یانگ صادن و نیگزد | دو دو دو | <a href="https://open.spotify.com/track/4uunBJuTtb9QBynKdAUInC?si=2bfc7c8143594d41"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سنیور پارسا | پارلمان | <a href="https://soundcloud.com/seniorparsa/parleman?si=e6d8fa58c3b84366aba7aac74c878e9f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| Cinq5o | Blue Pill | <a href="https://soundcloud.com/seniorparsa/parleman?si=e6d8fa58c3b84366aba7aac74c878e9f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| دلو و امین تی جی | Potter (منو نمیگیره) | <a href="https://open.spotify.com/track/4Z2TC7GUespLdQsk4hhb3c?si=688eb69b65cb4c8f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سجادی | بم میگن دیس بده | <a href="https://open.spotify.com/track/2SajyJPetfKQf4NnlwBYai?si=22af1f6db02a4d26"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| زیروتوئنی‌وان کید و بهزاد لیتو | Avalanche | <a href="https://open.spotify.com/track/3VgqS3y054QNXGHK9f1bxQ?si=5dda2a33ea9740fc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| حسین هفت | هژم | <a href="https://open.spotify.com/track/2TBbBbaOn4IE4GzLLtolTd?si=9d46b552f99c4f60"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ابوالفضل اسپاد | دَرهَم | <a href="https://soundcloud.com/user-197351281/abolfazlspad-x-artinjcat?si=677a555aa9cf43d0bf7fc90d35d04c1f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سوگند و زخمی | تلخ | <a href="https://youtu.be/UUnocn4m4fI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| جیدال | رمز | <a href="https://open.spotify.com/track/4wkPnEzNMqWCFUJOXixoFa?si=9e5892977f794a70"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سالک و صفریسم | غربتی | <a href="https://open.spotify.com/track/3Qv5uGLRblhQfKYEBpf69D?si=8a439d3c8e264f2e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
