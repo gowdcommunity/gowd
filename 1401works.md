@@ -726,6 +726,11 @@
 | یاسر بینام | تیزر خوش‌حالمون کن | <a href="https://youtu.be/a2NKu6_5PrU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | حُسِن | بِینِ مریض | <a href="https://www.instagram.com/reel/ChxU1LophxL/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
 | آیسم | Rebel | <a href="https://youtu.be/sKYYaj9U79s"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| بابک تیغه | فیک | <a href="https://youtu.be/x7Mz7v_S8sA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| رودی | ماهی | <a href="https://youtu.be/TUQyFjc8eMA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| کیارش، پرهام، کاگان، دوستی و متینم | CUPA CODI | <a href="https://youtu.be/foRk1-uXeU8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| پوری | اوراقی و نداره کار | <a href="https://youtu.be/8ftavsA5Uwc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| نیش | آزمایشگاه قسمت 10 فصل 2 | <a href="https://youtu.be/GDQywh003K0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -778,6 +783,15 @@
 | حُسِن | بِینِ مریض | <a href="https://soundcloud.com/hosendreams/beyne-mariz-prod-faghan-2?si=af433c1ff21448f584d35e938bf7342a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | سزاگادز و هیپ‌هاپولوژیست | نسخ نسخه ریمیکس | <a href="https://open.spotify.com/track/3dFHZ9KKTzWuYzcAIC44XJ?si=f6ba4d749c0f437c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | آیسم | Rebel | <a href="https://open.spotify.com/track/6vEV4DTbruvBH9jl9SMarX?si=2c39941493b342ab"><img src="https://edent.github.io/SuperTinyIcons/images/svg/Spotify.svg" width="25"></a>
+| کوروش، زیروتوئنی‌وان کید و سمی لو | اکلیل سرنچ | <a href="https://open.spotify.com/track/3wwRAyOyDizow7IB8d5V1r?si=8da2864a1c8e4027"><img src="https://edent.github.io/SuperTinyIcons/images/svg/Spotify.svg" width="25"></a>
+| ارسلان دیگرد | نباید کشت | <a href="https://open.spotify.com/track/4JEclvWCIghIhoWIqY8VjU?si=a01021e1ffbf4fd4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/Spotify.svg" width="25"></a>
+| پاپا اصلی | Xen | <a href="https://open.spotify.com/track/6qiwE2Kdfd7OlaIxkPAluK?si=612fa88e4f364c98"><img src="https://edent.github.io/SuperTinyIcons/images/svg/Spotify.svg" width="25"></a>
+| رودی | ماهی | <a href="https://open.spotify.com/track/2W4YtApu9rPkrfy6VaipQK?si=f6e7446302da4cd6"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آرتور، زیپو و Jupin | کثافت | <a href="https://soundcloud.com/user-42251188/kesafat-mp3?si=8cabd3e8ca5548fdb2579449fe5a8180&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کیارش، پرهام، کاگان، دوستی و متینم | CUPA CODI | <a href="https://open.spotify.com/track/7acpHfS4DENQ0BTkchcUcA?si=bfc90f68bce94d6c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پوری | اوراقی | <a href="https://open.spotify.com/track/58CElmcij1WkSdT9hbwVPP?si=1f78dc31b0194828"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پوری | نداره کار | <a href="https://open.spotify.com/track/0mjqBKrrSbMvD3H3fRevUj?si=7ddc90f526764c4d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| نیش | آزمایشگاه قسمت 10 فصل 2 | <a href="https://open.spotify.com/track/03jib58PTQJnK0VIinHkFn?si=c6ae57f3f1df4cf4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
