@@ -689,6 +689,7 @@
 | سالک | کوچ | <a href="https://open.spotify.com/album/1QPYuHeLUM2ij37uFxM85l?si=e2fea39887fc42b2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | کچی بیتز | یایا | <a href="https://youtube.com/playlist?list=PLXP077hjd4JmttkOWFTfY0mrS34TeNdBP"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | کوروش | 420 Vol.2 | <a href="https://open.spotify.com/album/3f8FpeGqcFe4pzjqsnkVXj?si=UG2LgNU8T7SPFyDnY7p0Xg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ودا | دوگانه کوراب | <a href="https://soundcloud.com/vedaputinpush/sets/koorab-1?si=4fa60a5e955a48fa9dcdb48782aa1032&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### مجموعه‌های بی‌کلام
@@ -740,6 +741,7 @@
 | کنیس، مهراد هیدن و دی سِوِن | گنگ گنگ گنگ | <a href="https://youtu.be/P7j-CKces2A"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | پارسالیپ | ونوم | <a href="https://youtu.be/3Ve2Yu-deNk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | جیدال، عرفان، سامی بیگی و مدگل | حالا نه | <a href="https://youtu.be/2xCOK65MjvU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| کچی بیتز، پوتک و سینا مافی | دافا | <a href="https://youtu.be/Ymbd-02U-3s"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -829,6 +831,17 @@
 | مازیار خواجیان و فرشاد | خون | <a href="https://soundcloud.com/amoomazz/khoun-x-farshad?si=6b5863de395b40518d03953b879a5acc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | کچی بیتز | روزای بعدی (فری‌استایل) | <a href="https://soundcloud.com/tiktaak-sr/catchybeatz-roozaye-baadi-freestyle?si=e93b8a79d8ec4b1686698cfaf666c024&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | اوکتاو | برنو | <a href="https://open.spotify.com/track/618vmD2cCRubdwZDgfZEty?si=495025344db9454c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| گویا | گندابی | <a href="https://open.spotify.com/track/7xufQkza8AUByQ7LmmdRPJ?si=1bde40c296434372"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ریبار | Suicide (Freestyle) | <a href="https://soundcloud.com/realribar/suicide-official-freestyle?si=2817a9936d1940898dfce0d5bf26de0d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| رادوچی | زبل | <a href="https://open.spotify.com/track/7gmaSDp5rv2wPATgY9KmdK?si=36425ebd3c0d4dd6"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ریبار، کیارپ و مجهول | DDCHI | <a href="https://soundcloud.com/realribar/ddchi-kiarap-x-majhool?si=55f54e5d37394e5ea47d225d56f790d5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پارسا سیمپسون و تامارا | مرز | <a href="https://soundcloud.com/user-337036436/marz-feat-tamara?si=da5bf1bf6429489ea6958352d5cd8e82&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ناجی | X (Freestyle) | <a href="https://soundcloud.com/naajiofficial/xfs?si=f8f511c98bf646ac88229195887e38e0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سیتال و ریبار | می‌تونی بری | <a href="https://soundcloud.com/30tall-x/mitooni-beri-30tall-x-ribar?si=0b8fa92ffcd24ddd946ae5d68dbecb27&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پوریا کی و فیزر | Sadd | <a href="https://open.spotify.com/track/7tVFBrY54ImbFioP1xBpdQ?si=001ec114838e4e0b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پوریا کی و PDC | سرد | <a href="https://open.spotify.com/album/6oM8TFCleWvcxqujtAuyU7?si=Y6tP1VgrQaGjH3Yxj_KdIA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| فرونگ | باهام بیا | <a href="https://soundcloud.com/fvrvng/bahambia?si=5cace9836d0e417ea7b7c7e9e5a599b7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| گویا | خونه تیمی (فری‌استایل) | <a href="https://open.spotify.com/album/2YIdJI1P85gDrYrS5BbQtI?si=elEvdXQ7RTK9ij0R5D93UQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
