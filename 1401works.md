@@ -354,6 +354,7 @@
 | عرفان و اسدی | ای دل | <a href="https://open.spotify.com/track/6xqDJwKqO1Thsfti5VZViW?si=d613f79ccde546d1"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | مهراد هیدن | شنبه (ورژن آلترناتیو) | <a href="https://open.spotify.com/track/4tW0Q7ZqNNUAHYndt8GKDf?si=0eedfc6e0ebc4e01"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | پوبون و میلانو | فندی | <a href="https://open.spotify.com/track/03kRClVw6BNKerM2cybuFC?si=affde90994394d9d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| یاس | بیم (ریمستر) | <a href="https://youtu.be/f3dsHhRYAE8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
@@ -687,6 +688,7 @@
 |:-:|:-:|:-:|
 | سالک | کوچ | <a href="https://open.spotify.com/album/1QPYuHeLUM2ij37uFxM85l?si=e2fea39887fc42b2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | کچی بیتز | یایا | <a href="https://youtube.com/playlist?list=PLXP077hjd4JmttkOWFTfY0mrS34TeNdBP"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| کوروش | 420 Vol.2 | <a href="https://open.spotify.com/album/3f8FpeGqcFe4pzjqsnkVXj?si=UG2LgNU8T7SPFyDnY7p0Xg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 
 ### مجموعه‌های بی‌کلام
@@ -732,6 +734,11 @@
 | پوری | اوراقی و نداره کار | <a href="https://youtu.be/8ftavsA5Uwc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | نیش | آزمایشگاه قسمت 10 فصل 2 | <a href="https://youtu.be/GDQywh003K0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | علی اوج و مینور بیت‌باکس | طنز تلخ | <a href="https://youtu.be/D6pbETD7TtM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| فیومز د انجینیر و زیروتوئنی‌وان کید | Plugged In | <a href="https://youtu.be/0c3LDBiZhis"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| کوروش، آرتا و سمی لو | آمبولانس | <a href="https://youtu.be/UUAk6TCCvGw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| کوروش و سمی لو | نشو ازم دور | <a href="https://youtu.be/LO5oMTUWY-0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| کنیس، مهراد هیدن و دی سِوِن | گنگ گنگ گنگ | <a href="https://youtu.be/P7j-CKces2A"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| پارسالیپ | ونوم | <a href="https://youtu.be/3Ve2Yu-deNk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -795,6 +802,17 @@
 | نیش | آزمایشگاه قسمت 10 فصل 2 | <a href="https://open.spotify.com/track/03jib58PTQJnK0VIinHkFn?si=c6ae57f3f1df4cf4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | کاربازی | Dopelari | <a href="https://soundcloud.com/karbazi/doplari?si=ec1754bab80c4a82a2e5d584f74ff337&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | علی اوج و مینور بیت‌باکس | طنز تلخ | <a href="https://soundcloud.com/owjali/tanze-talkh?si=7103e4f8f5dc4cb2be2c81f487af99a8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سیکاس | Maniac | <a href="https://open.spotify.com/track/1ND4ehDnVYAm6kEE1RNqyD?si=677bca8d8b344842"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| فیومز د انجینیر و زیروتوئنی‌وان کید | Plugged In | <a href="https://open.spotify.com/track/1BKmz0JBJR0izH9EDWywTj?si=4d69809f32154e9e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| محمد بیباک | چشه تهران | <a href="https://open.spotify.com/track/5JiJ5SaKDu2eM3McSil2Ky?si=212709cf5db942b2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کنیس، مهراد هیدن و دی سِوِن | گنگ گنگ گنگ | <a href="https://open.spotify.com/track/5YUyBS40jUzwpryn5uViKu?si=6c6fd3172eaf4123"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پارسالیپ | ونوم | <a href="https://open.spotify.com/track/3xcsM9unXovOxLcL9ttIaA?si=9733398035f34652"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| امیرعلی ای تو و راف کینگ | شوتی | <a href="https://open.spotify.com/track/7uNxgI6IAvveBFcHuOQIsr?si=4d69ad0d5adc454b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| شایان یو | نذار تنها بخوابم | <a href="https://open.spotify.com/track/0Ksd5WhRczL2C9ruSRfayM?si=b5060c46e88f44b0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| علی تی و آرش سرطان | بسته بسته | <a href="https://open.spotify.com/track/1uZ9MT3P7pl9wCgG4KnjQ2?si=de04403ca5fa4ad0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تتلو و پیشرو | مرگ | <a href="https://open.spotify.com/track/0gR6lZGAyZgcISaDvKJHb1?si=35a0769b5160429b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| چرسی | Sign | <a href="https://open.spotify.com/track/37juKItTc1s994FkLj3lfd?si=a744fa7ea5e44c30"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سیکاس و رسام | پارادوکس قسمت 4 | <a href="https://soundcloud.com/rasam-sohrabi/paradox_ep04_with_30kas?si=4708194e828c411fb2dc54bea1438bd5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
