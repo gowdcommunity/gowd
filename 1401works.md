@@ -739,6 +739,7 @@
 | کوروش و سمی لو | نشو ازم دور | <a href="https://youtu.be/LO5oMTUWY-0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | کنیس، مهراد هیدن و دی سِوِن | گنگ گنگ گنگ | <a href="https://youtu.be/P7j-CKces2A"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | پارسالیپ | ونوم | <a href="https://youtu.be/3Ve2Yu-deNk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| جیدال، عرفان، سامی بیگی و مدگل | حالا نه | <a href="https://youtu.be/2xCOK65MjvU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -813,6 +814,21 @@
 | تتلو و پیشرو | مرگ | <a href="https://open.spotify.com/track/0gR6lZGAyZgcISaDvKJHb1?si=35a0769b5160429b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | چرسی | Sign | <a href="https://open.spotify.com/track/37juKItTc1s994FkLj3lfd?si=a744fa7ea5e44c30"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | سیکاس و رسام | پارادوکس قسمت 4 | <a href="https://soundcloud.com/rasam-sohrabi/paradox_ep04_with_30kas?si=4708194e828c411fb2dc54bea1438bd5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سیکاس و رنگی | روباه | <a href="https://soundcloud.com/user-685721516/rubah-30kas-ft-rangi?si=56e56f10ae66451396563ba22e2bd7e5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| عرفان و فرشید | سر شبه | <a href="https://open.spotify.com/album/3WZSY5ZizHwuQW4wWDouEG?si=C9_InlsXSs2bGjhqa07wdA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آیسم و پوریا کی | SAFE | <a href="https://open.spotify.com/track/0C4ubHFQX6VG4XU99fTzTN?si=f5f3b31d0cbc4808"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| اوکتاو | شبی ما | <a href="https://open.spotify.com/track/4XCjPObYqhj0zNAzsk6Lec?si=c4d7f41024a142cd"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آرتا و پوبون | BHMBH | <a href="https://open.spotify.com/track/2JZWE6DCZio19WdnRMKwf2?si=a279a9bd0e184826"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پوبون و M.H PROJECT | دوریم (ریمیکس) | <a href="https://open.spotify.com/track/4wpZrYpxU3WPBM1rYzUbnX?si=ecfbc5ac30674d29"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ایکس ویسکی و امین تی جی | فالکون | <a href="https://open.spotify.com/track/6xrSrAAj6hrCdAwq4DOsGf?si=c7ab267f82d94ca6"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پاپا اصلی و آتور | با تو | <a href="https://open.spotify.com/track/6PQFVixzy5AlgS8dd8Eq7h?si=0ff35601dd2f4e43"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جرشا | واچه خوار | <a href="https://soundcloud.com/jarshaa/vache-khaar?si=737602e60bbf4d35bc3b03171bcb0d38&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| غوغا | شهرزاد | <a href="https://soundcloud.com/peeleh/shahrzad?si=6d33772a3eaa4a41a18b0849d2eb492a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| امین تی جی | ولی من نه | <a href="https://soundcloud.com/amintijayy/amin-tijay-x-lil-deafo-vali-man-na?si=fa8af9475c8c4aaf9da1a79942bf8553&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سیکاس | نمیری از یاد | <a href="https://soundcloud.com/30kas/nemiri-az-yad?si=5067729018474dc78e145a02859bc3fa&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| مازیار خواجیان و فرشاد | خون | <a href="https://soundcloud.com/amoomazz/khoun-x-farshad?si=6b5863de395b40518d03953b879a5acc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کچی بیتز | روزای بعدی (فری‌استایل) | <a href="https://soundcloud.com/tiktaak-sr/catchybeatz-roozaye-baadi-freestyle?si=e93b8a79d8ec4b1686698cfaf666c024&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| اوکتاو | برنو | <a href="https://open.spotify.com/track/618vmD2cCRubdwZDgfZEty?si=495025344db9454c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
