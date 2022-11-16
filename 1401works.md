@@ -932,6 +932,7 @@
 | حسین هفت | گانا | <a href="https://youtu.be/Attw8bM2keA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | حسین زیپو | Pray For Iran | <a href="https://www.instagram.com/reel/CkYH9_8D1HT/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
 | ژودیت و سام آرمین | خشاب | <a href="https://youtu.be/LeKC5xjDNLo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| گوگوش، لیلا فروهر، شهرزاد سپانلو، دریا دادور، سوگند و شهره آغداشلو | دوباره | <a href="https://youtu.be/JKNkFQ-6vtk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 
 ### تک آهنگ‌ها
@@ -948,6 +949,15 @@
 | وطن | کویر | <a href="https://soundcloud.com/patriothiphop/kavir?si=cbac4063176b471cbbfceae25e6abb0d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | ژودیت و سام آرمین | خشاب | <a href="https://open.spotify.com/track/3eammwY2JSTwAMWmviDJ5O?si=cb53a1fff79d4c77"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | شاپور | مرگ بر کل نظام | <a href="https://open.spotify.com/track/2s4yAudwExcQo1k7HBPDsM?si=e7dfbc4c37ad4d74"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ویشتاسب | جوونه | <a href="https://soundcloud.com/wishtasb/javoone?si=89e7e633ae744c5298f28f27be880f80&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| یانگ صادن | آرزوم اینه | <a href="https://soundcloud.com/youngsudden/arezoom-ine?si=5bd37480e8d746f48dbf9c59ecf4285c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پوری | من دلم پره | <a href="https://soundcloud.com/godpoori/mdp?si=049bbd2674674048ab352297f952201b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سیناب و M3lodj | تیر یا باتون | <a href="https://youtu.be/_sbd09ZzXG0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| حسین تهی | همصدا | <a href="https://soundcloud.com/tohi/hamseda?si=74b78e4a90d4422fb11a548de3591a87&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کوروش و سمی لو | ما | <a href="https://soundcloud.com/koorowsh420/maa?si=c1ac076a905b4c0ea059f8f20c603af9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| یاسر بینام | ایران خانوم | <a href="https://open.spotify.com/track/7MJO2X6CdEoFtS4dPyRPOQ?si=25309dd047a54406"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| گوگوش، لیلا فروهر، شهرزاد سپانلو، دریا دادور، سوگند و شهره آغداشلو | دوباره | <a href="https://open.spotify.com/track/0oemnaQx5sKqbKh7exTtxo?si=4db29a2b5ac24e7d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جیدال و عرفان | اون داره میره | <a href="https://open.spotify.com/track/0k72G3AurDzrI0xlV5xwAR?si=1aebc145dcaf4152"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
