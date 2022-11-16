@@ -914,6 +914,7 @@
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
 | حسین هفت | GANA | <a href="https://youtube.com/playlist?list=PL7OjbXzN5iH4IgcYvKhbuuTxiJ9HhIu2E"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ارسلان دیگرد | زنده خوانی ولوم 1 | <a href="https://open.spotify.com/album/6DQBsg7wVBiIzOiUc2mcLb?si=Jlg0C8S-S9GajBoywlTG7g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 
 ### مجموعه‌های بی‌کلام
@@ -933,6 +934,13 @@
 | حسین زیپو | Pray For Iran | <a href="https://www.instagram.com/reel/CkYH9_8D1HT/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
 | ژودیت و سام آرمین | خشاب | <a href="https://youtu.be/LeKC5xjDNLo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | گوگوش، لیلا فروهر، شهرزاد سپانلو، دریا دادور، سوگند و شهره آغداشلو | دوباره | <a href="https://youtu.be/JKNkFQ-6vtk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| Chinx(OS) x Hazey x Sava(OTP) x Mitch x CountryDons x 021Kid | Plugged In | <a href="https://youtu.be/MIyXkbMSYHM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| بهار آتیش | طلوع | <a href="https://youtu.be/b0JJ0xvlKDs"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| زخمی | اجرای زنده | <a href="https://www.instagram.com/reel/Ckp-Xqxjoxb/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
+| کیارپ | اجرا برای مهسا امینی | <a href="https://www.instagram.com/tv/Ckx0k6yIAW0/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
+| مهیار | اجرای این روزا ام می‌گذره | <a href="https://www.instagram.com/reel/Ck3w1hVjJ5x/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
+| سهراب ام جی | اجرای مرگ بر خودم | <a href="https://www.instagram.com/tv/Ck8aK08DnPA/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
+| TMBax | اجرای خواب دیدم | <a href="https://www.instagram.com/reel/ClBgc1Moe2U/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
 
 
 ### تک آهنگ‌ها
@@ -958,6 +966,14 @@
 | یاسر بینام | ایران خانوم | <a href="https://open.spotify.com/track/7MJO2X6CdEoFtS4dPyRPOQ?si=25309dd047a54406"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | گوگوش، لیلا فروهر، شهرزاد سپانلو، دریا دادور، سوگند و شهره آغداشلو | دوباره | <a href="https://open.spotify.com/track/0oemnaQx5sKqbKh7exTtxo?si=4db29a2b5ac24e7d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | جیدال و عرفان | اون داره میره | <a href="https://open.spotify.com/track/0k72G3AurDzrI0xlV5xwAR?si=1aebc145dcaf4152"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تی ام بکس | خواب دیدم (Dream) | <a href="https://open.spotify.com/track/0ebiOhOHEfQhQBI1AgwkSd?si=5647fa7185624559"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سوگند | با هم یکی | <a href="https://youtu.be/PgXdpYSghIg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| Fumez The Engineer, 021Kid, OTP, Hazey, Country Dons, Mitch, Chinx (OS) & Sava | Plugged In Season Finale 2 | <a href="https://open.spotify.com/track/7INlDyDO9Hi5D4bHHIe3ds?si=573e3d931e734a08"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| امیر تتلو | من اولی نبودم ولی آخریشم | <a href="https://youtu.be/99JW6rNvsu8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| آیسم | یادم نرفت | <a href="https://open.spotify.com/track/18SBuXT6DRV3BtF02BXhuS?si=ad3f1a26d103412a"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| علی تی | دخترک | <a href="https://youtu.be/fnrAabmuAjA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| 021G | این دفعه | <a href="https://youtu.be/CjbqwHAf5vI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| مانیاک و سعید دهقان | یکی از ما | <a href="https://open.spotify.com/track/5CZvrmfuqCz8ajlkJJaMPo?si=de014bd31cdb4b1f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
