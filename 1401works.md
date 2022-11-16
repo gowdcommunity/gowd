@@ -908,6 +908,9 @@
 | شروین حاجی‌پور | برای | <a href="https://soundcloud.com/shervinine/baraye?si=cc0c51a6bcbc468a86ec1fd53bd56c3c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | پارسا سیمپسون و لوکی | کور | <a href="https://open.spotify.com/track/2CQKh28wO7yKlidWwT14WS?si=8c31f2a32faa4091"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | هیچکس | این یکیم واسه | <a href="https://youtu.be/i_bLcFCdSIo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| معراج تهرانی | موی به باد | <a href="https://t.me/merajtehraniofficial/579"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="25"></a>
+| فارتم | برای (کاور) | <a href="https://soundcloud.com/fxrtem/baraye"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| نهان و پیشوا | سقوط | <a href="https://soundcloud.com/changrecords/soghoot?si=616459ebc18944d284d95234320ed0bb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
