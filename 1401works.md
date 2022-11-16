@@ -6,6 +6,7 @@
 - [مرداد](#مرداد)
 - [شهریور](#شهریور)
 - [مهر](#مهر)
+- [آبان](#آبان)
 
 ## فروردین
 - [مجموعه‌ها](#مجموعهها)
@@ -847,11 +848,8 @@
 
 ## مهر
 - [مجموعه‌ها](#مجموعهها-6)
-- [مجموعه‌های بی‌کلام](#مجموعههای-بیکلام-2)
-- [مجموعه‌های همکاری](#مجموعههای-همکاری-2)
 - [ویدئوها](#ویدئوها-6)
 - [تک آهنگ‌ها](#تک-آهنگها-6)
-- [اینسترومنتال‌ها](#اینسترومنتالها-6)
 
 
 ### مجموعه‌ها
@@ -859,16 +857,6 @@
 |:-:|:-:|:-:|
 | فدایی و مهدیار آقاجانی | حق | <a href="https://soundcloud.com/mahdyar/sets/hagh?si=d995ca05c8914baabdeb4cb46a6413b8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | ایکس ویسکی | Virus | <a href="https://soundcloud.com/pinkyheadboy/sets/virus?si=88b708535efe44df9f1b18b1d28e84c3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-
-
-### مجموعه‌های بی‌کلام
-| هنرمند | نام مجموعه | لینک |
-|:-:|:-:|:-:|
-
-
-### مجموعه‌های همکاری
-| هنرمند | نام مجموعه | لینک |
-|:-:|:-:|:-:|
 
 
 ### ویدئوها
@@ -911,6 +899,40 @@
 | معراج تهرانی | موی به باد | <a href="https://t.me/merajtehraniofficial/579"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="25"></a>
 | فارتم | برای (کاور) | <a href="https://soundcloud.com/fxrtem/baraye"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | نهان و پیشوا | سقوط | <a href="https://soundcloud.com/changrecords/soghoot?si=616459ebc18944d284d95234320ed0bb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+
+
+## آبان
+- [مجموعه‌ها](#مجموعهها-7)
+- [مجموعه‌های بی‌کلام](#مجموعههای-بیکلام-2)
+- [مجموعه‌های همکاری](#مجموعههای-همکاری-2)
+- [ویدئوها](#ویدئوها-7)
+- [تک آهنگ‌ها](#تک-آهنگها-7)
+- [اینسترومنتال‌ها](#اینسترومنتالها-6)
+
+
+### مجموعه‌ها
+| هنرمند | نام مجموعه | لینک |
+|:-:|:-:|:-:|
+
+
+### مجموعه‌های بی‌کلام
+| هنرمند | نام مجموعه | لینک |
+|:-:|:-:|:-:|
+
+
+### مجموعه‌های همکاری
+| هنرمند | نام مجموعه | لینک |
+|:-:|:-:|:-:|
+
+
+### ویدئوها
+| هنرمند | نام اثر | لینک |
+|:-:|:-:|:-:|
+
+
+### تک آهنگ‌ها
+| هنرمند | نام اثر | لینک |
+|:-:|:-:|:-:|
 
 
 ### اینسترومنتال‌ها
