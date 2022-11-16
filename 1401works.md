@@ -875,8 +875,9 @@
 |:-:|:-:|:-:|
 | مسین | اجرای من و تو ایرانیم | <a href="https://www.instagram.com/tv/Ci7qON2Alyk/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
 | علی ازا | اجرا برای مهسا امینی | <a href="https://www.instagram.com/reel/CjAp_yrpQ0e/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
-| شروین حاجی‌پور | برای | ویدیو در حساب‌های کاربری و سرویس‌های استریم هنرمند قرار ندارد.
-
+| شروین حاجی‌پور | برای | ویدیو در اینستاگرام و یوتیوب هنرمند قرار ندارد
+| علی پاشا | اجرا برای مهسا امینی | <a href="https://www.instagram.com/reel/Ciw-W6WDk0L/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
+| مدگل | برای شروین، مهسا و ایران | <a href="https://youtu.be/HBu9gzLwJIM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -889,6 +890,10 @@
 | رضا پیشرو | ما | <a href="https://open.spotify.com/track/08BNvdNimCSQrmCxBgcy3U?si=9ea836271f2f453a"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | پوتک | لا اله الا الله | <a href="https://open.spotify.com/track/3usuaIH7QASI3NcUDxbxOL?si=ef043bde54f440af"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | مسین و نیلی | من و تو ایرانیم | <a href="https://youtu.be/CQAN58nPsaM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| مدگل | زن زندگی آزادی | <a href="https://open.spotify.com/track/5np5OHfRLuktQfhlKbPgTQ?si=92396841f128468b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تتلو، پیشرو، پوتک و بهار آتیش | انقلاب صلح | <a href="https://open.spotify.com/track/7dJJjMdI2mAAtMOEkjni2J?si=6cf2ba7a4b4145ea"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کینگ رام، عرفان، جیدال، رعنا منصور و حامد نیک‌پی | ایران من | <a href="https://open.spotify.com/track/6zv5FNA4SIMdune6oBHoVQ?si=ad38abae361d435b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| خلسه | اجباری | <a href="https://youtu.be/AckMfHufy8w"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
