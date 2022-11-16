@@ -857,6 +857,7 @@
 ### مجموعه‌ها
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
+| فدایی و مهدیار آقاجانی | حق | <a href="https://soundcloud.com/mahdyar/sets/hagh?si=d995ca05c8914baabdeb4cb46a6413b8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### مجموعه‌های بی‌کلام
@@ -872,11 +873,22 @@
 ### ویدئوها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
+| مسین | اجرای من و تو ایرانیم | <a href="https://www.instagram.com/tv/Ci7qON2Alyk/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
+| علی ازا | اجرا برای مهسا امینی | <a href="https://www.instagram.com/reel/CjAp_yrpQ0e/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
+| شروین حاجی‌پور | برای | ویدیو در حساب‌های کاربری و سرویس‌های استریم هنرمند قرار ندارد.
 
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
+| رودی | زن | <a href="https://open.spotify.com/track/0W7GJyNZ5IFeyNMsakSgoy?si=bb8513a91d1b40e6"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پیشوا و لابیت | فروپاشی | <a href="https://soundcloud.com/wordgamefamily/foropashi-pishva-x-labeat-prod-mafogh?si=dd29443cd8f3440f88cc6d602fef1b83&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سزاوار و تنسر | پولاد | <a href="https://soundcloud.com/sezavar/poolad-prod-by-tanser-mp3?si=63d6e5fc72c04600be40ce495020ad75&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| معراج تهرانی و سرچ | شرف | <a href="https://soundcloud.com/merajtehrani/sharaf-meraj?si=733d33a117614e99a1565b391d7df0e3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| میلاد هانیبال | ژن، ژیان، ژینا، آزادی | <a href="https://open.spotify.com/track/53HIuSXxUyEZ5bafaoXCZ8?si=256e18dd746249f3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| رضا پیشرو | ما | <a href="https://open.spotify.com/track/08BNvdNimCSQrmCxBgcy3U?si=9ea836271f2f453a"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پوتک | لا اله الا الله | <a href="https://open.spotify.com/track/3usuaIH7QASI3NcUDxbxOL?si=ef043bde54f440af"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مسین و نیلی | من و تو ایرانیم | <a href="https://youtu.be/CQAN58nPsaM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
