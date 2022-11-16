@@ -913,6 +913,7 @@
 ### مجموعه‌ها
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
+| حسین هفت | GANA | <a href="https://youtube.com/playlist?list=PL7OjbXzN5iH4IgcYvKhbuuTxiJ9HhIu2E"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 
 ### مجموعه‌های بی‌کلام
@@ -928,15 +929,31 @@
 ### ویدئوها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
+| حسین هفت | گانا | <a href="https://youtu.be/Attw8bM2keA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| حسین زیپو | Pray For Iran | <a href="https://www.instagram.com/reel/CkYH9_8D1HT/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
+| ژودیت و سام آرمین | خشاب | <a href="https://youtu.be/LeKC5xjDNLo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
+| ساتر | بیدار | <a href="https://soundcloud.com/sater-official/bidar?si=7828d414af12424dbaf231487c404f1a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پارسا سیمپسون و پرهام | Under The Moon | <a href="https://soundcloud.com/user-337036436/under-the-moon-feat-prhm?si=8c894ba305134830b1330a23ecc40c89&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کوروش، سمی لو و رها | یه روزی | <a href="https://open.spotify.com/track/2na8gSXBY515LwXacGi5la?si=d60e368ea5be4b40"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| رادوچی | حیف | <a href="https://open.spotify.com/album/1ptNAgA5gDjelRyMlGmhLu?si=eae126b3451c4bcc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پارساد | نیکا | <a href="https://soundcloud.com/barparsad/nikaa?si=9ffeda4ef35346a2a2bb82e19ec5b2b1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سیجل، لیتو و خلسه | 1401 | <a href="https://open.spotify.com/track/0HfJ74fwdZVBAupCDE2tcK?si=0393a16b7a414062"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آری کرمی | یه دل | <a href="https://soundcloud.com/arykarami/ye-del-prod-by-eros?si=c0930d84a14a48d88fbf063be5eb39c4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| امین تی جی | MehrQam | <a href="https://open.spotify.com/track/3XhZWwS7kws3rejBPleZ65?si=9af0b81e05234686"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| وطن | کویر | <a href="https://soundcloud.com/patriothiphop/kavir?si=cbac4063176b471cbbfceae25e6abb0d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ژودیت و سام آرمین | خشاب | <a href="https://open.spotify.com/track/3eammwY2JSTwAMWmviDJ5O?si=cb53a1fff79d4c77"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| شاپور | مرگ بر کل نظام | <a href="https://open.spotify.com/track/2s4yAudwExcQo1k7HBPDsM?si=e7dfbc4c37ad4d74"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
+| تاچی | 01-57 | <a href="https://soundcloud.com/abol-viking/57-01?si=d329008d4be44d74bac39cf72f257ab5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| رضا دد | تاریخ انقضا | <a href="https://soundcloud.com/rezadead/tarikh-engheza?si=d6d8522f1be8460596ad27a18775be4c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
