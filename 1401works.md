@@ -974,6 +974,9 @@
 | علی تی | دخترک | <a href="https://youtu.be/fnrAabmuAjA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | 021G | این دفعه | <a href="https://youtu.be/CjbqwHAf5vI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | مانیاک و سعید دهقان | یکی از ما | <a href="https://open.spotify.com/track/5CZvrmfuqCz8ajlkJJaMPo?si=de014bd31cdb4b1f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مشرقی | آبان | <a href="https://open.spotify.com/track/1w4U6udCCmDBcCVVYtQB0V?si=5b6c1fb2eddb464f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| Son of Space | مال ماس | <a href="https://soundcloud.com/son_of_space/male-mas?si=d86188b93ab140c7b78b17803e3d69b4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ترامون | تازی | <a href="https://soundcloud.com/taraamoon/tazi"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
