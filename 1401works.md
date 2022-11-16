@@ -858,6 +858,7 @@
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
 | فدایی و مهدیار آقاجانی | حق | <a href="https://soundcloud.com/mahdyar/sets/hagh?si=d995ca05c8914baabdeb4cb46a6413b8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ایکس ویسکی | Virus | <a href="https://soundcloud.com/pinkyheadboy/sets/virus?si=88b708535efe44df9f1b18b1d28e84c3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### مجموعه‌های بی‌کلام
@@ -878,6 +879,9 @@
 | شروین حاجی‌پور | برای | ویدیو در اینستاگرام و یوتیوب هنرمند قرار ندارد
 | علی پاشا | اجرا برای مهسا امینی | <a href="https://www.instagram.com/reel/Ciw-W6WDk0L/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
 | مدگل | برای شروین، مهسا و ایران | <a href="https://youtu.be/HBu9gzLwJIM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| حامد فرد | نیکا | <a href="https://youtu.be/YCcuc3rzgl0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| تتلو | اجرای هر کی به ما رسید | <a href="https://youtu.be/zfLYH1FZwM4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| 021کید | Fire in The Booth | <a href="https://youtu.be/b7psRtQVLVA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 ### تک آهنگ‌ها
 | هنرمند | نام اثر | لینک |
@@ -894,6 +898,16 @@
 | تتلو، پیشرو، پوتک و بهار آتیش | انقلاب صلح | <a href="https://open.spotify.com/track/7dJJjMdI2mAAtMOEkjni2J?si=6cf2ba7a4b4145ea"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | کینگ رام، عرفان، جیدال، رعنا منصور و حامد نیک‌پی | ایران من | <a href="https://open.spotify.com/track/6zv5FNA4SIMdune6oBHoVQ?si=ad38abae361d435b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | خلسه | اجباری | <a href="https://youtu.be/AckMfHufy8w"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ایکس ویسکی | سکوت | <a href="https://soundcloud.com/pinkyheadboy/sokoot"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تتلو، پیشرو، اردلان طعمه و بهار آتیش | چطوری میشه؟ | <a href="https://open.spotify.com/track/3NYMBICaiNnQm0ohoIJA0Y?si=e0ad6902fde94f15"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مدگل | A Letter To My Mom | <a href="https://soundcloud.com/user-137943779/mama?si=2373c585fba645ba91dd982e1e1c7640&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| اسدی و شروین | برای (ریمیکس) | <a href="https://open.spotify.com/track/2ulHktPiqit5RlgajkJltu?si=05588ab6cc8f4092"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| 021کید و پوتک | این جا ایرانه | <a href="https://open.spotify.com/track/3IO0AliXJGcWWCTYTr5CqB?si=a72d87eb949441db"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کس فینگر و شروین | برای (ریمیکس دریل) | <a href="https://youtu.be/2qIhEMudJM8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| 021کید | Fire In The Booth, Pt. 1 | <a href="https://music.apple.com/gb/album/fire-in-the-booth-pt-1-single/1649920504"><img src="https://edent.github.io/SuperTinyIcons/images/svg/apple_music.svg" width="25"></a>
+| شروین حاجی‌پور | برای | <a href="https://soundcloud.com/shervinine/baraye?si=cc0c51a6bcbc468a86ec1fd53bd56c3c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پارسا سیمپسون و لوکی | کور | <a href="https://open.spotify.com/track/2CQKh28wO7yKlidWwT14WS?si=8c31f2a32faa4091"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| هیچکس | این یکیم واسه | <a href="https://youtu.be/i_bLcFCdSIo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
