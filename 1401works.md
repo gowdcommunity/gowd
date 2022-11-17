@@ -77,7 +77,6 @@
 | چرسی | آزمایشگاه 5 | <a href="https://open.spotify.com/track/6xA7DDb51kp3uDDNV1HPoj?si=67cfc4111b064377"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | چرسی | لیپ | <a href="https://soundcloud.com/chvrsi/leap"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | هیپ‌هاپولوژیست، جیدال، ایمانمون و سیناتزا | جهادی | <a href="https://open.spotify.com/track/1Z0wo4NTuRu49UgX4uLF6B?si=5a4d72015f3e46b7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| علی تی و علی پاشا | این بَدِه | <a href="https://open.spotify.com/track/5jp1IIrp5tqBs0QPPRSeH7?si=d08c649f1fc84418"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ایلیا شین | لا پوتا | <a href="https://soundcloud.com/iliyashin/la-puta"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | مسلک و امیر خلوت | سامورایی | <a href="https://open.spotify.com/track/6QCZF4g0eAwuI3DLspAREX?si=4fd90a96a3f94524"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | پوری | کیلو کیلو | <a href="https://open.spotify.com/track/191N7M390YvmpoJepYUKfy?si=7f1ff4bb0673431b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
