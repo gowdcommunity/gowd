@@ -473,7 +473,6 @@
 | رضا اودین | مارکت | <a href="https://soundcloud.com/rezaodin/market"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | اسمین | بلاله | <a href="https://soundcloud.com/user-775219771/balae"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | ایلیا شین | هنوز دلم خونه | <a href="https://soundcloud.com/iliyashin/hanooz-delam-khoone"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| امین تی جی | امسال | <a href="https://soundcloud.com/amintijayy/amin-tijay-emsaal"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | ایسین | میرم | <a href="https://soundcloud.com/arash-sayadi-492866300/miram-prod-by-mahanm"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | بابک تیغه و ممدرضا ناجی | The GOAT | <a href="https://soundcloud.com/babak-rostami-50723092/the-goat-mp3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | KLA | واللهی | <a href="https://soundcloud.com/klatrap/vallahi-x-low-a-beats"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
