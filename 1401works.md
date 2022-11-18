@@ -939,6 +939,7 @@
 | مهیار | اجرای این روزا ام می‌گذره | <a href="https://www.instagram.com/reel/Ck3w1hVjJ5x/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
 | سهراب ام جی | اجرای مرگ بر خودم | <a href="https://www.instagram.com/tv/Ck8aK08DnPA/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
 | TMBax | اجرای خواب دیدم | <a href="https://www.instagram.com/reel/ClBgc1Moe2U/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
+| 021G | اجرای این دفعه | <a href="https://youtube.com/shorts/d_vQtVS2tCM?feature=share"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 
 ### تک آهنگ‌ها
