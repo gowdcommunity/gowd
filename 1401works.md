@@ -976,12 +976,13 @@
 | مشرقی | آبان | <a href="https://open.spotify.com/track/1w4U6udCCmDBcCVVYtQB0V?si=5b6c1fb2eddb464f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | Son of Space | مال ماس | <a href="https://soundcloud.com/son_of_space/male-mas?si=d86188b93ab140c7b78b17803e3d69b4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | ترامون | تازی | <a href="https://soundcloud.com/taraamoon/tazi"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سینا منشی | قرمز | <a href="https://soundcloud.com/sinamo/asabe-kharab-master-01-mp3?si=f588414f94bc49878103dba870bd93cc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
-| تاچی | 01-57 | <a href="https://soundcloud.com/abol-viking/57-01?si=d329008d4be44d74bac39cf72f257ab5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تاچی | 57-01 | <a href="https://soundcloud.com/abol-viking/57-01?si=d329008d4be44d74bac39cf72f257ab5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | رضا دد | تاریخ انقضا | <a href="https://soundcloud.com/rezadead/tarikh-engheza?si=d6d8522f1be8460596ad27a18775be4c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
