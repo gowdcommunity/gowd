@@ -977,6 +977,11 @@
 | Son of Space | مال ماس | <a href="https://soundcloud.com/son_of_space/male-mas?si=d86188b93ab140c7b78b17803e3d69b4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | ترامون | تازی | <a href="https://soundcloud.com/taraamoon/tazi"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | سینا منشی | قرمز | <a href="https://soundcloud.com/sinamo/asabe-kharab-master-01-mp3?si=f588414f94bc49878103dba870bd93cc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| چرسی | مامان مراقبم | <a href="https://open.spotify.com/track/1iyw4QMj82562L2kp72ReJ?si=a319e6b9658142d8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ارسلان دیگرد و صبا لوعالیان | نیاوردید | <a href="https://open.spotify.com/track/0fmu0nc9ElG7v7zNZG1Hr5?si=8917ec07045441a4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| گویا | کین | <a href="https://open.spotify.com/album/5T31BdCQGadGoM4j8byTrS?si=MSaVXocGSyKMp5d3V_d2BA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| امین بیگ ای، MarG Lotfabadi و TrantisT | صدای انقلاب | <a href="https://soundcloud.com/amin-big-a/sedaye-enghelab?si=beaa2f4330ca4875bbd3d8f88450c19f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| Lerzo | بقیه‌ش | <a href="https://soundcloud.com/alerzo/baghiash?si=0ac21c34460543289d35ada0f2b1976a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
