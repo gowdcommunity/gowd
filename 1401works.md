@@ -982,6 +982,9 @@
 | گویا | کین | <a href="https://open.spotify.com/album/5T31BdCQGadGoM4j8byTrS?si=MSaVXocGSyKMp5d3V_d2BA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | امین بیگ ای، MarG Lotfabadi و TrantisT | صدای انقلاب | <a href="https://soundcloud.com/amin-big-a/sedaye-enghelab?si=beaa2f4330ca4875bbd3d8f88450c19f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | Lerzo | بقیه‌ش | <a href="https://soundcloud.com/alerzo/baghiash?si=0ac21c34460543289d35ada0f2b1976a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| نیما نیموش و رضو ممو | یا حق | <a href="https://soundcloud.com/rezomemo/yaa-hagh?si=ccdf1c11580541dbb2b711c4d1188a2c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ترامون | هرماس | <a href="https://soundcloud.com/taraamoon/hermas?si=70f895d6ec2c4dc8a44bc155a9b8dd87&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تهم | قلعه شیر | <a href="https://www.instagram.com/reel/ClHEL-5jKXX/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
