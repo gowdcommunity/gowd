@@ -986,6 +986,7 @@
 | ترامون | هرماس | <a href="https://soundcloud.com/taraamoon/hermas?si=70f895d6ec2c4dc8a44bc155a9b8dd87&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | تهم | قلعه شیر | <a href="https://www.instagram.com/reel/ClHEL-5jKXX/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 | تی ام و سالی | رنگین | <a href="https://soundcloud.com/justiem/rangin-kamoon-tiem?si=c07d9a590bbe4a66aae4849e645fb42e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| گویا | اون که پر کشید (به یاد یلدا) | <a href="https://soundcloud.com/gooya021/opk?si=4f3a0ef77fc7413d8eede9315f293537&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
