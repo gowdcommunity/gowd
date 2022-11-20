@@ -940,6 +940,7 @@
 | سهراب ام جی | اجرای مرگ بر خودم | <a href="https://www.instagram.com/tv/Ck8aK08DnPA/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
 | TMBax | اجرای خواب دیدم | <a href="https://www.instagram.com/reel/ClBgc1Moe2U/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
 | 021G | اجرای این دفعه | <a href="https://youtube.com/shorts/d_vQtVS2tCM?feature=share"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| مهراد هیدن | اجرای مرد تنها | <a href="https://www.instagram.com/reel/ClJ16XpDKZd/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 
 
 ### تک آهنگ‌ها
@@ -987,6 +988,7 @@
 | تهم | قلعه شیر | <a href="https://www.instagram.com/reel/ClHEL-5jKXX/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 | تی ام و سالی | رنگین | <a href="https://soundcloud.com/justiem/rangin-kamoon-tiem?si=c07d9a590bbe4a66aae4849e645fb42e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | گویا | اون که پر کشید (به یاد یلدا) | <a href="https://soundcloud.com/gooya021/opk?si=4f3a0ef77fc7413d8eede9315f293537&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| دلو | تو بمون | <a href="https://soundcloud.com/dalumc/to-bemoon?si=0fca157e5e834f438671761d30ba5248&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
