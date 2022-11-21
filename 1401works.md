@@ -989,6 +989,7 @@
 | تی ام و سالی | رنگین | <a href="https://soundcloud.com/justiem/rangin-kamoon-tiem?si=c07d9a590bbe4a66aae4849e645fb42e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | گویا | اون که پر کشید (به یاد یلدا) | <a href="https://soundcloud.com/gooya021/opk?si=4f3a0ef77fc7413d8eede9315f293537&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | دلو | تو بمون | <a href="https://soundcloud.com/dalumc/to-bemoon?si=0fca157e5e834f438671761d30ba5248&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ضحاک | چگوارا | <a href="https://soundcloud.com/zahhakmardush/che-guevara?si=8ee47ea8aa1f40d4b78b143b362a7ec5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
@@ -996,5 +997,6 @@
 |:-:|:-:|:-:|
 | تاچی | 57-01 | <a href="https://soundcloud.com/abol-viking/57-01?si=d329008d4be44d74bac39cf72f257ab5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | رضا دد | تاریخ انقضا | <a href="https://soundcloud.com/rezadead/tarikh-engheza?si=d6d8522f1be8460596ad27a18775be4c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| شمرونی | Losing | <a href="https://soundcloud.com/shemroonii/losing?si=e9a26999fee44cb5a8ba454c554b4f47&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
