@@ -814,7 +814,6 @@
 | آیسم و پوریا کی | SAFE | <a href="https://open.spotify.com/track/0C4ubHFQX6VG4XU99fTzTN?si=f5f3b31d0cbc4808"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | اوکتاو | شبی ما | <a href="https://open.spotify.com/track/4XCjPObYqhj0zNAzsk6Lec?si=c4d7f41024a142cd"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | آرتا و پوبون | BHMBH | <a href="https://open.spotify.com/track/2JZWE6DCZio19WdnRMKwf2?si=a279a9bd0e184826"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| پوبون و M.H PROJECT | دوریم (ریمیکس) | <a href="https://open.spotify.com/track/4wpZrYpxU3WPBM1rYzUbnX?si=ecfbc5ac30674d29"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ایکس ویسکی و امین تی جی | فالکون | <a href="https://open.spotify.com/track/6xrSrAAj6hrCdAwq4DOsGf?si=c7ab267f82d94ca6"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | پاپا اصلی و آتور | با تو | <a href="https://open.spotify.com/track/6PQFVixzy5AlgS8dd8Eq7h?si=0ff35601dd2f4e43"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | جرشا | واچه خوار | <a href="https://soundcloud.com/jarshaa/vache-khaar?si=737602e60bbf4d35bc3b03171bcb0d38&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
