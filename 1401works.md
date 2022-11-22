@@ -7,6 +7,7 @@
 - [شهریور](#شهریور)
 - [مهر](#مهر)
 - [آبان](#آبان)
+- [آذر](#آذر)
 
 ## فروردین
 - [مجموعه‌ها](#مجموعهها)
@@ -901,8 +902,6 @@
 
 ## آبان
 - [مجموعه‌ها](#مجموعهها-7)
-- [مجموعه‌های بی‌کلام](#مجموعههای-بیکلام-2)
-- [مجموعه‌های همکاری](#مجموعههای-همکاری-2)
 - [ویدئوها](#ویدئوها-7)
 - [تک آهنگ‌ها](#تک-آهنگها-7)
 - [اینسترومنتال‌ها](#اینسترومنتالها-6)
@@ -913,16 +912,6 @@
 |:-:|:-:|:-:|
 | حسین هفت | GANA | <a href="https://youtube.com/playlist?list=PL7OjbXzN5iH4IgcYvKhbuuTxiJ9HhIu2E"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | ارسلان دیگرد | زنده خوانی ولوم 1 | <a href="https://open.spotify.com/album/6DQBsg7wVBiIzOiUc2mcLb?si=Jlg0C8S-S9GajBoywlTG7g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-
-
-### مجموعه‌های بی‌کلام
-| هنرمند | نام مجموعه | لینک |
-|:-:|:-:|:-:|
-
-
-### مجموعه‌های همکاری
-| هنرمند | نام مجموعه | لینک |
-|:-:|:-:|:-:|
 
 
 ### ویدئوها
@@ -990,6 +979,7 @@
 | گویا | اون که پر کشید (به یاد یلدا) | <a href="https://soundcloud.com/gooya021/opk?si=4f3a0ef77fc7413d8eede9315f293537&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | دلو | تو بمون | <a href="https://soundcloud.com/dalumc/to-bemoon?si=0fca157e5e834f438671761d30ba5248&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | ضحاک | چگوارا | <a href="https://soundcloud.com/zahhakmardush/che-guevara?si=8ee47ea8aa1f40d4b78b143b362a7ec5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ویناک | آخرین جمعه | <a href="https://soundcloud.com/elvinako/akharin-jome?si=dc6b2069e357463d89fd176cfc5a5d19&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
@@ -999,4 +989,44 @@
 | رضا دد | تاریخ انقضا | <a href="https://soundcloud.com/rezadead/tarikh-engheza?si=d6d8522f1be8460596ad27a18775be4c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | شمرونی | Losing | <a href="https://soundcloud.com/shemroonii/losing?si=e9a26999fee44cb5a8ba454c554b4f47&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
+
+
+## آذر
+- [مجموعه‌ها](#مجموعهها-8)
+- [مجموعه‌های بی‌کلام](#مجموعههای-بیکلام-2)
+- [مجموعه‌های همکاری](#مجموعههای-همکاری-2)
+- [ویدئوها](#ویدئوها-8)
+- [تک آهنگ‌ها](#تک-آهنگها-8)
+- [اینسترومنتال‌ها](#اینسترومنتالها-7)
+
+
+### مجموعه‌ها
+| هنرمند | نام مجموعه | لینک |
+|:-:|:-:|:-:|
+
+
+### مجموعه‌های بی‌کلام
+| هنرمند | نام مجموعه | لینک |
+|:-:|:-:|:-:|
+
+
+### مجموعه‌های همکاری
+| هنرمند | نام مجموعه | لینک |
+|:-:|:-:|:-:|
+
+
+### ویدئوها
+| هنرمند | نام اثر | لینک |
+|:-:|:-:|:-:|
+
+
+### تک آهنگ‌ها
+| هنرمند | نام اثر | لینک |
+|:-:|:-:|:-:|
+| ویناک | تو کشورم | <a href="https://soundcloud.com/elvinako/to-keshvaram?si=cc08ba74b2b74e16807f2703f11240b5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+
+
+### اینسترومنتال‌ها
+| هنرمند | نام اثر | لینک |
+|:-:|:-:|:-:|
 
