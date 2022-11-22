@@ -780,7 +780,6 @@
 | چیت تو ای ام، نیما تاون و سینا کوش | میشیم و رد | <a href="https://open.spotify.com/track/3hgqX232z9m6MOI4DMDVOp?si=54e1e1b6c37a4599"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | جرشا | محکمه | <a href="https://open.spotify.com/track/0GUNxmwAcxSt6NxB8YgbRA?si=296d353451114801"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ارشیا و ممرض | کارتل | <a href="https://open.spotify.com/track/7sw0rxdfT4hszENL3OqRhp?si=47b8e0d06e3f498c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| سنگ | مکزیکو | <a href="https://soundcloud.com/sangbeats/sang-mexico?si=a6f060b8cf8b436d8f02f1565ed73645&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | Son of Space | اسکینی | <a href="https://open.spotify.com/track/0qaoLQL5ptWiQCxtijG3UR?si=eb8a799e18d04be1"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | کیارپ و ناجی | شطرنج | <a href="https://open.spotify.com/track/3T7zh9OEFBQZjSMpM6p821?si=ab84af5308ec4b05"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | آراه | زخمی | <a href="https://open.spotify.com/track/3e3TvugelQsrmuK3FXMJoa?si=f77b5a037a5a483e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
