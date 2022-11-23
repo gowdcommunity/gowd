@@ -978,6 +978,8 @@
 | ضحاک | چگوارا | <a href="https://soundcloud.com/zahhakmardush/che-guevara?si=8ee47ea8aa1f40d4b78b143b362a7ec5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | ویناک | آخرین جمعه | <a href="https://soundcloud.com/elvinako/akharin-jome?si=dc6b2069e357463d89fd176cfc5a5d19&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | رضا دد | تاریخ انقضا | <a href="https://soundcloud.com/rezadead/tarikh-engheza?si=d6d8522f1be8460596ad27a18775be4c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| اهوراست | ممد نبودی | <a href="https://soundcloud.com/user-336680342/mammad-naboodi-final-mix?si=d4cc1c2bec3942a4a808c82727f49d88&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| جامین | ای بارون | <a href="https://soundcloud.com/jaminmusicpro/ey-baroon?si=ce4a9c6c2e5b4378b6340d4159359428&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
@@ -1015,6 +1017,7 @@
 ### ویدئوها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
+| رها (ونتونز) | اجرای کوتاه بیا بازم با هم بشیم یک صدا | <a href="https://www.instagram.com/reel/ClTFManDV5b/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 
 
 ### تک آهنگ‌ها
@@ -1022,6 +1025,7 @@
 |:-:|:-:|:-:|
 | ویناک | تو کشورم | <a href="https://soundcloud.com/elvinako/to-keshvaram?si=cc08ba74b2b74e16807f2703f11240b5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | علیس، حانیه، آبتین تابان و علی دهش | مادرم ایران | <a href="https://soundcloud.com/arteshofficial/madaram-iran?si=5b7778c92eb74eacafbc45dfcbacb004&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| یاسر بینام | بچه محل | <a href="https://t.me/yaserbinam/552"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
