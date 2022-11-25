@@ -1020,6 +1020,7 @@
 |:-:|:-:|:-:|
 | رها (ونتونز) | اجرای کوتاه بیا بازم با هم بشیم یک صدا | <a href="https://www.instagram.com/reel/ClTFManDV5b/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 | مجهول | فری‌استایل اینم از این | <a href="https://www.instagram.com/reel/ClUEu1DgY2t/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
+| یاسر بینام | بچه محل | <a href="https://www.instagram.com/reel/ClT5zXrDekd/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 
 
 ### تک آهنگ‌ها
