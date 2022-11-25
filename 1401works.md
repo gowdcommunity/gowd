@@ -1029,9 +1029,12 @@
 | ویناک | تو کشورم | <a href="https://soundcloud.com/elvinako/to-keshvaram?si=cc08ba74b2b74e16807f2703f11240b5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | علیس، حانیه، آبتین تابان و علی دهش | مادرم ایران | <a href="https://soundcloud.com/arteshofficial/madaram-iran?si=5b7778c92eb74eacafbc45dfcbacb004&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | یاسر بینام | بچه محل | <a href="https://t.me/yaserbinam/552"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="25"></a>
+| جیدال | رمز ورژن 2 | <a href="https://open.spotify.com/track/0CdxwR7nIElPf6S0L1auYE?si=6f0091dbafbf4f11"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| Sorah, Justina, Yacko, Asma Ramirez, Adden & RMBO | Univers'Elles | <a href="https://soundcloud.com/madamerap/universelles?si=177ed55aab5348378956de4b1a8d48d7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
+| گتونگ | وطن | <a href="https://soundcloud.com/gatvang/vatan?si=f04988e800d54984b73a904f84042baa&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
