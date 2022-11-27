@@ -1031,6 +1031,7 @@
 | یاسر بینام | بچه محل | <a href="https://t.me/yaserbinam/552"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="25"></a>
 | جیدال | رمز ورژن 2 | <a href="https://open.spotify.com/track/0CdxwR7nIElPf6S0L1auYE?si=6f0091dbafbf4f11"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | Sorah, Justina, Yacko, Asma Ramirez, Adden & RMBO | Univers'Elles | <a href="https://soundcloud.com/madamerap/universelles?si=177ed55aab5348378956de4b1a8d48d7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| GOMZ (فرهود گمنام) & FDE | حاجی | <a href="https://soundcloud.com/farhoodofficial/haji-ft-fde?si=144909525adb4efbb56defa5575889de&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
