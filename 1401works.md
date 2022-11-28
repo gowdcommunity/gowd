@@ -981,6 +981,7 @@
 | اهوراست | ممد نبودی | <a href="https://soundcloud.com/user-336680342/mammad-naboodi-final-mix?si=d4cc1c2bec3942a4a808c82727f49d88&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | جامین | ای بارون | <a href="https://soundcloud.com/jaminmusicpro/ey-baroon?si=ce4a9c6c2e5b4378b6340d4159359428&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | علینو | آبان | <a href="https://soundcloud.com/user-336855051/alino-aban?si=95ee09d50ad648a182f149b3baffc69c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| آرسیدی | بیگانه | <a href="https://soundcloud.com/arci-day/bigane?si=8cfca9fbabe84c4184e30c7791ffef1a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
