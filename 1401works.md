@@ -1021,6 +1021,7 @@
 | رها (ونتونز) | اجرای کوتاه بیا بازم با هم بشیم یک صدا | <a href="https://www.instagram.com/reel/ClTFManDV5b/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 | مجهول | فری‌استایل اینم از این | <a href="https://www.instagram.com/reel/ClUEu1DgY2t/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 | یاسر بینام | بچه محل | <a href="https://www.instagram.com/reel/ClT5zXrDekd/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
+| جرشا | با این که | <a href="https://youtu.be/2WiuPEUMPkQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 
 ### تک آهنگ‌ها
@@ -1033,6 +1034,7 @@
 | Sorah, Justina, Yacko, Asma Ramirez, Adden & RMBO | Univers'Elles | <a href="https://soundcloud.com/madamerap/universelles?si=177ed55aab5348378956de4b1a8d48d7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | GOMZ (فرهود گمنام) & FDE | حاجی | <a href="https://soundcloud.com/farhoodofficial/haji-ft-fde?si=144909525adb4efbb56defa5575889de&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | بِکس (کاربازی) | روز بگایی | <a href="https://soundcloud.com/karbazi/bex-rooze-begaaei?si=adb31e6198d345b8b5ae2b4731580c5a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| جرشا | با این که | <a href="https://soundcloud.com/jarshaa/ba-inke?si=51704e8067954d60b260fd0664a67cba&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
