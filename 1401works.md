@@ -1036,6 +1036,8 @@
 | GOMZ (فرهود گمنام) & FDE | حاجی | <a href="https://soundcloud.com/farhoodofficial/haji-ft-fde?si=144909525adb4efbb56defa5575889de&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | بِکس (کاربازی) | روز بگایی | <a href="https://soundcloud.com/karbazi/bex-rooze-begaaei?si=adb31e6198d345b8b5ae2b4731580c5a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | جرشا | با این که | <a href="https://soundcloud.com/jarshaa/ba-inke?si=51704e8067954d60b260fd0664a67cba&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سنیور پارسا | AMOUR | <a href="https://soundcloud.com/seniorparsa/amour?si=3acfeb57d6d842d8a81cb3ed862fb0f2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| رفیق | کبوتر | <a href="https://soundcloud.com/refigh/kabotar?si=7395ab92512c4fbb91d9dfad645fc18b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
