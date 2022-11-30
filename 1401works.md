@@ -1042,6 +1042,11 @@
 | دیگرد، سوال و نجوا | نباید رفت؟ | <a href="https://soundcloud.com/arsalun/nabayadraft?si=bfd1ecde025e49f8a90cd2bbb67fcec2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | جیدال، سامی بیگی و ایمانمون | نفرین | <a href="https://youtu.be/qvF5gmIabGc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | امین تی جی | به نام خدایی که | <a href="https://soundcloud.com/amintijayy/bnk?si=628bc0b6ac8f40768e48b2f4462697a1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| متین فتاحی (کاربازی) | پسر خوب | <a href="https://soundcloud.com/karbazi/matin-fattahi-pesare-khoob?si=3a3d6e17e2ee48728b797aa9c94e26dd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| مظنون (کاربازی) | نیگا گنگ گنگ | <a href="https://soundcloud.com/karbazi/maznon-nigga-gang-gang?si=36d670b2585f4b7aae506fd2a2f86493&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پیدار | یه روز خوب | <a href="https://soundcloud.com/piidar/ye-rooze-khoob?si=374e0249efbb410ea67248aa8a82eab9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| جارچی و نجوا | دم بگیر | <a href="https://soundcloud.com/thejaarchi/dam-bigir-prod-najwa?si=22be4f7281c442ab828dcb45f0f37496&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سام | چی بهش بگم | <a href="https://soundcloud.com/tunes_sam/chi-behesh-begam-prod?si=feba87a5fd364302ae588e515ebc52ad&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
