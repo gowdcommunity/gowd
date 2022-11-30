@@ -1038,6 +1038,10 @@
 | جرشا | با این که | <a href="https://soundcloud.com/jarshaa/ba-inke?si=51704e8067954d60b260fd0664a67cba&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | سنیور پارسا | AMOUR | <a href="https://soundcloud.com/seniorparsa/amour?si=3acfeb57d6d842d8a81cb3ed862fb0f2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | رفیق | کبوتر | <a href="https://soundcloud.com/refigh/kabotar?si=7395ab92512c4fbb91d9dfad645fc18b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سهراب ام جی و شایان اشراقی | هنوز زنده‌م | <a href="https://youtu.be/UCzgIh-EWk4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| دیگرد، سوال و نجوا | نباید رفت؟ | <a href="https://soundcloud.com/arsalun/nabayadraft?si=bfd1ecde025e49f8a90cd2bbb67fcec2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| جیدال، سامی بیگی و ایمانمون | نفرین | <a href="https://youtu.be/qvF5gmIabGc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| امین تی جی | به نام خدایی که | <a href="https://soundcloud.com/amintijayy/bnk?si=628bc0b6ac8f40768e48b2f4462697a1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
