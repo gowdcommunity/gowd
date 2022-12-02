@@ -1004,6 +1004,7 @@
 ### مجموعه‌ها
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
+| دیگرد و سوال | شرقی غمگین | <a href="https://open.spotify.com/album/1baYHvxplFspXM33cHQhBB?si=uIwS3jHLTNqorOlZV7TD5Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 
 ### مجموعه‌های بی‌کلام
@@ -1023,6 +1024,7 @@
 | مجهول | فری‌استایل اینم از این | <a href="https://www.instagram.com/reel/ClUEu1DgY2t/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 | یاسر بینام | بچه محل | <a href="https://www.instagram.com/reel/ClT5zXrDekd/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 | جرشا | با این که | <a href="https://youtu.be/2WiuPEUMPkQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| حامد فرد | سبزی پلو با ماهی | <a href="https://youtu.be/48i1WvUROAQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 
 ### تک آهنگ‌ها
