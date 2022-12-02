@@ -1050,6 +1050,10 @@
 | جارچی و نجوا | دم بگیر | <a href="https://soundcloud.com/thejaarchi/dam-bigir-prod-najwa?si=22be4f7281c442ab828dcb45f0f37496&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | سام | چی بهش بگم | <a href="https://soundcloud.com/tunes_sam/chi-behesh-begam-prod?si=feba87a5fd364302ae588e515ebc52ad&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | حامد فرد | سبزی پلو با ماهی | <a href="https://t.me/HamedFardMusic/1741"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="25"></a>
+| پارسا اس ایکس (کاربازی) | TBT | <a href="https://soundcloud.com/karbazi/parsa-sx-tbt?si=3922a778a9654063976e08e6b3b976f4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| آرمین (کاربازی) | Nasty A | <a href="https://soundcloud.com/karbazi/armin-nasty-aint?si=a4aee0f21aee4dd8b0f667f3fc5dfbe0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| جارچی | Stoners Club Live Performance | <a href="https://soundcloud.com/stonersclvb/jaarchi-stoners-club-prod?si=97e5ef5f641f4e3d8e48dcb7f2f947c4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| مستر کیارش | DBMH (MixDown) | <a href="https://soundcloud.com/imkiarash/dbmh-mixdown?si=865e3bfbbc044434a4825a3b56ac9cf0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
