@@ -1054,6 +1054,7 @@
 | آرمین (کاربازی) | Nasty A | <a href="https://soundcloud.com/karbazi/armin-nasty-aint?si=a4aee0f21aee4dd8b0f667f3fc5dfbe0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | جارچی | Stoners Club Live Performance | <a href="https://soundcloud.com/stonersclvb/jaarchi-stoners-club-prod?si=97e5ef5f641f4e3d8e48dcb7f2f947c4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | مستر کیارش | DBMH (MixDown) | <a href="https://soundcloud.com/imkiarash/dbmh-mixdown?si=865e3bfbbc044434a4825a3b56ac9cf0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پوریا ادرویت | Cops (Freestyle) | <a href="https://soundcloud.com/poriyaadroit/cops?si=360deb25c97146249505c121a1312dd7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
