@@ -982,6 +982,7 @@
 | جامین | ای بارون | <a href="https://soundcloud.com/jaminmusicpro/ey-baroon?si=ce4a9c6c2e5b4378b6340d4159359428&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | علینو | آبان | <a href="https://soundcloud.com/user-336855051/alino-aban?si=95ee09d50ad648a182f149b3baffc69c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | آرسیدی | بیگانه | <a href="https://soundcloud.com/arci-day/bigane?si=8cfca9fbabe84c4184e30c7791ffef1a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ادوین | دامن | <a href="https://soundcloud.com/advinshah/daaman?si=fefe7051f41c4c279923636445742eb1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
@@ -1005,6 +1006,7 @@
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
 | دیگرد و سوال | شرقی غمگین | <a href="https://open.spotify.com/album/1baYHvxplFspXM33cHQhBB?si=uIwS3jHLTNqorOlZV7TD5Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| هیپ‌هاپولوژیست | کپسول | <a href="https://soundcloud.com/hiphopologistsoroush/sets/capsule?si=81ade6316fa94d649008e008a1fd893d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### مجموعه‌های بی‌کلام
@@ -1055,6 +1057,9 @@
 | جارچی | Stoners Club Live Performance | <a href="https://soundcloud.com/stonersclvb/jaarchi-stoners-club-prod?si=97e5ef5f641f4e3d8e48dcb7f2f947c4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | مستر کیارش | DBMH (MixDown) | <a href="https://soundcloud.com/imkiarash/dbmh-mixdown?si=865e3bfbbc044434a4825a3b56ac9cf0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | پوریا ادرویت | Cops (Freestyle) | <a href="https://soundcloud.com/poriyaadroit/cops?si=360deb25c97146249505c121a1312dd7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سام | بی من مرو | <a href="https://soundcloud.com/tunes_sam/sam-naro-demo-mp3?si=48f96005d682404a8e6c9939428b88b2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ریچ رُز | Wolf | <a href="https://soundcloud.com/richrosebaby/wolf?si=d31882c82fb84b5482e27ffb84a01346&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| رودز و پرشام (ضربدر) | یه روزی | <a href="https://soundcloud.com/amir-rodes/ye-roozi?si=26584b89ceb44d4ca771523ec10bbaee&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
