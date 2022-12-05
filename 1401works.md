@@ -1060,10 +1060,15 @@
 | سام | بی من مرو | <a href="https://soundcloud.com/tunes_sam/sam-naro-demo-mp3?si=48f96005d682404a8e6c9939428b88b2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | ریچ رُز | Wolf | <a href="https://soundcloud.com/richrosebaby/wolf?si=d31882c82fb84b5482e27ffb84a01346&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | رودز و پرشام (ضربدر) | یه روزی | <a href="https://soundcloud.com/amir-rodes/ye-roozi?si=26584b89ceb44d4ca771523ec10bbaee&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| علرضو و فورتم | بچه | <a href="https://soundcloud.com/fxrtem/bache?si=e9542e5457264cd6bf3f472d63a0a7f8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پوریا پوتک | دی | <a href="https://soundcloud.com/pooriaputak/dey?si=b69d80f088d04fff86f4c9014adf1d74&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| د دان و سیجل | گل زندگی | <a href="https://youtu.be/C-3E1hcR52A"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| تورج پارازیت و رسام | پارادوکس قسمت پنج | <a href="https://soundcloud.com/rasam-sohrabi/paradox_ep05_with_touraj_parazit?si=4f6e1caca4df4870a071e3a9e432ed1e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | گتونگ | وطن | <a href="https://soundcloud.com/gatvang/vatan?si=f04988e800d54984b73a904f84042baa&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| مضراب | قرب | <a href="https://soundcloud.com/mezrab/ghorb?si=aa4b7ea740014660965765db9edc2b36&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
