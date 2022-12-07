@@ -1007,6 +1007,7 @@
 |:-:|:-:|:-:|
 | دیگرد و سوال | شرقی غمگین | <a href="https://open.spotify.com/album/1baYHvxplFspXM33cHQhBB?si=uIwS3jHLTNqorOlZV7TD5Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | هیپ‌هاپولوژیست | کپسول | <a href="https://soundcloud.com/hiphopologistsoroush/sets/capsule?si=81ade6316fa94d649008e008a1fd893d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| منطق (تردست) | بی‌کشور ورژن 3 | <a href="https://soundcloud.com/tardastsc/sets/bikeshvar-vol3?si=3f179c4d89204d2887a6a96cd4644239&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### مجموعه‌های بی‌کلام
@@ -1064,6 +1065,9 @@
 | پوریا پوتک | دی | <a href="https://soundcloud.com/pooriaputak/dey?si=b69d80f088d04fff86f4c9014adf1d74&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | د دان و سیجل | گل زندگی | <a href="https://youtu.be/C-3E1hcR52A"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | تورج پارازیت و رسام | پارادوکس قسمت پنج | <a href="https://soundcloud.com/rasam-sohrabi/paradox_ep05_with_touraj_parazit?si=4f6e1caca4df4870a071e3a9e432ed1e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سیکاس | LIGHT | <a href="https://soundcloud.com/30kas/light?si=013f456bd1ab4c93a5d1176a7a00b7be&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پاپا اصلی | Phonetic $Tate FREE STYLE (unreleased) | <a href="https://soundcloud.com/arshiaparvane/phonetic-tate-free-style?si=abd8fd26c82748d3a8baf136a54fa575&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سام | نگو نگفتم | <a href="https://soundcloud.com/tunes_sam/sam-nagoftam-demo-mp3?si=3a80ca476837422582861e7ed34a8ff4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
