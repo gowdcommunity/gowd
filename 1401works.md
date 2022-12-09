@@ -1008,6 +1008,7 @@
 | دیگرد و سوال | شرقی غمگین | <a href="https://open.spotify.com/album/1baYHvxplFspXM33cHQhBB?si=uIwS3jHLTNqorOlZV7TD5Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | هیپ‌هاپولوژیست | کپسول | <a href="https://soundcloud.com/hiphopologistsoroush/sets/capsule?si=81ade6316fa94d649008e008a1fd893d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | منطق (تردست) | بی‌کشور ورژن 3 | <a href="https://soundcloud.com/tardastsc/sets/bikeshvar-vol3?si=3f179c4d89204d2887a6a96cd4644239&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| GOMZ (فرهود گمنام) | فردا میاد | <a href="https://soundcloud.com/farhoodofficial/sets/farda-miad-ep?si=03a7a76a258b42139a9b6249be81abba&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### مجموعه‌های بی‌کلام
