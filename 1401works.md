@@ -1068,6 +1068,12 @@
 | سیکاس | LIGHT | <a href="https://soundcloud.com/30kas/light?si=013f456bd1ab4c93a5d1176a7a00b7be&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | پاپا اصلی | Phonetic $Tate FREE STYLE (unreleased) | <a href="https://soundcloud.com/arshiaparvane/phonetic-tate-free-style?si=abd8fd26c82748d3a8baf136a54fa575&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | سام | نگو نگفتم | <a href="https://soundcloud.com/tunes_sam/sam-nagoftam-demo-mp3?si=3a80ca476837422582861e7ed34a8ff4&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| آرتا و مهراد هیدن | خدا کوشی | <a href="https://soundcloud.com/arta-mir/khodakooshi?si=0050c5661205408cada579432185e42b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| حُسِن | یادم نمیره | <a href="https://soundcloud.com/hosendreams/kabos?si=b674b70b403d41a28bc3db7f43de28d3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| خاکی و اشک چریک | خون | <a href="https://soundcloud.com/khaakisongs/khaaki-khoon?si=d0a3b56346664b1a888a0cfb46366eda&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کژدم ضحاک | دجال | <a href="https://soundcloud.com/kazhdom/dajjal?si=b48d914cb78645fbbd3e1a77d8342226&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| 021کید | ناقابل | <a href="https://soundcloud.com/021kid/naghabel?si=f794637d33df4a4082d5fa2e24f031f9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| معراج تهرانی | زندگی | <a href="https://soundcloud.com/merajtehrani/zendegi?si=cdda2ff6068f4fc3b8f8137f257a7741&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
