@@ -1078,6 +1078,9 @@
 | معراج تهرانی | زندگی | <a href="https://soundcloud.com/merajtehrani/zendegi?si=cdda2ff6068f4fc3b8f8137f257a7741&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | ویناک | دلم تنگه | <a href="https://soundcloud.com/elvinako/delam-tange?si=a76426fb285d428899b1f5f772600066&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | علی تی | ایستگاه | <a href="https://youtu.be/zIxC_8sNiV4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| اوتلا | واسه دل مردمم | <a href="https://soundcloud.com/outlawofficialll/vase-dele-mardomam?si=a1586be6534e4558a51b2e39d43cc388&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| مستر کیارش و کاوه | خط | <a href="https://soundcloud.com/imkiarash/mr-kiarash-khat?si=28438dd78beb436595b19bd2c89e863d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| اشک (چریک) و مخالف | صدای ایرانی | <a href="https://soundcloud.com/ashk-cherik/sedaye-irani-ashk-x-mokhaalef?si=fc9f5cca9f5240d898a9489500b30604&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
