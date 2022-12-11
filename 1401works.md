@@ -1029,6 +1029,7 @@
 | یاسر بینام | بچه محل | <a href="https://www.instagram.com/reel/ClT5zXrDekd/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 | جرشا | با این که | <a href="https://youtu.be/2WiuPEUMPkQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | حامد فرد | سبزی پلو با ماهی | <a href="https://youtu.be/48i1WvUROAQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| تینا امی، شری ام، نیکیتا، حامد فرد و شادی امینی | ما خود ایرانیم | <a href="https://youtu.be/lUdBjBx6ymk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 
 ### تک آهنگ‌ها
@@ -1075,6 +1076,8 @@
 | کژدم ضحاک | دجال | <a href="https://soundcloud.com/kazhdom/dajjal?si=b48d914cb78645fbbd3e1a77d8342226&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | 021کید | ناقابل | <a href="https://soundcloud.com/021kid/naghabel?si=f794637d33df4a4082d5fa2e24f031f9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | معراج تهرانی | زندگی | <a href="https://soundcloud.com/merajtehrani/zendegi?si=cdda2ff6068f4fc3b8f8137f257a7741&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ویناک | دلم تنگه | <a href="https://soundcloud.com/elvinako/delam-tange?si=a76426fb285d428899b1f5f772600066&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| علی تی | ایستگاه | <a href="https://youtu.be/zIxC_8sNiV4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 
 ### اینسترومنتال‌ها
