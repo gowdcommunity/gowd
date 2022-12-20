@@ -18,6 +18,7 @@
 - [اینسترومنتال‌ها](#اینسترومنتالها)
 
 ### مجموعه‌ها
+
 <div dir="rtl">
 
 | هنرمند           | نام مجموعه    | لینک                                                                                                                                                                                   |
@@ -30,6 +31,7 @@
 </div>
 
 ### مجموعه‌های بی‌کلام
+
 <div dir="rtl">
 
 | هنرمند | نام مجموعه | لینک
@@ -39,6 +41,7 @@
 </div>
 
 ### مجموعه‌های همکاری
+
 <div dir="rtl">
 
 | هنرمند | نام مجموعه | لینک
@@ -417,12 +420,16 @@
 </div>
 
 ### اینسترومنتال‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | حکم | Untitled | <a href="https://soundcloud.com/hokm/untitled"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | امیر لواسانی | TiTan | <a href="https://open.spotify.com/track/02zNoHYxIIVC5nhEqtjNH3?si=675e0d367e324228"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | کائن | Surfeit | <a href="https://soundcloud.com/kaenproducer/surfeit-prod-kaen"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
+</div>
 
 ## تیر
 - [مجموعه‌ها](#مجموعهها-3)
