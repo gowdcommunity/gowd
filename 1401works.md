@@ -19,13 +19,13 @@
 
 ### مجموعه‌ها
 <div dir="rtl">
+
 | هنرمند           | نام مجموعه    | لینک                                                                                                                                                                                   |
 |:----------------:|:----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | نقش            | عنکبوت        | <a href="https://soundcloud.com/naghsh/sets/ankabout"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | عرفان و اسدی | نور | <a href="https://soundcloud.com/asadimusic/sets/asadi-erfan-nur"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | پدی آی | نابغه | <a href="https://www.radiojavan.com/mp3s/album/Pedi-I-Nabeghe"><img src="https://www.radiojavan.com/images/default_fb.png" width="25"></a>
 | جنس من | عاریوژ | <a href="https://soundcloud.com/ariozh/sets/jense-man"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-
 
 </div>
 ### مجموعه‌های بی‌کلام
