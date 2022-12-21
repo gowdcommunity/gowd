@@ -18,6 +18,9 @@
 - [اینسترومنتال‌ها](#اینسترومنتالها)
 
 ### مجموعه‌ها
+
+<div dir="rtl">
+
 | هنرمند           | نام مجموعه    | لینک                                                                                                                                                                                   |
 |:----------------:|:----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | نقش            | عنکبوت        | <a href="https://soundcloud.com/naghsh/sets/ankabout"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
@@ -25,20 +28,32 @@
 | پدی آی | نابغه | <a href="https://www.radiojavan.com/mp3s/album/Pedi-I-Nabeghe"><img src="https://www.radiojavan.com/images/default_fb.png" width="25"></a>
 | جنس من | عاریوژ | <a href="https://soundcloud.com/ariozh/sets/jense-man"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
+</div>
 
 ### مجموعه‌های بی‌کلام
+
+<div dir="rtl">
+
 | هنرمند | نام مجموعه | لینک
 |:----------------:|:----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | سعید دهقان | عریان | <a href="https://soundcloud.com/saeed-dehghan/sets/oryan"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
+</div>
 
 ### مجموعه‌های همکاری
+
+<div dir="rtl">
+
 | هنرمند | نام مجموعه | لینک
 |:----------------:|:----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | تعدادی از هنرمندان | آدرنالین 2 | <a href="https://soundcloud.com/sinabofficial/sets/adrenaline-2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
+</div>
 
 ### ویدئوها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک
 |:----------------:|:----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | پوری | AK46 | <a href="https://youtu.be/o8MsCFwKmGo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
@@ -62,8 +77,12 @@
 | پوریا ادرویت و کاوه | میباخ | <a href="https://youtu.be/rouJdG8D4iU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | میلاد هانیبال | آزمایشگاه | <a href="https://youtu.be/12YMyTWaIII"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
+</div>
 
 ### تک آهنگ‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک
 |:----------------:|:----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | سزاوار | نِدا | <a href="https://soundcloud.com/wordgamefamily/neda"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
@@ -137,11 +156,17 @@
 | امین تیجی و پوریا | Reset Memory | <a href="https://soundcloud.com/amintijayy/amin-tijay-x-pouria-k-reset"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | کوشان | 336 | <a href="https://open.spotify.com/track/5CYDDUsAuRzmpiqy3Ty4tb?si=3e1773f820ce49f1"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
+</div>
 
 ### اینسترومنتال‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک
 |:----------------:|:----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | محمد صالح‌نیا | DeLavAl | <a href="https://soundcloud.com/msnmusic/mohammad-salehnia-delaval"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+
+</div>
 
 ## اردیبهشت
 - [مجموعه‌ها](#مجموعهها-1)
@@ -150,11 +175,19 @@
 - [اینسترومنتال‌ها](#اینسترومنتالها-1)
 
 ### مجموعه‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
 | ویشتاسب | خود | <a href="https://soundcloud.com/wishtasb/sets/khod-ep"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
+</div>
+
 ### ویدئوها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | میلاد هانیبال و حسین هفت | سر سخت | <a href="https://youtu.be/zANOvaUfjH4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
@@ -168,7 +201,12 @@
 | خلسه و سیجل | لابستر | <a href="https://youtu.be/B7C8_T7N5a8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | علی اوج | سراب | <a href="https://youtu.be/aTFuoG8SOH8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
+</div>
+
 ### تک آهنگ‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | بامداد | آسمون | <a href="https://open.spotify.com/track/3Nvv5SFpzO1twgQdHzqnuA?si=10b9ad5ee78d48d2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
@@ -232,11 +270,18 @@
 | مدگل | به خود آی | <a href="https://soundcloud.com/user-137943779/cwibks3efug3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | 021kid & Ess2Mad | Business Man | <a href="https://open.spotify.com/track/1Ht3NqvtxKvgJ9POlB0f9T?si=d42164281f4f411f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
+</div>
+
 ### اینسترومنتال‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | اسدی | FAR FAR AWAY | <a href="https://open.spotify.com/track/62lZQ9vEf7dT1A32xA6NjI?si=4f23b5eb4876426e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | دژاک | Nature | <a href="https://soundcloud.com/zhak-beat/nature"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+
+</div>
 
 ## خرداد
 - [مجموعه‌ها](#مجموعهها-2)
@@ -245,13 +290,22 @@
 - [اینسترومنتال‌ها](#اینسترومنتالها-2)
 
 ### مجموعه‌ها
+
+<div dir="rtl">
+
+
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
 | کولی | آدم زیادی | <a href="https://soundcloud.com/kolifarsi/sets/adame-ziadi"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | الهام | رقص خاکستر | <a href="https://open.spotify.com/album/7ESJPddGhqDNbeWcHKlygF?si=c9-i9knvROG5sK3nKTBn1Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ایمانمون | بایپولار | <a href="https://www.radiojavan.com/mp3s/album/Imanemun-Bipolar"><img src="https://www.radiojavan.com/images/default_fb.png" width="25"></a>
 
+</div>
+
 ### ویدئوها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | کوروش، آرتا و خلسه | فنا | <a href="https://youtu.be/qmVpyIX0atc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
@@ -275,8 +329,13 @@
 | ویناک | کالیبر 9 | <a href="https://youtu.be/vFlBuZ5PtbU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | عرفان و اسدی | ای دل | <a href="https://youtu.be/RpkugHpk_mw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
+</div>
+
   
 ### تک آهنگ‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | کوروش، آرتا و خلسه | فنا | <a href="https://open.spotify.com/track/5pssOw6VltJ1AZJH5rfOYx?si=d000e2d65e84497f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
@@ -358,13 +417,19 @@
 | پوبون و میلانو | فندی | <a href="https://open.spotify.com/track/03kRClVw6BNKerM2cybuFC?si=affde90994394d9d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | یاس | بیم (ریمستر) | <a href="https://youtu.be/f3dsHhRYAE8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
+</div>
+
 ### اینسترومنتال‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | حکم | Untitled | <a href="https://soundcloud.com/hokm/untitled"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | امیر لواسانی | TiTan | <a href="https://open.spotify.com/track/02zNoHYxIIVC5nhEqtjNH3?si=675e0d367e324228"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | کائن | Surfeit | <a href="https://soundcloud.com/kaenproducer/surfeit-prod-kaen"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
+</div>
 
 ## تیر
 - [مجموعه‌ها](#مجموعهها-3)
@@ -373,13 +438,21 @@
 - [اینسترومنتال‌ها](#اینسترومنتالها-3)
 
 ### مجموعه‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
 | شاهین نجفی | سیگما  | <a href="https://open.spotify.com/album/1M7ICkaPMy3kIaAuINBGKj?si=ehyrsft4TGKqG5zZXVBF6Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ولگرد | نزدیک‌تر  | <a href="https://soundcloud.com/velgard/sets/nazdiktar?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | 3B Sadra | یه پسر | <a href="https://open.spotify.com/album/6gqjnaMPJie40XuZ4JShJT?si=rdM7ni0wTZGnq5kxOVK89g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
+</div>
+
 ### ویدئوها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | جاستینا و توماج | پیچک | <a href="https://youtu.be/-goicC713nU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
@@ -414,7 +487,12 @@
 | هیپ‌هاپولوژیست | ویزیت بین المللی | <a href="https://youtu.be/jGNEibZaF1Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | لاکی حسام | Respect | <a href="https://youtu.be/fK_oLveYcgo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
+</div>
+
 ### تک آهنگ‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | نیکوتین | روایت | <a href="https://open.spotify.com/track/1ot1z6iMEs8M14kMfj7HWr?si=07a9f6915417459a"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
@@ -526,13 +604,19 @@
 | عاریوژ | خدافظ | <a href="https://soundcloud.com/ariozh/khodafez?si=42d88043f6b3482596d1f316360b4c72&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | اوکتاو | بذا برم | <a href="https://open.spotify.com/track/5xIlK7ruH3VMuY0AyhH2ZV?si=322aaeed59224bd0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
+</div>
+
 ### اینسترومنتال‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | رودی | کتک | <a href="https://soundcloud.com/roodyrapkone/kotak"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | محمد صالح‌نیا (MSN) | I'm Here | <a href="https://soundcloud.com/msnmusic/im-here"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | رودی | یه قل دو قل | <a href="https://soundcloud.com/roodyrapkone/yeqol?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
+</div>
 
 ## مرداد
 - [مجموعه‌ها](#مجموعهها-4)
@@ -540,20 +624,32 @@
 - [ویدئوها](#ویدئوها-4)
 - [تک آهنگ‌ها](#تک-آهنگها-4)
 - [اینسترومنتال‌ها](#اینسترومنتالها-4)
-
+  
 ### مجموعه‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
 | هلیوم، اشکان کاگان و نعمتی | Envy | <a href="https://open.spotify.com/album/2EGkaTBjDG6q78RQqipqbv?si=o3MZZvW6T_OZSv7ts_9-9g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ناجی | Phonenix (Deluxe) | <a href="https://open.spotify.com/album/3jfuT0vAnWG8wj1r12TjGa?si=pQ8RZ825SfeXMB87-RQ1tQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
+</div>
+
 ### مجموعه‌های همکاری
+
+<div dir="rtl">
+
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
 | تعدادی از هنرمندان | Savage | <a href="https://soundcloud.com/raptunemusic/sets/savage-various-artist-album?si=98021c20cfa84eb9b45c879a4698d1e1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
+</div>
 
 ### ویدئوها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | پیدار و سنیور | Gold Chain | <a href="https://youtu.be/Wbr2k1DAGEo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
@@ -592,7 +688,12 @@
 | امین تی جی | Mug Shot | <a href="https://youtu.be/XFkaB5Ob0ak"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | اپریصا | جراحت | <a href="https://youtu.be/sWnhEUur6iA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
+</div>
+
 ### تک آهنگ‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | امیر ربلز | Pure | <a href="https://open.spotify.com/track/1VxJWVKB7gVu4pOwwMXTT9?si=ebe181dd0fe643a0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
@@ -671,10 +772,17 @@
 | پویان جی سی، شایان اشراقی و کوریبوم | مال من باش | <a href="https://youtu.be/NUotYqr7jAk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | امیر رقاب | اوریگامی | <a href="https://open.spotify.com/track/5rvP2VjhZjVbiyIcGilRpA?si=44eb7bd38ccc4bfe"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
+</div>
+
 ### اینسترومنتال‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
 | هومی (هومن زمانی) و مهرشاد | Breaking Sun | <a href="https://soundcloud.com/hoomi21/breaking-sun-x-mrshvd?si=4f45bd28aacf4ac38a213e4c3564c110&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+
+</div>
 
 ## شهریور
 - [مجموعه‌ها](#مجموعهها-5)
@@ -684,6 +792,9 @@
 - [اینسترومنتال‌ها](#اینسترومنتالها-5)
 
 ### مجموعه‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
 | سالک | کوچ | <a href="https://open.spotify.com/album/1QPYuHeLUM2ij37uFxM85l?si=e2fea39887fc42b2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
@@ -691,14 +802,22 @@
 | کوروش | 420 Vol.2 | <a href="https://open.spotify.com/album/3f8FpeGqcFe4pzjqsnkVXj?si=UG2LgNU8T7SPFyDnY7p0Xg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ودا | دوگانه کوراب | <a href="https://soundcloud.com/vedaputinpush/sets/koorab-1?si=4fa60a5e955a48fa9dcdb48782aa1032&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
+</div>
 
 ### مجموعه‌های بی‌کلام
+
+<div dir="rtl">
+
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
 | بیگ کید و کژتاب | A REAL BOYS STORY | <a href="https://soundcloud.com/bigkid-beats/sets/bigkid-x-kazhtab_a-real-boys-story"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
+</div>
 
 ### ویدئوها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | کیارپ و ناجی | جدی طنزه قسمت 4 فصل 2 | <a href="https://youtu.be/LYoPv5c5OPU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
@@ -738,7 +857,12 @@
 | جیدال، عرفان، سامی بیگی و مدگل | حالا نه | <a href="https://youtu.be/2xCOK65MjvU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | کچی بیتز، پوتک و سینا مافی | دافا | <a href="https://youtu.be/Ymbd-02U-3s"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
+</div>
+
 ### تک آهنگ‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | لیل موو | باراباس | <a href="https://open.spotify.com/track/2yWXuob8O4B9pR5pehnYaB?si=2678669b3f2f48c7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
@@ -835,11 +959,17 @@
 | فرونگ | باهام بیا | <a href="https://soundcloud.com/fvrvng/bahambia?si=5cace9836d0e417ea7b7c7e9e5a599b7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | گویا | خونه تیمی (فری‌استایل) | <a href="https://open.spotify.com/album/2YIdJI1P85gDrYrS5BbQtI?si=elEvdXQ7RTK9ij0R5D93UQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
+</div>
 
 ### اینسترومنتال‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | رضا دد و فون کیدز | 999 | <a href="https://soundcloud.com/rezadead/999phonk?si=88731b1be7404c82a9c6ca602455fd6d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+
+</div>
 
 
 ## مهر
@@ -849,13 +979,21 @@
 
 
 ### مجموعه‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
 | فدایی و مهدیار آقاجانی | حق | <a href="https://soundcloud.com/mahdyar/sets/hagh?si=d995ca05c8914baabdeb4cb46a6413b8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | ایکس ویسکی | Virus | <a href="https://soundcloud.com/pinkyheadboy/sets/virus?si=88b708535efe44df9f1b18b1d28e84c3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
+</div>
+
 
 ### ویدئوها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | مسین | اجرای من و تو ایرانیم | <a href="https://www.instagram.com/tv/Ci7qON2Alyk/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
@@ -867,7 +1005,12 @@
 | تتلو | اجرای هر کی به ما رسید | <a href="https://youtu.be/zfLYH1FZwM4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | 021کید | Fire in The Booth | <a href="https://youtu.be/b7psRtQVLVA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
+</div>
+
 ### تک آهنگ‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | رودی | زن | <a href="https://open.spotify.com/track/0W7GJyNZ5IFeyNMsakSgoy?si=bb8513a91d1b40e6"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
@@ -896,6 +1039,7 @@
 | فارتم | برای (کاور) | <a href="https://soundcloud.com/fxrtem/baraye"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | نهان و پیشوا | سقوط | <a href="https://soundcloud.com/changrecords/soghoot?si=616459ebc18944d284d95234320ed0bb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
+</div>
 
 ## آبان
 - [مجموعه‌ها](#مجموعهها-7)
@@ -903,15 +1047,22 @@
 - [تک آهنگ‌ها](#تک-آهنگها-7)
 - [اینسترومنتال‌ها](#اینسترومنتالها-6)
 
-
 ### مجموعه‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
 | حسین هفت | GANA | <a href="https://youtube.com/playlist?list=PL7OjbXzN5iH4IgcYvKhbuuTxiJ9HhIu2E"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | ارسلان دیگرد | زنده خوانی ولوم 1 | <a href="https://open.spotify.com/album/6DQBsg7wVBiIzOiUc2mcLb?si=Jlg0C8S-S9GajBoywlTG7g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
+</div>
+
 
 ### ویدئوها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | حسین هفت | گانا | <a href="https://youtu.be/Attw8bM2keA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
@@ -928,8 +1079,12 @@
 | 021G | اجرای این دفعه | <a href="https://youtube.com/shorts/d_vQtVS2tCM?feature=share"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | مهراد هیدن | اجرای مرد تنها | <a href="https://www.instagram.com/reel/ClJ16XpDKZd/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 
+</div>
 
 ### تک آهنگ‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | ساتر | بیدار | <a href="https://soundcloud.com/sater-official/bidar?si=7828d414af12424dbaf231487c404f1a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
@@ -984,14 +1139,19 @@
 | آرسیدی | بیگانه | <a href="https://soundcloud.com/arci-day/bigane?si=8cfca9fbabe84c4184e30c7791ffef1a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | ادوین | دامن | <a href="https://soundcloud.com/advinshah/daaman?si=fefe7051f41c4c279923636445742eb1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
+</div>
+
 
 ### اینسترومنتال‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | تاچی | 57-01 | <a href="https://soundcloud.com/abol-viking/57-01?si=d329008d4be44d74bac39cf72f257ab5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | شمرونی | Losing | <a href="https://soundcloud.com/shemroonii/losing?si=e9a26999fee44cb5a8ba454c554b4f47&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
-
+</div>
 
 ## آذر
 - [مجموعه‌ها](#مجموعهها-8)
@@ -1003,6 +1163,9 @@
 
 
 ### مجموعه‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
 | دیگرد و سوال | شرقی غمگین | <a href="https://open.spotify.com/album/1baYHvxplFspXM33cHQhBB?si=uIwS3jHLTNqorOlZV7TD5Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
@@ -1010,18 +1173,30 @@
 | منطق (تردست) | بی‌کشور ورژن 3 | <a href="https://soundcloud.com/tardastsc/sets/bikeshvar-vol3?si=3f179c4d89204d2887a6a96cd4644239&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | GOMZ (فرهود گمنام) | فردا میاد | <a href="https://soundcloud.com/farhoodofficial/sets/farda-miad-ep?si=03a7a76a258b42139a9b6249be81abba&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
+</div>
 
 ### مجموعه‌های بی‌کلام
+
+<div dir="rtl">
+
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
 
+</div>
 
 ### مجموعه‌های همکاری
+
+<div dir="rtl">
+
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
 
+</div>
 
 ### ویدئوها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | رها (ونتونز) | اجرای کوتاه بیا بازم با هم بشیم یک صدا | <a href="https://www.instagram.com/reel/ClTFManDV5b/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
@@ -1031,8 +1206,12 @@
 | حامد فرد | سبزی پلو با ماهی | <a href="https://youtu.be/48i1WvUROAQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | تینا امی، شری ام، نیکیتا، حامد فرد و شادی امینی | ما خود ایرانیم | <a href="https://youtu.be/lUdBjBx6ymk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
+</div>
 
 ### تک آهنگ‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | ویناک | تو کشورم | <a href="https://soundcloud.com/elvinako/to-keshvaram?si=cc08ba74b2b74e16807f2703f11240b5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
@@ -1082,10 +1261,17 @@
 | مستر کیارش و کاوه | خط | <a href="https://soundcloud.com/imkiarash/mr-kiarash-khat?si=28438dd78beb436595b19bd2c89e863d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | اشک (چریک) و مخالف | صدای ایرانی | <a href="https://soundcloud.com/ashk-cherik/sedaye-irani-ashk-x-mokhaalef?si=fc9f5cca9f5240d898a9489500b30604&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
+</div>
+
 
 ### اینسترومنتال‌ها
+
+<div dir="rtl">
+
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | گتونگ | وطن | <a href="https://soundcloud.com/gatvang/vatan?si=f04988e800d54984b73a904f84042baa&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | مضراب | قرب | <a href="https://soundcloud.com/mezrab/ghorb?si=aa4b7ea740014660965765db9edc2b36&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+
+</div>
 
