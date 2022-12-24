@@ -1205,6 +1205,7 @@
 | جرشا | با این که | <a href="https://youtu.be/2WiuPEUMPkQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | حامد فرد | سبزی پلو با ماهی | <a href="https://youtu.be/48i1WvUROAQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | تینا امی، شری ام، نیکیتا، حامد فرد و شادی امینی | ما خود ایرانیم | <a href="https://youtu.be/lUdBjBx6ymk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| علی ازا و ممزی | Tell Me The Price | <a href="https://youtu.be/b3IvCcXvs7I"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -1260,6 +1261,15 @@
 | اوتلا | واسه دل مردمم | <a href="https://soundcloud.com/outlawofficialll/vase-dele-mardomam?si=a1586be6534e4558a51b2e39d43cc388&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | مستر کیارش و کاوه | خط | <a href="https://soundcloud.com/imkiarash/mr-kiarash-khat?si=28438dd78beb436595b19bd2c89e863d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | اشک (چریک) و مخالف | صدای ایرانی | <a href="https://soundcloud.com/ashk-cherik/sedaye-irani-ashk-x-mokhaalef?si=fc9f5cca9f5240d898a9489500b30604&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| شاهین نجفی | صبح انتقام | <a href="https://open.spotify.com/track/3q65Ku6eKo2otJ7RIa81Mk?si=8a0b7b58f1e24f76"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آرما و هلیوم | خوب میشه کی حالمون؟ | <a href="https://open.spotify.com/track/1Qu2LwRUJbHDXT2T8KPjq9?si=6bf1cfbbecb043a9"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| هومان | شهر خون | <a href="https://open.spotify.com/track/2xEA2VAkPc9IeNwxUoD24S?si=3c5fde685b304a2e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| علی پاشا | وطنم | <a href="https://open.spotify.com/album/0QULCRDBU1Nvb0rteelKG8?si=gAAS50jyQcquww8DHfYiUg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مجهول | عادی نمیشه | <a href="https://open.spotify.com/album/4SZkqFE50TErkEcEZYIJ52?si=P3HXY1u-QPaDOdGY0iVCsQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کنیس | هم قفس | <a href="https://open.spotify.com/track/1aXXqt5hcQqJx1sqXswuVD?si=726b88d62d0b4553"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| فدایی | تسخیر | <a href="https://open.spotify.com/track/2LFaMZAGXt4gsXLZbiP9OA?si=aca35aa63d6642df"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جیدال | لیلا رو بردن | <a href="https://open.spotify.com/album/0acQU2w0nB4OfsV0vtbaFD?si=tL__vySqS3CykGvSsxr_ig"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| SHAMBA و ممزی | Anonymous | <a href="https://open.spotify.com/track/7wbaXHRnDGEU9sL23wVTgw?si=56ada1d780184321"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
