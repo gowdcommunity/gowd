@@ -1270,6 +1270,10 @@
 | فدایی | تسخیر | <a href="https://open.spotify.com/track/2LFaMZAGXt4gsXLZbiP9OA?si=aca35aa63d6642df"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | جیدال | لیلا رو بردن | <a href="https://open.spotify.com/album/0acQU2w0nB4OfsV0vtbaFD?si=tL__vySqS3CykGvSsxr_ig"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | SHAMBA و ممزی | Anonymous | <a href="https://open.spotify.com/track/7wbaXHRnDGEU9sL23wVTgw?si=56ada1d780184321"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تهی و 021کید | ای ایران | <a href="https://open.spotify.com/album/2kkzVe190rrssgdTSVXVEy?si=3r5-MdcrQFOOXgpKuSkIug"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مدگل | PTSD | <a href="https://open.spotify.com/track/6E2VSOJLtUS1EnTeLWrtWZ?si=ddd17f4d2de44a76"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آرتا | همه فهمیدن | <a href="https://soundcloud.com/arta-mir/arta-hame-fahmidan?si=b59a9f664fb7401c903c4b221cf3a454&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سپهر سین جیم | اشکاتو پاک کن | <a href="https://soundcloud.com/cnjim/ashkato-pak-kon?si=7cf6cf458b2a4706a3b7fc38f1147b40&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
