@@ -1274,6 +1274,8 @@
 | مدگل | PTSD | <a href="https://open.spotify.com/track/6E2VSOJLtUS1EnTeLWrtWZ?si=ddd17f4d2de44a76"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | آرتا | همه فهمیدن | <a href="https://soundcloud.com/arta-mir/arta-hame-fahmidan?si=b59a9f664fb7401c903c4b221cf3a454&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | سپهر سین جیم | اشکاتو پاک کن | <a href="https://soundcloud.com/cnjim/ashkato-pak-kon?si=7cf6cf458b2a4706a3b7fc38f1147b40&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| رسام و پیکای | قسمت 6 پارادوکس | <a href="https://soundcloud.com/rasam-sohrabi/paradox_ep06_with_peekeye?in=gowdcommunity/sets/aazar-1401-1401&si=d8de6f96c0aa4ee2b63567a1a4c49686&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کاوه | خون 2 | <a href="https://soundcloud.com/kavehofficial/kaveh-khoon-2?in=gowdcommunity/sets/aazar-1401-1401&si=8b4cf8e8508e4528a72de58e7af7ec62&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
