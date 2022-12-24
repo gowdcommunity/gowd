@@ -1286,6 +1286,7 @@
 |:-:|:-:|:-:|
 | گتونگ | وطن | <a href="https://soundcloud.com/gatvang/vatan?si=f04988e800d54984b73a904f84042baa&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | مضراب | قرب | <a href="https://soundcloud.com/mezrab/ghorb?si=aa4b7ea740014660965765db9edc2b36&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| شمرونی | Trophy | <a href="https://soundcloud.com/shemroonii/trophy?si=ff01f7ef6d8e4c2b8c9bec33a958a23b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
