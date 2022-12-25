@@ -1257,6 +1257,8 @@
 | سپهر سین جیم | اشکاتو پاک کن | <a href="https://soundcloud.com/cnjim/ashkato-pak-kon?si=7cf6cf458b2a4706a3b7fc38f1147b40&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | رسام و پیکای | قسمت 6 پارادوکس | <a href="https://soundcloud.com/rasam-sohrabi/paradox_ep06_with_peekeye?in=gowdcommunity/sets/aazar-1401-1401&si=d8de6f96c0aa4ee2b63567a1a4c49686&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | کاوه | خون 2 | <a href="https://soundcloud.com/kavehofficial/kaveh-khoon-2?in=gowdcommunity/sets/aazar-1401-1401&si=8b4cf8e8508e4528a72de58e7af7ec62&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| مستر کیارش | کینه | <a href="https://soundcloud.com/imkiarash/mr-kiarash-kine?si=a690345e4a394bd79c8e56ba0da950e5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سنیور، سیا و پیدار | توام رفتی | <a href="https://soundcloud.com/seniorparsa/toam-rafti-senior-x-30a-x?si=81c400a4d75448b29a5a534c1d8fa401&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
@@ -1290,6 +1292,7 @@
 |:-:|:-:|:-:|
 | کچی بیتز (خشایار اس آر) | زوزه | <a href="https://soundcloud.com/tiktaak-sr/sets/zooze?si=063ce8ce9da44251afd2392f3b51324d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | رضا پیشرو | براندازی | <a href="https://open.spotify.com/album/1SoEWbZrfsxPLlRoYLs5Jx?si=jLH12D6dSWO7H18Zq5TJWQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a> <a href="https://open.spotify.com/album/6gIbFbQEL0DT47yPtpWF3L?si=thEfGWwwTluV3OYGQMUdSQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a> <a href="https://open.spotify.com/album/1acyAgCFhp96zh4GvfnGZ3?si=ToKxxPsyS36NuvehIjCc_g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پدی آی | پشت پرده | <a href="https://soundcloud.com/pedi-i-463233270/sets/poshte-parde?si=605a1d20dcdb41b28a4231b1ad6e83f8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
@@ -1331,6 +1334,12 @@
 | گُرد | سربداران | <a href="https://open.spotify.com/track/3FGFJqB1Xrkcfrl1GExKSP?si=e6939e2dfe234ff9"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | دورچی و کاگان | Dont | <a href="https://open.spotify.com/album/3SkUXWAAAVl3zyFLRwqAe2?si=zqwZopr3SfqGkwopJXJpzg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ایسین | 13 | <a href="https://soundcloud.com/arash-sayadi-492866300/13m?si=67390f594a7d42e1878f27ee0b20e651&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ایکس ویسکی | اون طور که سلیقمه | <a href="https://soundcloud.com/pinkyheadboy/oontor-ke-salighame?si=c157fd00302049abb58b9352849685d1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| میلاد هانیبال | Nêwim Lêna Komar | <a href="https://soundcloud.com/miladhannibal/nlk?si=9208f916d17142d09f029e756fea77e9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تیم و سالی | هری پاتر | <a href="https://soundcloud.com/justiem/harry-potter-tiem-x-sami?si=5dc9546d8058465fb2287a8129a6f643&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| 38 و کوشا | شب | <a href="https://soundcloud.com/kushaaw/shab?si=25ea58cf70f94129ab999f0e0b2a6b7e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| گریفون | کف شهرک (فری استایل) | <a href="https://soundcloud.com/user-798485362/kafe-shahrak-free-style?si=24bb0e0d5b1044f89de634207c1bd264&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| مستر ام پی | ونزوئلا | <a href="https://soundcloud.com/mrmp_official/mr-mp-venezuela?si=2341ab1593144cebaba44928dbe29332&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
