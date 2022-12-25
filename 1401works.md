@@ -1288,6 +1288,8 @@
 
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
+| کچی بیتز (خشایار اس آر) | زوزه | <a href="https://soundcloud.com/tiktaak-sr/sets/zooze?si=063ce8ce9da44251afd2392f3b51324d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| رضا پیشرو | براندازی | <a href="https://open.spotify.com/album/1SoEWbZrfsxPLlRoYLs5Jx?si=jLH12D6dSWO7H18Zq5TJWQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a> <a href="https://open.spotify.com/album/6gIbFbQEL0DT47yPtpWF3L?si=thEfGWwwTluV3OYGQMUdSQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a> <a href="https://open.spotify.com/album/1acyAgCFhp96zh4GvfnGZ3?si=ToKxxPsyS36NuvehIjCc_g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
@@ -1315,6 +1317,7 @@
 
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
+| مظنون (کاربازی) | Nigga Gang Gang | <a href="https://www.instagram.com/tv/CmTq3H5BuK1/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 
 </div>
 
@@ -1324,6 +1327,9 @@
 
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
+| پوریا ادرویت و آری کرمی | یادش بخیر | <a href="https://soundcloud.com/poriyaadroit/yadesh-bekheyr?in=gowdcommunity/sets/dey-1401-1401&si=2a6e5c7038f049acb2c825f97af42ad3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| گُرد | سربداران | <a href="https://open.spotify.com/track/3FGFJqB1Xrkcfrl1GExKSP?si=e6939e2dfe234ff9"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| دورچی و کاگان | Dont | <a href="https://open.spotify.com/album/3SkUXWAAAVl3zyFLRwqAe2?si=zqwZopr3SfqGkwopJXJpzg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
