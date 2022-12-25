@@ -8,6 +8,7 @@
 - [مهر](#مهر)
 - [آبان](#آبان)
 - [آذر](#آذر)
+- [دی](#دی)
 
 ## فروردین
 - [مجموعه‌ها](#مجموعهها)
@@ -1155,8 +1156,6 @@
 
 ## آذر
 - [مجموعه‌ها](#مجموعهها-8)
-- [مجموعه‌های بی‌کلام](#مجموعههای-بیکلام-2)
-- [مجموعه‌های همکاری](#مجموعههای-همکاری-2)
 - [ویدئوها](#ویدئوها-8)
 - [تک آهنگ‌ها](#تک-آهنگها-8)
 - [اینسترومنتال‌ها](#اینسترومنتالها-7)
@@ -1172,24 +1171,6 @@
 | هیپ‌هاپولوژیست | کپسول | <a href="https://soundcloud.com/hiphopologistsoroush/sets/capsule?si=81ade6316fa94d649008e008a1fd893d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | منطق (تردست) | بی‌کشور ورژن 3 | <a href="https://soundcloud.com/tardastsc/sets/bikeshvar-vol3?si=3f179c4d89204d2887a6a96cd4644239&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | GOMZ (فرهود گمنام) | فردا میاد | <a href="https://soundcloud.com/farhoodofficial/sets/farda-miad-ep?si=03a7a76a258b42139a9b6249be81abba&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-
-</div>
-
-### مجموعه‌های بی‌کلام
-
-<div dir="rtl">
-
-| هنرمند | نام مجموعه | لینک |
-|:-:|:-:|:-:|
-
-</div>
-
-### مجموعه‌های همکاری
-
-<div dir="rtl">
-
-| هنرمند | نام مجموعه | لینک |
-|:-:|:-:|:-:|
 
 </div>
 
@@ -1292,3 +1273,65 @@
 
 </div>
 
+## فروردین
+- [مجموعه‌ها](#مجموعهها-9)
+- [مجموعه‌های بی‌کلام](#مجموعههای-بیکلام-2)
+- [مجموعه‌های همکاری](#مجموعههای-همکاری-2)
+- [ویدئوها](#ویدئوها-9)
+- [تک آهنگ‌ها](#تک-آهنگها-9)
+- [اینسترومنتال‌ها](#اینسترومنتالها-8)
+
+
+### مجموعه‌ها
+
+<div dir="rtl">
+
+| هنرمند | نام مجموعه | لینک |
+|:-:|:-:|:-:|
+
+</div>
+
+### مجموعه‌های بی‌کلام
+
+<div dir="rtl">
+
+| هنرمند | نام مجموعه | لینک |
+|:-:|:-:|:-:|
+
+</div>
+
+### مجموعه‌های همکاری
+
+<div dir="rtl">
+
+| هنرمند | نام مجموعه | لینک |
+|:-:|:-:|:-:|
+
+</div>
+
+### ویدئوها
+
+<div dir="rtl">
+
+| هنرمند | نام اثر | لینک |
+|:-:|:-:|:-:|
+
+</div>
+
+### تک آهنگ‌ها
+
+<div dir="rtl">
+
+| هنرمند | نام اثر | لینک |
+|:-:|:-:|:-:|
+
+</div>
+
+### اینسترومنتال‌ها
+
+<div dir="rtl">
+
+| هنرمند | نام اثر | لینک |
+|:-:|:-:|:-:|
+
+</div>
