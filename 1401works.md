@@ -1321,6 +1321,7 @@
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | مظنون (کاربازی) | Nigga Gang Gang | <a href="https://www.instagram.com/tv/CmTq3H5BuK1/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
+| هیپ‌هاپولوژیست | اجرای زنده بتمن | <a href="https://youtu.be/3oEQdC1HmsA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
