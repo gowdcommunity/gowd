@@ -1348,6 +1348,7 @@
 | جیدال و Nogolaw | اگه | <a href="https://soundcloud.com/gdaal/gdaal-age-ft-nogolaw?si=4d17e29769ad47108cfc99eba84d82bb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | سعل چیگینی | پروا | <a href="https://soundcloud.com/soelchigini/parva?si=ccf2eef3e6cc4eb4a47a7b3de0a89697&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | پی بک | یوتوپیا | <a href="https://soundcloud.com/ppayback/utopia?si=fcd84779b1824d07ac2f713f2fb5633e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| مستر کیارش | بس کن | <a href="https://soundcloud.com/imkiarash/mr-kiarash-baskon?si=965ba46a6d23487284f538658109696b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
