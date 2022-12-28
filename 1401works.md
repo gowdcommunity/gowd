@@ -1322,6 +1322,7 @@
 |:-:|:-:|:-:|
 | مظنون (کاربازی) | Nigga Gang Gang | <a href="https://www.instagram.com/tv/CmTq3H5BuK1/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 | هیپ‌هاپولوژیست | اجرای زنده بتمن | <a href="https://youtu.be/3oEQdC1HmsA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| پوری | اجرای قسمتی از دنیای دیگه | <a href="https://www.instagram.com/reel/Cmtqf7Zq9wY/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 
 </div>
 
@@ -1344,6 +1345,9 @@
 | پرهام و رسام | داره میاد | <a href="https://soundcloud.com/parhum/dare-mire-x-rasam?si=206d3b0c0df240eb9c498d21de6754f7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | اِنِساد | خونه | <a href="https://soundcloud.com/enesaad/khooneh?si=244e7a188e354a93bcaa4f0e3296dd07&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | FUZHAN و جارچی | 100g | <a href="https://soundcloud.com/fuzhan/fuzhan-x-jaarchi-100g-prod-azhir?si=c2fe14aaf9354571a746a5eefe3a0887&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| جیدال و Nogolaw | اگه | <a href="https://soundcloud.com/gdaal/gdaal-age-ft-nogolaw?si=4d17e29769ad47108cfc99eba84d82bb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سعل چیگینی | پروا | <a href="https://soundcloud.com/soelchigini/parva?si=ccf2eef3e6cc4eb4a47a7b3de0a89697&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پی بک | یوتوپیا | <a href="https://soundcloud.com/ppayback/utopia?si=fcd84779b1824d07ac2f713f2fb5633e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
