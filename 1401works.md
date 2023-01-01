@@ -1352,6 +1352,7 @@
 | آیسم | اگه بری | <a href="https://open.spotify.com/track/0Ex6AudsByW65p6zDYW07B?si=47bbfbfca10e4596"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | رفیق | نوا | <a href="https://soundcloud.com/refigh/nava?si=3937d01a4b8f4b3086c3179822205770&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | ایکس ویسکی | یه جای امن | <a href="https://soundcloud.com/pinkyheadboy/0xwhisky-ye-jaye-amn-wav?si=72bc15ffafa5489d891f535d4dd2f2b0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| امین تی جی | چی میشه | <a href="https://soundcloud.com/amintijayy/chi-mishe?si=fab635cf255c4615b538b87cb82be2d8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
@@ -1361,5 +1362,6 @@
 
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
+| رضا دد | Limbo | <a href="https://soundcloud.com/rezadead/limbo?si=fa575e90b82c4cc7b3974d180a01afbc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
