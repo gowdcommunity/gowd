@@ -1353,6 +1353,9 @@
 | رفیق | نوا | <a href="https://soundcloud.com/refigh/nava?si=3937d01a4b8f4b3086c3179822205770&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | ایکس ویسکی | یه جای امن | <a href="https://soundcloud.com/pinkyheadboy/0xwhisky-ye-jaye-amn-wav?si=72bc15ffafa5489d891f535d4dd2f2b0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | امین تی جی | چی میشه | <a href="https://soundcloud.com/amintijayy/chi-mishe?si=fab635cf255c4615b538b87cb82be2d8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ریچ رُز | نِگات سرد | <a href="https://soundcloud.com/richrosebaby/negat-sard-leak?si=c4b582e43e0a4b1b9ba3186f92fe8b02&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تیزا، مورگانا و شاکی | آزادی | <a href="https://open.spotify.com/track/0e9lawRN8QhMlt27G99VQ1?si=4546cb77c6de434c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پویان جی سی و سهند | یادت بیار | <a href="https://soundcloud.com/jeyceez/pooyan-jc-yadet-biar-ft-sahand?si=e515b38a3c644c1682214ad4a6dd1818&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
