@@ -1356,6 +1356,7 @@
 | ریچ رُز | نِگات سرد | <a href="https://soundcloud.com/richrosebaby/negat-sard-leak?si=c4b582e43e0a4b1b9ba3186f92fe8b02&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | تیزا، مورگانا و شاکی | آزادی | <a href="https://open.spotify.com/track/0e9lawRN8QhMlt27G99VQ1?si=4546cb77c6de434c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | پویان جی سی و سهند | یادت بیار | <a href="https://soundcloud.com/jeyceez/pooyan-jc-yadet-biar-ft-sahand?si=e515b38a3c644c1682214ad4a6dd1818&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| د بهداد | سلامتی | <a href="https://www.radiojavan.com/mp3s/mp3/The-Behdad-Salamaty"><img src="https://www.radiojavan.com/images/default_fb.png" width="25"></a>
 
 </div>
 
