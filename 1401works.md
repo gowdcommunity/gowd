@@ -1293,6 +1293,7 @@
 | کچی بیتز (خشایار اس آر) | زوزه | <a href="https://soundcloud.com/tiktaak-sr/sets/zooze?si=063ce8ce9da44251afd2392f3b51324d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | رضا پیشرو | براندازی | <a href="https://open.spotify.com/album/1SoEWbZrfsxPLlRoYLs5Jx?si=jLH12D6dSWO7H18Zq5TJWQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a> <a href="https://open.spotify.com/album/6gIbFbQEL0DT47yPtpWF3L?si=thEfGWwwTluV3OYGQMUdSQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a> <a href="https://open.spotify.com/album/1acyAgCFhp96zh4GvfnGZ3?si=ToKxxPsyS36NuvehIjCc_g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | پدی آی | پشت پرده | <a href="https://soundcloud.com/pedi-i-463233270/sets/poshte-parde?si=605a1d20dcdb41b28a4231b1ad6e83f8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| Shamba و ممزی | Grand Slim | <a href="https://open.spotify.com/album/2DOgJMDXu4A2V4u0sV1b56?si=yU7126jpS7ibAmVB6WtbIQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
@@ -1323,6 +1324,8 @@
 | مظنون (کاربازی) | Nigga Gang Gang | <a href="https://www.instagram.com/tv/CmTq3H5BuK1/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 | هیپ‌هاپولوژیست | اجرای زنده بتمن | <a href="https://youtu.be/3oEQdC1HmsA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | پوری | اجرای قسمتی از دنیای دیگه | <a href="https://www.instagram.com/reel/Cmtqf7Zq9wY/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
+| امیر ریبار | منم مثل توام (فری‌استایل) | <a href="https://youtu.be/eBYQh6IeTGU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| امیر ریبار | خشاب (فری‌استایل) | <a href="https://youtu.be/PXf4YlP81Vs"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -1362,6 +1365,10 @@
 | داری | Night Face (Freestyle) | <a href="https://soundcloud.com/daarikavian/night-face-freestyle?si=993ef2707628400b993cdfb841b2c85f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | رفیق | همه میرن | <a href="https://soundcloud.com/refigh/hame-miran?si=3c4e279742f84ff5b9a157d190b29070&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | گویا | تیررس | <a href="https://open.spotify.com/track/6pavVwP7AKfiJUtw4ahBzK?si=a0f39362eb344f74"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| شایان یو | لیلی | <a href="https://open.spotify.com/track/7eDlmfinoSZPuDvIqEOtlP?si=9b5a3732634b4336"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| بهار آتیش | تکثیر | <a href="https://open.spotify.com/album/6mMvUWQOWpsEvD8h1LTQrl?si=l_VBVlVdQ6mtj-Kg3RCxwA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جیدال و پارسا سیمپسون | مرا ببوس | <a href="https://youtu.be/be9JC83eFM4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| عاریوژ | BiPolar | <a href="https://soundcloud.com/ariozh/bipolar?si=62788670fb674dabbd8177b27397117a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
