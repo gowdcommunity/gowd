@@ -1369,6 +1369,11 @@
 | بهار آتیش | تکثیر | <a href="https://open.spotify.com/album/6mMvUWQOWpsEvD8h1LTQrl?si=l_VBVlVdQ6mtj-Kg3RCxwA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | جیدال و پارسا سیمپسون | مرا ببوس | <a href="https://youtu.be/be9JC83eFM4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | عاریوژ | BiPolar | <a href="https://soundcloud.com/ariozh/bipolar?si=62788670fb674dabbd8177b27397117a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کولی | خداحافظ ارغوان | <a href="https://soundcloud.com/kolifarsi/pljhsfutkhei?si=62a196614d134f0ca8668667a5f80f06&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ریچ رُز | Find The Way | <a href="https://soundcloud.com/richrosebaby/find-the-way-1?si=006674f90634448382799e4a5651e513&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| اسمین | نمیدونم | <a href="https://soundcloud.com/user-775219771/nemidoonam?si=df253ef266db44459b697d23f6a28d34&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| شاکی، دیو و امید دانا | ایران | <a href="https://soundcloud.com/shaakey/shakey-x-deev-x-omiddana?si=9b434c2dcb5c44d0af4b8ec1040b91ce&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| مستقل | NaNa | <a href="https://soundcloud.com/mostaqel/nana?si=64f8b2637cd845d0ba00484aa8283f5d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
@@ -1379,5 +1384,6 @@
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | رضا دد | Limbo | <a href="https://soundcloud.com/rezadead/limbo?si=fa575e90b82c4cc7b3974d180a01afbc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| رضا دد | Cerement | <a href="https://soundcloud.com/rezadead/cerement?si=7320e1ef556b446b91bf67bab4501e19&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
