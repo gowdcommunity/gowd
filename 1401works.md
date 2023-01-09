@@ -1357,6 +1357,11 @@
 | تیزا، مورگانا و شاکی | آزادی | <a href="https://open.spotify.com/track/0e9lawRN8QhMlt27G99VQ1?si=4546cb77c6de434c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | پویان جی سی و سهند | یادت بیار | <a href="https://soundcloud.com/jeyceez/pooyan-jc-yadet-biar-ft-sahand?si=e515b38a3c644c1682214ad4a6dd1818&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | د بهداد | سلامتی | <a href="https://www.radiojavan.com/mp3s/mp3/The-Behdad-Salamaty"><img src="https://www.radiojavan.com/images/default_fb.png" width="25"></a>
+| شایان اس و آری کرمی | اگه قول دادم | <a href="https://soundcloud.com/shayaness/age-ghol-dadam?si=9791f54de7594871b54663c1db839ba2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ضحاک (کژدم) | انتقام | <a href="https://soundcloud.com/kazhdom/enteqam?si=17e80cc774314b2db6d32b58f868b40d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| داری | Night Face (Freestyle) | <a href="https://soundcloud.com/daarikavian/night-face-freestyle?si=993ef2707628400b993cdfb841b2c85f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| رفیق | همه میرن | <a href="https://soundcloud.com/refigh/hame-miran?si=3c4e279742f84ff5b9a157d190b29070&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| گویا | تیررس | <a href="https://open.spotify.com/track/6pavVwP7AKfiJUtw4ahBzK?si=a0f39362eb344f74"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
