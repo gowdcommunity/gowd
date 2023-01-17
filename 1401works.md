@@ -1326,6 +1326,11 @@
 | پوری | اجرای قسمتی از دنیای دیگه | <a href="https://www.instagram.com/reel/Cmtqf7Zq9wY/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 | امیر ریبار | منم مثل توام (فری‌استایل) | <a href="https://youtu.be/eBYQh6IeTGU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | امیر ریبار | خشاب (فری‌استایل) | <a href="https://youtu.be/PXf4YlP81Vs"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| جیدال، سامی بیگی و ایمانمون | نفرین | <a href="https://youtu.be/q0yayBS9A48"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| اپریصا | 6 | <a href="https://youtu.be/v4yM6fSo96Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| علی اردوان | اجرای همیشه قلبم بهتر از چشمام دیده | <a href="https://www.instagram.com/reel/CnPZbojK9dq/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
+| شایان یو | اجرای اینا ناله نی | <a href="https://www.instagram.com/tv/CnUu5jvK3tZ/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
+| یانگ صادن | Leak | <a href="https://youtu.be/3c4omkaVBYw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -1378,6 +1383,10 @@
 | پویا و آری کرمی | به مامان چیزی نگو | <a href="https://open.spotify.com/album/0PLQiKA9XP8DY1INC8hP3b?si=B4SDCpEPT-a-eVwya7gl3Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | اپریصا | 6 | <a href="https://open.spotify.com/track/33enSCH7CTB2KwncBQDvP0?si=27558b4550584e61"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | گتونگ و غیب | 2030 | <a href="https://open.spotify.com/album/27nqV86DrE8RLhF563HL69?si=oMxC6JT0RtKk621BLrughQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| یانگ صادن | Leak | <a href="https://open.spotify.com/track/37OElhI5aACV7xc1NIKpVY?si=deecad046bc640fa"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| شایان اشراقی و علیرضا جی جی | دیگه هیچ جا مثل این جا نیست | <a href="https://youtu.be/XRrJn9NMtVI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| بِکس بچه (کاربازی) | ابری | <a href="https://soundcloud.com/user-355113567-200075728/bexbache-abri?si=6bd09c7afb97417c98d98eebc41fa566&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| آرما و Trvpshia | آسمون ببار | <a href="https://soundcloud.com/user-355113567-200075728/bexbache-abri?si=6bd09c7afb97417c98d98eebc41fa566&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
