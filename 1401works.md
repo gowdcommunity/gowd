@@ -1331,6 +1331,7 @@
 | علی اردوان | اجرای همیشه قلبم بهتر از چشمام دیده | <a href="https://www.instagram.com/reel/CnPZbojK9dq/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 | شایان یو | اجرای اینا ناله نی | <a href="https://www.instagram.com/tv/CnUu5jvK3tZ/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 | یانگ صادن | Leak | <a href="https://youtu.be/3c4omkaVBYw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| حامد فرد | بشمر | <a href="https://youtu.be/ot9N6fN6WPA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
