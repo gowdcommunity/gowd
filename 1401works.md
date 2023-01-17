@@ -1374,6 +1374,10 @@
 | اسمین | نمیدونم | <a href="https://soundcloud.com/user-775219771/nemidoonam?si=df253ef266db44459b697d23f6a28d34&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | شاکی، دیو و امید دانا | ایران | <a href="https://soundcloud.com/shaakey/shakey-x-deev-x-omiddana?si=9b434c2dcb5c44d0af4b8ec1040b91ce&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | مستقل | NaNa | <a href="https://soundcloud.com/mostaqel/nana?si=64f8b2637cd845d0ba00484aa8283f5d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| نکو (021کید و Sepshz) | PGB (LoFi Version) | <a href="https://soundcloud.com/nekootunes/lopgb?si=d96d369277884d7583418ae94d78b271&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پویا و آری کرمی | به مامان چیزی نگو | <a href="https://open.spotify.com/album/0PLQiKA9XP8DY1INC8hP3b?si=B4SDCpEPT-a-eVwya7gl3Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| اپریصا | 6 | <a href="https://open.spotify.com/track/33enSCH7CTB2KwncBQDvP0?si=27558b4550584e61"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| گتونگ و غیب | 2030 | <a href="https://open.spotify.com/album/27nqV86DrE8RLhF563HL69?si=oMxC6JT0RtKk621BLrughQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
