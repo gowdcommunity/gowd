@@ -1388,6 +1388,11 @@
 | شایان اشراقی و علیرضا جی جی | دیگه هیچ جا مثل این جا نیست | <a href="https://youtu.be/XRrJn9NMtVI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | بِکس بچه (کاربازی) | ابری | <a href="https://soundcloud.com/user-355113567-200075728/bexbache-abri?si=6bd09c7afb97417c98d98eebc41fa566&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | آرما و Trvpshia | آسمون ببار | <a href="https://soundcloud.com/user-355113567-200075728/bexbache-abri?si=6bd09c7afb97417c98d98eebc41fa566&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| امیر نوید | Bloody | <a href="https://soundcloud.com/amir_navid/bloody?si=db1bb3c8b16c421495aebcce76826ca3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ارشیا و پوریا (مرز رکورد) | سیاه | <a href="https://soundcloud.com/marzrecord/siah?si=249b88feba964e61897c562c2349e747&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| آرون | خونه | <a href="https://open.spotify.com/album/3qB3t10QJcLLrjrEnK1vJb?si=bsoDQ6JUTwSlXT5XWTPRjg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کاوه | Dose | <a href="https://soundcloud.com/kavehofficial/dose?si=9217ffcf31834f2e9b36a223d884f5a8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سیاوش ام ایکس | Purple Snake | <a href="https://soundcloud.com/siavashmx47/purple-snake?si=d77cc3b27f8c4539a1a138456f5e97b6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
