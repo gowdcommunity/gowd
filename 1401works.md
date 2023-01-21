@@ -1294,6 +1294,7 @@
 | رضا پیشرو | براندازی | <a href="https://open.spotify.com/album/1SoEWbZrfsxPLlRoYLs5Jx?si=jLH12D6dSWO7H18Zq5TJWQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a> <a href="https://open.spotify.com/album/6gIbFbQEL0DT47yPtpWF3L?si=thEfGWwwTluV3OYGQMUdSQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a> <a href="https://open.spotify.com/album/1acyAgCFhp96zh4GvfnGZ3?si=ToKxxPsyS36NuvehIjCc_g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | پدی آی | پشت پرده | <a href="https://soundcloud.com/pedi-i-463233270/sets/poshte-parde?si=605a1d20dcdb41b28a4231b1ad6e83f8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | Shamba و ممزی | Grand Slim | <a href="https://open.spotify.com/album/2DOgJMDXu4A2V4u0sV1b56?si=yU7126jpS7ibAmVB6WtbIQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| اسدی | WORLDWIDE | <a href="https://soundcloud.com/asadimusic/sets/asadiworldwide?si=1f68e3bc4f2a45bba3eb723ece850fcb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
@@ -1332,6 +1333,7 @@
 | شایان یو | اجرای اینا ناله نی | <a href="https://www.instagram.com/tv/CnUu5jvK3tZ/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 | یانگ صادن | Leak | <a href="https://youtu.be/3c4omkaVBYw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | حامد فرد | بشمر | <a href="https://youtu.be/ot9N6fN6WPA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| معراج تهرانی | اجرای کلام آخر | <a href="https://www.instagram.com/reel/Cnjt7vrDMoc/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 
 </div>
 
@@ -1393,6 +1395,10 @@
 | آرون | خونه | <a href="https://open.spotify.com/album/3qB3t10QJcLLrjrEnK1vJb?si=bsoDQ6JUTwSlXT5XWTPRjg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | کاوه | Dose | <a href="https://soundcloud.com/kavehofficial/dose?si=9217ffcf31834f2e9b36a223d884f5a8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | سیاوش ام ایکس | Purple Snake | <a href="https://soundcloud.com/siavashmx47/purple-snake?si=d77cc3b27f8c4539a1a138456f5e97b6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| 021kid | RadioActive ( GSZ Intro ) | <a href="https://soundcloud.com/021kid/radioactive?si=a230d01281364ba48d7b4cf3536dee12&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| لیل موو | اشک | <a href="https://soundcloud.com/lilmov/ashk?si=bf834caeaacc49298bc9af13c828854e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| عرفام | فاصله | <a href="https://soundcloud.com/theboyerfam/fasele?si=113cf8bc53cf4812975e763a97114362&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ویناک | ZAZA | <a href="https://soundcloud.com/elvinako/zaza?si=ffece812b97048ee8eb7904618899998&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
