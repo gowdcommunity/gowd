@@ -1399,6 +1399,7 @@
 | لیل موو | اشک | <a href="https://soundcloud.com/lilmov/ashk?si=bf834caeaacc49298bc9af13c828854e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | عرفام | فاصله | <a href="https://soundcloud.com/theboyerfam/fasele?si=113cf8bc53cf4812975e763a97114362&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | ویناک | ZAZA | <a href="https://soundcloud.com/elvinako/zaza?si=ffece812b97048ee8eb7904618899998&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| داری | کانیه | <a href="https://soundcloud.com/daarikavian/kanye-prodsamy-kii?si=0767650a110345bbb717d1681e1f64e9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
