@@ -1428,6 +1428,7 @@
 
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
+| جمعی از هنرمندان | Woman Life Freedom | <a href="https://open.spotify.com/album/50Zwm9qoAW96Vvh1UMSuoR?si=RhsoRw6oRcaTaFPgKAYyXw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
@@ -1442,6 +1443,7 @@
 | پوری | بُزکِش و ترول | <a href="https://youtu.be/kMNpM-CyEn0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | طومار و کاکا سیاه | No Cap | <a href="https://youtu.be/xJpkDjZpnOg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | GOMZ (فرهود گمنام) & FDE  | حاجی | <a href="https://youtu.be/TSlIrJdVqyw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| عرفان | قصه | <a href="https://youtu.be/HzOugwxtoVY"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -1463,8 +1465,11 @@
 | هوشنگ سرکش | کژ انگاشت | <a href="https://soundcloud.com/metyshour/kazh?si=32468333dac1462297c1e888fc81cf0c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | پوریا ادرویت | میگن | <a href="https://open.spotify.com/album/08rf7uDzr1ttdV3MoBvBL1?si=c3_zE6wrTfGAYxzEKDdOJg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | اسمین | موزیک | <a href="https://soundcloud.com/user-775219771/muzik?si=ae2b08a6103d482e8e8bfa405e1575d7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| سیکاچ | Pain | <a href="https://soundcloud.com/user-872669988/pain-wav?si=0a744806cda145068dfb7f4228b9b098&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سیکچ | Pain | <a href="https://soundcloud.com/user-872669988/pain-wav?si=0a744806cda145068dfb7f4228b9b098&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | The Rich PIA | می‌کنم | <a href="https://open.spotify.com/track/72cmh6dLR5boG64u5TFiQp?si=c19e226b3cb94c32"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| عرفان | قصه | <a href="https://open.spotify.com/track/6BfV0d9B0AYsYcLqjjQ7OR?si=a2187c79d6004704"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آئین | یادته | <a href="https://soundcloud.com/aeinp/yadete?si=c3bf5271b4d24aa598dc24a4bc68c0be&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| داریوش تبهکار و عرفان Z7 | Old Style | <a href="https://open.spotify.com/album/1gKDR70XkviIX5FSBQQhzK?si=lWi-AFv_Q--ue42XpY0l7g&utm_source=copy-link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
