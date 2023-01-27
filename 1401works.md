@@ -1437,6 +1437,11 @@
 
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
+| ویناک | زازا | <a href="https://youtu.be/6DqBZ15IO9k"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ویناک | اجرای زنده | <a href="https://www.instagram.com/reel/CnzYdDiDHtr/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
+| پوری | بُزکِش و ترول | <a href="https://youtu.be/kMNpM-CyEn0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| طومار و کاکا سیاه | No Cap | <a href="https://youtu.be/xJpkDjZpnOg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| GOMZ (فرهود گمنام) & FDE  | حاجی | <a href="https://youtu.be/TSlIrJdVqyw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -1446,6 +1451,20 @@
 
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
+| ویناک | بزدل | <a href="https://soundcloud.com/rezadead/cerement?si=7320e1ef556b446b91bf67bab4501e19&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| شایان | تاریکی | <a href="https://soundcloud.com/shayan-hj/shayan-tariki-mp3-1?si=576ca7b8d87843cfae89c7ac7849885b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پرهام | ماریا | <a href="https://open.spotify.com/track/43ZnVnrX35k1fBdoX9bCXa?si=c60d29edb6984280"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| لاکی حسام | کف شهر | <a href="https://soundcloud.com/lucky_hesam/kafe-shahr-prod-dousti-x-kagan?si=8aed7934e9e44fcca2eb614aa7e5df11&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| امیر ربلز | لِه | <a href="https://soundcloud.com/amirrebels/leh-prod-amirrebels?si=ecfafc8ea40d434eba1bcbae79b3dc91&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| رادوچی | مشکی | <a href="https://open.spotify.com/track/4PBGP38Q1KqtShbmDLvTFd?si=c1e4b3220cee4dad"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پوری | بزکِش | <a href="https://open.spotify.com/album/6s0tSewMn1fhrrRVKMhNOX?si=vR3JdFbGSXCdplAAnDoi5A"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پوری | ترول | <a href="https://open.spotify.com/album/2UYlrWcdQbgsXGTDE99uAO?si=qqyclj7qSA2A92sg-WrCEw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| طومار و کاکا سیاه | No Cap | <a href="https://open.spotify.com/track/0YOhudmYsnPE3qgVUM46gH?si=ed148a618b074d7f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| هوشنگ سرکش | کژ انگاشت | <a href="https://soundcloud.com/metyshour/kazh?si=32468333dac1462297c1e888fc81cf0c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پوریا ادرویت | میگن | <a href="https://open.spotify.com/album/08rf7uDzr1ttdV3MoBvBL1?si=c3_zE6wrTfGAYxzEKDdOJg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| اسمین | موزیک | <a href="https://soundcloud.com/user-775219771/muzik?si=ae2b08a6103d482e8e8bfa405e1575d7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سیکاچ | Pain | <a href="https://soundcloud.com/user-872669988/pain-wav?si=0a744806cda145068dfb7f4228b9b098&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| The Rich PIA | می‌کنم | <a href="https://open.spotify.com/track/72cmh6dLR5boG64u5TFiQp?si=c19e226b3cb94c32"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
@@ -1455,5 +1474,6 @@
 
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
+| علی مجیدی | ALONE | <a href="https://youtu.be/CcvvYMPsuX8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
