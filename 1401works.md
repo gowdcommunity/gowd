@@ -1439,7 +1439,7 @@
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | ویناک | زازا | <a href="https://youtu.be/6DqBZ15IO9k"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
-| ویناک | اجرای زنده | <a href="https://www.instagram.com/reel/CnzYdDiDHtr/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
+| ویناک | Live Freestyle | <a href="https://youtu.be/YaTxU9yopzU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | پوری | بُزکِش و ترول | <a href="https://youtu.be/kMNpM-CyEn0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | طومار و کاکا سیاه | No Cap | <a href="https://youtu.be/xJpkDjZpnOg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | GOMZ (فرهود گمنام) & FDE  | حاجی | <a href="https://youtu.be/TSlIrJdVqyw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
@@ -1473,6 +1473,13 @@
 | علی ازا و شایان یو | ستاره | <a href="https://open.spotify.com/track/7fkmyPDTcafpasj5oEeaIF?si=505ecab7a26e4b43"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | Amiizii و HECCY | Le Papillon | <a href="https://open.spotify.com/track/7fkmyPDTcafpasj5oEeaIF?si=505ecab7a26e4b43"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ام سی یاغی و بیگ کید | هیپنوتیزم | <a href="https://soundcloud.com/bigkid-beats/mc-yaghi-x-bigkid-hypnotizm?si=751343ac454444f0a69cb8dccf79c0b6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| آرموند | فریک | <a href="https://soundcloud.com/aryan-ajdarpour/freak?si=0ff34b34903d41cabe36fd49af92a74a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سنیور پارسا | HUSTLER | <a href="https://soundcloud.com/seniorparsa/hustler?si=1402cfe9fb994d4ab79b27198ecdea1f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ادوین | گلوبند | <a href="https://soundcloud.com/advinshah/galooband?si=4aee3a994f8f43dba518ae863211c9fa&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| تیِم و سالی | تولد (فری‌استایل) | <a href="https://soundcloud.com/sali-806872366/free-style-tavalod?si=0381d6e384ce416bb5868abbcd45b0e6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| حُسِن و مگ بی | باز مانده | <a href="https://soundcloud.com/hosendreams/bazmande-hosen-ft-mag-b-prod?si=35d2fd0745094390ad2cdadcb664293d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| د بهداد | آره دیگه | <a href="https://soundcloud.com/user-134690757-226539417/are-dige?si=508df03957aa4e488769a3616b2ca689&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| اسمین | ف | <a href="https://soundcloud.com/user-775219771/9rssiucnnx6j?si=30f2c3fc330e41aca35809e634f2bf5e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
@@ -1483,5 +1490,8 @@
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | علی مجیدی | ALONE | <a href="https://youtu.be/CcvvYMPsuX8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| رضا دد | Autopsy | <a href="https://soundcloud.com/rezadead/autopsy?si=19154baef9c542378113c42fee289f46&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| رضا دد | Corpse | <a href="https://soundcloud.com/rezadead/corpse?si=82b3d5d14adc4a2cbfbe6e19f4422136&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کائن | Bucked City | <a href="https://soundcloud.com/kaenproducer/bucked-city?si=55d70b5ca0f04700bd78edd3d07b2bf6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
