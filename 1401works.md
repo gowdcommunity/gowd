@@ -1471,6 +1471,8 @@
 | آئین | یادته | <a href="https://soundcloud.com/aeinp/yadete?si=c3bf5271b4d24aa598dc24a4bc68c0be&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | داریوش تبهکار و عرفان Z7 | Old Style | <a href="https://open.spotify.com/album/1gKDR70XkviIX5FSBQQhzK?si=lWi-AFv_Q--ue42XpY0l7g&utm_source=copy-link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | علی ازا و شایان یو | ستاره | <a href="https://open.spotify.com/track/7fkmyPDTcafpasj5oEeaIF?si=505ecab7a26e4b43"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| Amiizii و HECCY | Le Papillon | <a href="https://open.spotify.com/track/7fkmyPDTcafpasj5oEeaIF?si=505ecab7a26e4b43"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ام سی یاغی و بیگ کید | هیپنوتیزم | <a href="https://soundcloud.com/bigkid-beats/mc-yaghi-x-bigkid-hypnotizm?si=751343ac454444f0a69cb8dccf79c0b6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
