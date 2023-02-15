@@ -605,7 +605,7 @@
 | عرفام | Diamond | <a href="https://open.spotify.com/track/2ULvY8h9P936Honytd5OlS?si=0f62e483dd2244ba"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | عاریوژ | خدافظ | <a href="https://soundcloud.com/ariozh/khodafez?si=42d88043f6b3482596d1f316360b4c72&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | اوکتاو | بذا برم | <a href="https://open.spotify.com/track/5xIlK7ruH3VMuY0AyhH2ZV?si=322aaeed59224bd0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-
+شادمهر (هیپهاپولوژیست و هیچکس) | Baxe Soroush | <a href="https://soundcloud.com/shadm3hr/bxs"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 </div>
 
 ### اینسترومنتال‌ها
@@ -1040,6 +1040,7 @@
 | معراج تهرانی | موی به باد | <a href="https://t.me/merajtehraniofficial/579"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="25"></a>
 | فارتم | برای (کاور) | <a href="https://soundcloud.com/fxrtem/baraye"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | نهان و پیشوا | سقوط | <a href="https://soundcloud.com/changrecords/soghoot?si=616459ebc18944d284d95234320ed0bb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+|شادمهر (هیچکس) | این یکیم واسه (ریمیکس) | <a href="https://soundcloud.com/shadm3hr/iyv"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
@@ -1480,6 +1481,8 @@
 | حُسِن و مگ بی | باز مانده | <a href="https://soundcloud.com/hosendreams/bazmande-hosen-ft-mag-b-prod?si=35d2fd0745094390ad2cdadcb664293d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | د بهداد | آره دیگه | <a href="https://soundcloud.com/user-134690757-226539417/are-dige?si=508df03957aa4e488769a3616b2ca689&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | اسمین | ف | <a href="https://soundcloud.com/user-775219771/9rssiucnnx6j?si=30f2c3fc330e41aca35809e634f2bf5e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+  
+  شادمهر (داریوش تی کار) | پرواز ممنوع (ریمیکس) | <a href="https://soundcloud.com/shadm3hr/pzm"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
