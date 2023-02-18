@@ -1480,6 +1480,11 @@
 | حُسِن و مگ بی | باز مانده | <a href="https://soundcloud.com/hosendreams/bazmande-hosen-ft-mag-b-prod?si=35d2fd0745094390ad2cdadcb664293d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | د بهداد | آره دیگه | <a href="https://soundcloud.com/user-134690757-226539417/are-dige?si=508df03957aa4e488769a3616b2ca689&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | اسمین | ف | <a href="https://soundcloud.com/user-775219771/9rssiucnnx6j?si=30f2c3fc330e41aca35809e634f2bf5e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سنیور پارسا | ANGEL | <a href="https://soundcloud.com/seniorparsa/angel?si=3ced863ffe4540268a2aa35bcad98782&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| هیپ‌هاپولوژیست | نردبون | <a href="https://open.spotify.com/track/6i80pBQZC8TLey3Z6tNw7c?si=68ae1bbcad62422f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| هیپ‌هاپولوژیست | TheOne | <a href="https://open.spotify.com/album/1EvebGUOW4quEspZwMebkj?si=Vi28fp7PQRa_skWjkm4_1A"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مشرقی | دافم داره خال | <a href="https://open.spotify.com/track/4m0ya0WVe0MYfk3S8aa2Vs?si=db4744f9d9d843b0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| داریوش تبهکار | زاخارکش | <a href="https://open.spotify.com/track/27JwD1fHaS7zc2Kaxv8cMy?si=ea96b116e6ae4234"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
@@ -1493,5 +1498,6 @@
 | رضا دد | Autopsy | <a href="https://soundcloud.com/rezadead/autopsy?si=19154baef9c542378113c42fee289f46&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | رضا دد | Corpse | <a href="https://soundcloud.com/rezadead/corpse?si=82b3d5d14adc4a2cbfbe6e19f4422136&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | کائن | Bucked City | <a href="https://soundcloud.com/kaenproducer/bucked-city?si=55d70b5ca0f04700bd78edd3d07b2bf6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| حکم | حلالم باشه | <a href="https://soundcloud.com/hokm/halalambashe?si=c9a732e01bd546e38f5522f02ab546fb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
