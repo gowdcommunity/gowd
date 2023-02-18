@@ -1410,6 +1410,7 @@
 
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
+| تیِم | Cannabis | <a href="https://open.spotify.com/album/6mAjmSkdAH0hSboAWISqWm?si=peKwRB3cSKO9wHKvvzk-dA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
@@ -1444,6 +1445,10 @@
 | طومار و کاکا سیاه | No Cap | <a href="https://youtu.be/xJpkDjZpnOg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | GOMZ (فرهود گمنام) & FDE  | حاجی | <a href="https://youtu.be/TSlIrJdVqyw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | عرفان | قصه | <a href="https://youtu.be/HzOugwxtoVY"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| تیِم و هیپ‌هاپولوژیست | تهران | <a href="https://youtu.be/FRcls3B3UK0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| کوروش، سمی لو و رها | یه روزی | <a href="https://youtu.be/lQDJg5L7nfI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| پیا و DIXR | BOOG!MAN | <a href="https://youtu.be/c7oPBSXiy_4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| 021G | دریل ماما | <a href="https://youtu.be/D5FZsabTX8g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -1485,6 +1490,23 @@
 | هیپ‌هاپولوژیست | TheOne | <a href="https://open.spotify.com/album/1EvebGUOW4quEspZwMebkj?si=Vi28fp7PQRa_skWjkm4_1A"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | مشرقی | دافم داره خال | <a href="https://open.spotify.com/track/4m0ya0WVe0MYfk3S8aa2Vs?si=db4744f9d9d843b0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | داریوش تبهکار | زاخارکش | <a href="https://open.spotify.com/track/27JwD1fHaS7zc2Kaxv8cMy?si=ea96b116e6ae4234"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تردست | مشق مقاومت | <a href="https://soundcloud.com/tardastsc/mashqemoqawemat?si=b23b78669baf4ef797a17de1cb62bd35&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پارسا اس ایکس (کاربازی) | TBT2 | <a href="https://soundcloud.com/karbazi/parsa-sx-tbt2?si=5b59216ec5d8433ea656289fa1245f42&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| هیپ‌هاپولوژیست | بادپولی | <a href="https://open.spotify.com/album/40upvY0yF04c6NKkoUJP0G?si=K4nconh0SWKUmb4U6LsTQA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ناجی و کیارپ | OCD | <a href="https://open.spotify.com/track/3Ktk3t4kWoJNHbgabSo6qd?si=40168efe7d784c90"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پوریا ادرویت | Takken | <a href="https://open.spotify.com/track/3bF4IXkZF73AaC9MeGDOvF?si=ad3385058c334607"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ویناک | Automatic | <a href="https://open.spotify.com/track/5qPh0K4VrrbHtJagKUMVyf?si=50e000f896c94b7c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| لاکی حسام | بپیک | <a href="https://soundcloud.com/lucky_hesam/bepik?si=ba511a21db864387856b4c7ee969ac31&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پیا و DIXR | BOOG!MAN | <a href="https://open.spotify.com/track/69nMFXTa2jk9d6wVYJGFAl?si=4164669a4b29468c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/Spotify.svg" width="25"></a>
+| سیناتزا | پرستو ترپ | <a href="https://open.spotify.com/track/5OVEFTekNCU4AgyhbdSa31?si=976f80603b7b4f26"><img src="https://edent.github.io/SuperTinyIcons/images/svg/Spotify.svg" width="25"></a>
+| 021G | دریل ماما | <a href="https://open.spotify.com/track/2Qja0BHd28tV3b3TOJHMXi?si=b25e7320bf6047c0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| دژاک | 369 | <a href="https://soundcloud.com/zhak-beat/369a1?si=3db66b67d0f5475bb49114059d809d2b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کاناپوس | گوله برفا | <a href="https://soundcloud.com/user-315642161/gulle-barfa?si=d8e0cf54fa22408ea089e6508af163fc&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| حسین هفت و مهرزاد tizibig | تهرانو یادم رفت | <a href="https://youtu.be/4klyJ2KYX5c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| علیرضا جی جی  | کنسل | <a href="https://open.spotify.com/track/3WqbHbV0UvA9gpB7JcY3eE?si=b9e86170405e44bf"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| فغان و روا | خاکستری | <a href="https://soundcloud.com/faghan/khaakestari?si=41745b74aeeb457dbdcf51c34a404f66&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| شرقی | چشمات | <a href="https://soundcloud.com/sharqibaby/cheshmat-sharqi-x-mazemind?si=e03216274f184c6bb65af000e9fedb74&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| شرقی | خیابون سیف نیست | <a href="https://open.spotify.com/album/2zBBmlpBftvRDS2kOeb67z?si=ujf6WAMRST6FaQRm1s1eBw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
@@ -1499,5 +1521,6 @@
 | رضا دد | Corpse | <a href="https://soundcloud.com/rezadead/corpse?si=82b3d5d14adc4a2cbfbe6e19f4422136&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | کائن | Bucked City | <a href="https://soundcloud.com/kaenproducer/bucked-city?si=55d70b5ca0f04700bd78edd3d07b2bf6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | حکم | حلالم باشه | <a href="https://soundcloud.com/hokm/halalambashe?si=c9a732e01bd546e38f5522f02ab546fb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| بیگ کید | Godspell | <a href="https://soundcloud.com/bigkid-beats/godspell?si=e46e65bc21a14517bd2613db78e7f0f9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
