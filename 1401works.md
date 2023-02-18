@@ -1411,6 +1411,7 @@
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
 | تیِم | Cannabis | <a href="https://open.spotify.com/album/6mAjmSkdAH0hSboAWISqWm?si=peKwRB3cSKO9wHKvvzk-dA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سیجل | SOLOJAL | <a href="https://open.spotify.com/album/4j5Rn1GY3pzAR9a3Cge8pp?si=F0lbR0F1Sri961HIZXgAvQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
@@ -1507,6 +1508,12 @@
 | فغان و روا | خاکستری | <a href="https://soundcloud.com/faghan/khaakestari?si=41745b74aeeb457dbdcf51c34a404f66&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | شرقی | چشمات | <a href="https://soundcloud.com/sharqibaby/cheshmat-sharqi-x-mazemind?si=e03216274f184c6bb65af000e9fedb74&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | شرقی | خیابون سیف نیست | <a href="https://open.spotify.com/album/2zBBmlpBftvRDS2kOeb67z?si=ujf6WAMRST6FaQRm1s1eBw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مستر کیارش | میدونی | <a href="https://soundcloud.com/imkiarash/mr-kiarash-midooni?si=9002e6bb461243efa1cbd4ca4fa7266d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| فورتم | بالا ابر | <a href="https://open.spotify.com/album/0Q6dWkw4SohlI3o7OeV6oe?si=eGt-8_9AR9i5qHTB6QTHLA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| فورتم | به درک | <a href="https://open.spotify.com/album/3RutTm0thUxksFmwOC6f9a?si=f3gO9K7DTiK1reIY56hDBQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| هومان و آرون | زمستون | <a href="https://open.spotify.com/track/2Tk9LXnJE4Kc5ra79Qeef5?si=479e5b1e09e544e2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| رودی | زن (ریمیکس) | <a href="https://soundcloud.com/roodyrapkone/zan2?si=f5fa6dc7e584461aa9d3011ffe8223da&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| امیر ریبار | بهمن | <a href="https://open.spotify.com/track/2ZAxen4U5QNe5rub40oFVN?si=3dac9c8ff7bf4849"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
@@ -1522,5 +1529,7 @@
 | کائن | Bucked City | <a href="https://soundcloud.com/kaenproducer/bucked-city?si=55d70b5ca0f04700bd78edd3d07b2bf6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | حکم | حلالم باشه | <a href="https://soundcloud.com/hokm/halalambashe?si=c9a732e01bd546e38f5522f02ab546fb&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | بیگ کید | Godspell | <a href="https://soundcloud.com/bigkid-beats/godspell?si=e46e65bc21a14517bd2613db78e7f0f9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سزاگادز | SELENE / MISERIA | <a href="https://soundcloud.com/sezagods/selene-miseria?si=cadce160fdad4285a6ceee7662c9288a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| گتونگ | جنگ مار | <a href="https://soundcloud.com/gatvang/jaanemaar?si=afe206ea578740eebab81ebaa9cce402&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
