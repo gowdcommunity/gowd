@@ -1450,6 +1450,8 @@
 | کوروش، سمی لو و رها | یه روزی | <a href="https://youtu.be/lQDJg5L7nfI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | پیا و DIXR | BOOG!MAN | <a href="https://youtu.be/c7oPBSXiy_4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | 021G | دریل ماما | <a href="https://youtu.be/D5FZsabTX8g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| چرسی | Block Freestyle | <a href="https://youtu.be/uUClBfPwSXI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| KAZtheboy | T-City | <a href="https://youtu.be/8m-z8gwu7JE"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
@@ -1514,6 +1516,14 @@
 | هومان و آرون | زمستون | <a href="https://open.spotify.com/track/2Tk9LXnJE4Kc5ra79Qeef5?si=479e5b1e09e544e2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | رودی | زن (ریمیکس) | <a href="https://soundcloud.com/roodyrapkone/zan2?si=f5fa6dc7e584461aa9d3011ffe8223da&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | امیر ریبار | بهمن | <a href="https://open.spotify.com/track/2ZAxen4U5QNe5rub40oFVN?si=3dac9c8ff7bf4849"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| چرسی | Block Freestyle | <a href="https://open.spotify.com/track/2YRj803z079mnINIFxYk79?si=8be4f8de06154ebd"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ارشیا و پرهام | 24E | <a href="https://open.spotify.com/track/62y7WPOmor2XDkwyy1RRND?si=1d4cf36d8b16495b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| KAZtheboy | T-City | <a href="https://open.spotify.com/track/1aoGg4fq8rXf2ibZ5hjas2?si=e7b758aac1314829"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ایمانوف | ZiZi | <a href="https://soundcloud.com/imanofoof/zizi?si=acc1227e1a904ee19f18d47677da6047&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پرهام پُتکی | Shaleki | <a href="https://open.spotify.com/track/1fFNGTAHW5YiKWk4Mq2c0D?si=48d9d38035794aa4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ویناک و آیزان | Hangover | <a href="https://open.spotify.com/track/4ukn8b9mXFo6XQDirrzk2a?si=4293942f36a748d7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کیارپ | کی*مه | <a href="https://open.spotify.com/album/4Paq0oQdRmBbGLnYyoUbSh?si=VpEvtnTJTEaUCP5Bn-F-Vg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مهیار | یه روز خوب کِیه | <a href="https://open.spotify.com/album/4Paq0oQdRmBbGLnYyoUbSh?si=VpEvtnTJTEaUCP5Bn-F-Vg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
