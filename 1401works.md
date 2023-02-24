@@ -1403,6 +1403,7 @@
 - [ویدئوها](#ویدئوها-10)
 - [تک آهنگ‌ها](#تک-آهنگها-10)
 - [اینسترومنتال‌ها](#اینسترومنتالها-9)
+- [ریمیکس‌ها](#ریمیکسها)
 
 ### مجموعه‌ها
 
@@ -1459,6 +1460,8 @@
 | یانگ مو | اگه برنگشت چی | <a href="https://youtu.be/sBqcSybYk24"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | شاهمون | MONEY RAIN | <a href="https://youtu.be/6fmDD3_a3NA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | یانگ صادن و نیگزد | FAME | <a href="https://youtu.be/3wBClYwfpsg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| وطنی | آزمایشگاه | <a href="https://youtu.be/Usrm_qvSxuo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| هیپ‌هاپولوژیست و سپهر خلسه | گیزه | <a href="https://youtu.be/xx_tKr8D_HE"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -1546,6 +1549,17 @@
 | امین تی جی و هلیوم | تو | <a href="https://open.spotify.com/track/2qL5erMdJaq9uoHBv6uCxm?si=9cb63b9ba30d4780"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ویناک | وقت رفته | <a href="https://open.spotify.com/track/6kikI0tidmJqPCh3Sbh1bR?si=daac3a6846354a88"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | 3bsadra & Savage Bird | میگم باش | <a href="https://soundcloud.com/1998-1377/migam-bash-feat-savagbird-prod?si=4fa0f476b0c24cbab887e2f54a90cfbd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سیکَچ | تنتو | <a href="https://open.spotify.com/track/2TSe5HOgwuP4D3RH6MknwE?si=d33afd901f784059"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| دانیال | کادو | <a href="https://open.spotify.com/track/53pBP3sMQV2WF8mE7vecs0?si=d6b484bf56564a1b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آرما | دم صبح | <a href="https://open.spotify.com/track/7KKjGjteQ5qoUgEQmLJR8X?si=2a434fe522d4404a"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| وطنی | آزمایشگاه | <a href="https://open.spotify.com/album/0ttCgqt05YgOtyJjsvxqrD?si=AqZgkcVQT-iByFAKS4emQQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| هیپ‌هاپولوژیست و سپهر خلسه | گیزه | <a href="https://open.spotify.com/track/5GzWfecq8koF3JXJaa0YNO?si=aff0fe28337649cc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| Seininpain | THC | <a href="https://soundcloud.com/seyninpain/thc?si=09ac03a0626c41808b927e3e9c37f699&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| یاسر بینام | اسکار | <a href="https://open.spotify.com/track/7mIo36kvjoqE4aefI3U47q?si=63b2f6d24d574712"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کیارش | مورفین | <a href="https://soundcloud.com/dekiarash/morphine?si=3023e4d992b4424aae8c5e5de5952f25&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پارسا | هاها | <a href="https://open.spotify.com/album/6PFzaKBeb6zOdoXF7axwex?si=OmnujmuPRbGLLWHD0iXv8w"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سنیور پارسا، سیا و پیدار | عشق پرواز | <a href="https://soundcloud.com/piidar/eshghe-parvaz-senior-x-30a-x-1?si=518d2eecb28a4806b0a8a5fe006450af&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| مهیار | دخترک دیوونه شد | <a href="https://t.me/mahyartunes/60"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="25"></a>
 
 </div>
 
@@ -1565,4 +1579,14 @@
 | گتونگ | جنگ مار | <a href="https://soundcloud.com/gatvang/jaanemaar?si=afe206ea578740eebab81ebaa9cce402&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | زال | SadFuck | <a href="https://soundcloud.com/zvvlamir/sadfuck?si=9d55af28aaf7441a97939ce24d6c14a5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
+</div>
+
+### ریمیکس‌ها
+
+<div dir="rtl">
+
+| هنرمند | نام مجموعه | لینک |
+|:-:|:-:|:-:|
+| مطرب | هیپ‌هاپولوژیست - بکس سروش (ریمیکس) | <a href="https://soundcloud.com/motrebam/baxe-soroush-remix?si=ab20eee6ddc8415181d41f573c976430&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+  
 </div>
