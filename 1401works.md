@@ -1456,6 +1456,7 @@
 | KAZtheboy | T-City | <a href="https://youtu.be/8m-z8gwu7JE"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | سجاد شاهی | هیتمن | <a href="https://youtu.be/6i6-lMfKRwg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | یانگ مو | اگه برنگشت چی | <a href="https://youtu.be/sBqcSybYk24"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| شاهمون | MONEY RAIN | <a href="https://youtu.be/6fmDD3_a3NA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -1532,6 +1533,8 @@
 | گتونگ | زینگ | <a href="https://open.spotify.com/track/1cWtnF8c9FFy87cw1hXR0E?si=98e0d8474cb04186"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | جیدال و نوگلاو | شازده کوچولو | <a href="https://open.spotify.com/album/1lzawQoWIbtUKBQW5ARnLH?si=MT9f9p0NSFG_78AtZtDRzw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ویشتاسب | زندگی | <a href="https://soundcloud.com/hiphopirica/zendegi?si=aea7a8db3d5c46ff8b2acd053a5da5f9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| مهراد هیدن، سپهر خلسه و سیجل | نخلا | <a href="https://open.spotify.com/track/7waXRjZFVLv9V2dN2OQlGr?si=2131c5bb4895446d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| شاهمون | MONEY RAIN | <a href="https://open.spotify.com/track/2ckS3A1xT3RnCcnVMWxYTz?si=f05f1e122bf64252"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
