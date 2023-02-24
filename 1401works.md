@@ -1433,6 +1433,7 @@
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
 | جمعی از هنرمندان | Woman Life Freedom | <a href="https://open.spotify.com/album/50Zwm9qoAW96Vvh1UMSuoR?si=RhsoRw6oRcaTaFPgKAYyXw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جمعی از هنرمندان | انقلاب | <a href="https://soundcloud.com/hiphopirica/sets/enghelab-album?si=57b9bf0cb06043738685792606aafe0d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
@@ -1457,6 +1458,7 @@
 | سجاد شاهی | هیتمن | <a href="https://youtu.be/6i6-lMfKRwg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | یانگ مو | اگه برنگشت چی | <a href="https://youtu.be/sBqcSybYk24"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | شاهمون | MONEY RAIN | <a href="https://youtu.be/6fmDD3_a3NA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| یانگ صادن و نیگزد | FAME | <a href="https://youtu.be/3wBClYwfpsg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -1532,9 +1534,18 @@
 | مجهول | واسه چی | <a href="https://open.spotify.com/track/3cLJkmSKRFzswr48it48qF?si=616e69b2d8134494"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | گتونگ | زینگ | <a href="https://open.spotify.com/track/1cWtnF8c9FFy87cw1hXR0E?si=98e0d8474cb04186"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | جیدال و نوگلاو | شازده کوچولو | <a href="https://open.spotify.com/album/1lzawQoWIbtUKBQW5ARnLH?si=MT9f9p0NSFG_78AtZtDRzw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| ویشتاسب | زندگی | <a href="https://soundcloud.com/hiphopirica/zendegi?si=aea7a8db3d5c46ff8b2acd053a5da5f9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | مهراد هیدن، سپهر خلسه و سیجل | نخلا | <a href="https://open.spotify.com/track/7waXRjZFVLv9V2dN2OQlGr?si=2131c5bb4895446d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | شاهمون | MONEY RAIN | <a href="https://open.spotify.com/track/2ckS3A1xT3RnCcnVMWxYTz?si=f05f1e122bf64252"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| AryJi | Law Breaker | <a href="https://open.spotify.com/track/72VSettzwojA8YvoLwHuMs?si=894dc23e78ed4cf2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ناجی | Melancholia | <a href="https://open.spotify.com/album/3Bxj7x0X2QKALkIADJh3jQ?si=nCOZYe-bSUOAKiGcFdwfyQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کاوه | غلافی (فری‌استایل) | <a href="https://soundcloud.com/kavehofficial/kaveh-ghalafi-freestyle-mp3?si=d390b7c7d3b0409fb766b195512e2477&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ضخاک | اشکون | <a href="https://soundcloud.com/kazhdom/ashkun?si=4d921d7f65d844768b3b02d720b4ce16&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| شایان اس | مادمازل | <a href="https://open.spotify.com/track/1sXUuQqkh1hFKDvICHjaaW?si=fc7b87ab69c44284"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| اسمین | بازی بازی | <a href="https://soundcloud.com/user-775219771/smin-bazi-bazi-mp3?si=91c639e825dd4689ac1d7d1f5039e966&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| یانگ صادن و نیگزد | FAME | <a href="https://open.spotify.com/track/6NXVQIJyGBQ9Vt38hUtb4Y?si=60057aa133904a32"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| امین تی جی و هلیوم | تو | <a href="https://open.spotify.com/track/2qL5erMdJaq9uoHBv6uCxm?si=9cb63b9ba30d4780"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ویناک | وقت رفته | <a href="https://open.spotify.com/track/6kikI0tidmJqPCh3Sbh1bR?si=daac3a6846354a88"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| 3bsadra & Savage Bird | میگم باش | <a href="https://soundcloud.com/1998-1377/migam-bash-feat-savagbird-prod?si=4fa0f476b0c24cbab887e2f54a90cfbd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
@@ -1552,5 +1563,6 @@
 | بیگ کید | Godspell | <a href="https://soundcloud.com/bigkid-beats/godspell?si=e46e65bc21a14517bd2613db78e7f0f9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | سزاگادز | SELENE / MISERIA | <a href="https://soundcloud.com/sezagods/selene-miseria?si=cadce160fdad4285a6ceee7662c9288a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | گتونگ | جنگ مار | <a href="https://soundcloud.com/gatvang/jaanemaar?si=afe206ea578740eebab81ebaa9cce402&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| زال | SadFuck | <a href="https://soundcloud.com/zvvlamir/sadfuck?si=9d55af28aaf7441a97939ce24d6c14a5&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
