@@ -1412,6 +1412,8 @@
 |:-:|:-:|:-:|
 | تیِم | Cannabis | <a href="https://open.spotify.com/album/6mAjmSkdAH0hSboAWISqWm?si=peKwRB3cSKO9wHKvvzk-dA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | سیجل | SOLOJAL | <a href="https://open.spotify.com/album/4j5Rn1GY3pzAR9a3Cge8pp?si=F0lbR0F1Sri961HIZXgAvQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| وطن | دلی ام | <a href="https://open.spotify.com/album/5nkhr95qiZfzEOmQERLtWU?si=9a61817c92ae43ee"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| رسام سهرابی | پارادوکس | <a href="https://soundcloud.com/rasam-sohrabi/sets/paradox?si=502fdd8e936b4129882bb534ac2fe377&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
@@ -1451,7 +1453,9 @@
 | پیا و DIXR | BOOG!MAN | <a href="https://youtu.be/c7oPBSXiy_4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | 021G | دریل ماما | <a href="https://youtu.be/D5FZsabTX8g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | چرسی | Block Freestyle | <a href="https://youtu.be/uUClBfPwSXI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
-| KAZtheboy | T-City | <a href="https://youtu.be/8m-z8gwu7JE"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| KAZtheboy | T-City | <a href="https://youtu.be/8m-z8gwu7JE"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| سجاد شاهی | هیتمن | <a href="https://youtu.be/6i6-lMfKRwg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| یانگ مو | اگه برنگشت چی | <a href="https://youtu.be/sBqcSybYk24"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -1523,7 +1527,11 @@
 | پرهام پُتکی | Shaleki | <a href="https://open.spotify.com/track/1fFNGTAHW5YiKWk4Mq2c0D?si=48d9d38035794aa4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ویناک و آیزان | Hangover | <a href="https://open.spotify.com/track/4ukn8b9mXFo6XQDirrzk2a?si=4293942f36a748d7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | کیارپ | کی*مه | <a href="https://open.spotify.com/album/4Paq0oQdRmBbGLnYyoUbSh?si=VpEvtnTJTEaUCP5Bn-F-Vg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| مهیار | یه روز خوب کِیه | <a href="https://open.spotify.com/album/4Paq0oQdRmBbGLnYyoUbSh?si=VpEvtnTJTEaUCP5Bn-F-Vg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مهیار | یه روز خوب کِیه | <a href="https://open.spotify.com/album/72Pt6yLpk6otjsEaOJs6YF?si=xnliri9FQ7WYQ6G0xxOL9Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مجهول | واسه چی | <a href="https://open.spotify.com/track/3cLJkmSKRFzswr48it48qF?si=616e69b2d8134494"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| گتونگ | زینگ | <a href="https://open.spotify.com/track/1cWtnF8c9FFy87cw1hXR0E?si=98e0d8474cb04186"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جیدال و نوگلاو | شازده کوچولو | <a href="https://open.spotify.com/album/1lzawQoWIbtUKBQW5ARnLH?si=MT9f9p0NSFG_78AtZtDRzw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ویشتاسب | زندگی | <a href="https://soundcloud.com/hiphopirica/zendegi?si=aea7a8db3d5c46ff8b2acd053a5da5f9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
