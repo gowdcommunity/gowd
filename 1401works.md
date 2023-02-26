@@ -1560,6 +1560,9 @@
 | پارسا | هاها | <a href="https://open.spotify.com/album/6PFzaKBeb6zOdoXF7axwex?si=OmnujmuPRbGLLWHD0iXv8w"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | سنیور پارسا، سیا و پیدار | عشق پرواز | <a href="https://soundcloud.com/piidar/eshghe-parvaz-senior-x-30a-x-1?si=518d2eecb28a4806b0a8a5fe006450af&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | مهیار | دخترک دیوونه شد | <a href="https://t.me/mahyartunes/60"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="25"></a>
+| اوتلاو | کادو ولن | <a href="https://open.spotify.com/track/7HpzhsOGCDh64tHbTUhmZ8?si=f8d60fc20ea2433f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سایه (مرز) | رسید وقتش | <a href="https://open.spotify.com/track/7HpzhsOGCDh64tHbTUhmZ8?si=f8d60fc20ea2433f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آرمانی | تاریکی تموم نمیشه | <a href="https://open.spotify.com/track/7sx3arkN2ELegq8g8M52VO?si=4fac13827f9c46f8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
