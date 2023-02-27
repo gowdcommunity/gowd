@@ -1462,6 +1462,9 @@
 | یانگ صادن و نیگزد | FAME | <a href="https://youtu.be/3wBClYwfpsg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | وطنی | آزمایشگاه | <a href="https://youtu.be/Usrm_qvSxuo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | هیپ‌هاپولوژیست و سپهر خلسه | گیزه | <a href="https://youtu.be/xx_tKr8D_HE"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| Mazzalini, SepSHZ, P6, Moleany & FDE | LST (London Shiraz Tehran) | <a href="https://youtu.be/6TTzvaunvK8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| مهدی ویرا | Feydus | <a href="https://youtu.be/F81l7L9B5DY"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| عاریوژ | عمر | <a href="https://youtu.be/Ldzdrbr4vjA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -1563,6 +1566,18 @@
 | اوتلاو | کادو ولن | <a href="https://open.spotify.com/track/7HpzhsOGCDh64tHbTUhmZ8?si=f8d60fc20ea2433f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | سایه (مرز) | رسید وقتش | <a href="https://open.spotify.com/track/7HpzhsOGCDh64tHbTUhmZ8?si=f8d60fc20ea2433f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | آرمانی | تاریکی تموم نمیشه | <a href="https://open.spotify.com/track/7sx3arkN2ELegq8g8M52VO?si=4fac13827f9c46f8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| Mazzalini, SepSHZ, P6, Moleany & FDE | LST (London Shiraz Tehran) | <a href="https://open.spotify.com/track/1rMcTCHY9r6GgdGya0a4qv?si=1598e9a621174fa8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سهیل کاناپوس | ولم کن | <a href="https://soundcloud.com/user-315642161/velam-kon?si=80e1dbbc1c1b4d40bb8c5c4367c11827&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| Colorful Revolution | Ain't Sweet | <a href="https://open.spotify.com/track/3YtaUgBDglF9lQ0h6bqV0o?si=80aac72044b64a9c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مهدی ویرا | Feydus | <a href="https://open.spotify.com/track/2Db9MCRcGrDOKaxYIw0Lba?si=fbb15b22bd984a43"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| شایان سیف و ویناک | هر سری | <a href="https://soundcloud.com/shayansafe/har-seri-feat-vinak?si=d5806e682b6a4c78a928ac00b81a25ab&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| نیکرون | دیبالا | <a href="https://open.spotify.com/track/3K3WYYyIiMiL62zvt1IOC0?si=f87f1172070a4c79"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پیلتن امشهی | Shut Up | <a href="https://soundcloud.com/piltanemshahi/shut-up-prod-809?si=66606f05df6941619e88bdc68846dc05&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پیلتن امشهی | Police Illegal | <a href="https://soundcloud.com/piltanemshahi/police-illegal-prod-wartan?si=5e34c3ff33854534a8bfa0179ab88cd8&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سهراب ام جی | بی ریا | <a href="https://open.spotify.com/track/4bTxYFBwjRebZdFyaOLaCe?si=be567c5718e64fd1"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| رادوین | پروانه | <a href="https://soundcloud.com/radwin-1/parvane?si=6e073f80805f4cb884e702d60f3edb0c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| اوتلاو | ریمیکس دستات کو | <a href="https://t.me/Outlawofficialll/461"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="25"></a>
+| عاریوژ | عمر | <a href="https://soundcloud.com/ariozh/omr-prod-onwave?si=62f78cc7f3a5450a85243004f4f3f426&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
