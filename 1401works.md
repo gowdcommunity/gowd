@@ -1465,6 +1465,7 @@
 | Mazzalini, SepSHZ, P6, Moleany & FDE | LST (London Shiraz Tehran) | <a href="https://youtu.be/6TTzvaunvK8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | مهدی ویرا | Feydus | <a href="https://youtu.be/F81l7L9B5DY"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | عاریوژ | عمر | <a href="https://youtu.be/Ldzdrbr4vjA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| Gustav | DEMON TIME | <a href="https://youtu.be/0mtJcHIUCrA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -1579,6 +1580,12 @@
 | اوتلاو | ریمیکس دستات کو | <a href="https://t.me/Outlawofficialll/461"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="25"></a>
 | عاریوژ | عمر | <a href="https://soundcloud.com/ariozh/omr-prod-onwave?si=62f78cc7f3a5450a85243004f4f3f426&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | کوروش و تامارا | نشد بهت بگم | <a href="https://open.spotify.com/track/1kxNQKyomqx4OFGz7tYQRK?si=fc5e01ab9ef644c7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ریچ رُز | دیره | <a href="https://soundcloud.com/richrosebaby/dire?si=956a81d06e0244ac8e9b04dba930dd31&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| دانیال | چَکی | <a href="https://open.spotify.com/track/0Eg6K2ISkgi47lvJMhxvWT?si=15642e3f6be64371"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| دِ بهداد | Ghost | <a href="https://soundcloud.com/user-134690757-226539417/ghost?si=676c1733cf42476694961bf09e6d9187&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ارشیا (مرز) | یه یاد (remastered) | <a href="https://open.spotify.com/album/3CPaAnDtZmmWoxKc70H8uH?si=zDojShYjTO-llPYkfxduxw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| Gustav | DEMON TIME | <a href="https://soundcloud.com/sunrecords2023/gustav-drilll-demon-time?si=fa3d9c41edde4433a3b45ed6e546865f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| وِیوی بوی | Turn Off | <a href="https://open.spotify.com/track/5JzdkSSUrNO5HeId57mBTM?si=de7a65b099974d03"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
