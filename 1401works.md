@@ -1578,6 +1578,7 @@
 | رادوین | پروانه | <a href="https://soundcloud.com/radwin-1/parvane?si=6e073f80805f4cb884e702d60f3edb0c&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | اوتلاو | ریمیکس دستات کو | <a href="https://t.me/Outlawofficialll/461"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="25"></a>
 | عاریوژ | عمر | <a href="https://soundcloud.com/ariozh/omr-prod-onwave?si=62f78cc7f3a5450a85243004f4f3f426&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کوروش و تامارا | نشد بهت بگم | <a href="https://open.spotify.com/track/1kxNQKyomqx4OFGz7tYQRK?si=fc5e01ab9ef644c7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
