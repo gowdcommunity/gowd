@@ -1466,6 +1466,7 @@
 | مهدی ویرا | Feydus | <a href="https://youtu.be/F81l7L9B5DY"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | عاریوژ | عمر | <a href="https://youtu.be/Ldzdrbr4vjA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | Gustav | DEMON TIME | <a href="https://youtu.be/0mtJcHIUCrA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| معراج تهرانی | حلال | <a href="https://youtu.be/dHIbOdIAGns"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -1586,6 +1587,8 @@
 | ارشیا (مرز) | یه یاد (remastered) | <a href="https://open.spotify.com/album/3CPaAnDtZmmWoxKc70H8uH?si=zDojShYjTO-llPYkfxduxw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | Gustav | DEMON TIME | <a href="https://soundcloud.com/sunrecords2023/gustav-drilll-demon-time?si=fa3d9c41edde4433a3b45ed6e546865f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | وِیوی بوی | Turn Off | <a href="https://open.spotify.com/track/5JzdkSSUrNO5HeId57mBTM?si=de7a65b099974d03"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سینایی | میرسه | <a href="https://open.spotify.com/track/459OrAt6NdVwVaUtvneWnE?si=e5cdfd3364154e56"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| معراج تهرانی | حلال | <a href="https://soundcloud.com/merajtehrani/halal?si=6cdfe61d6ddb48fda97a0f06396c8ae7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
@@ -1614,5 +1617,6 @@
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
 | مطرب | هیپ‌هاپولوژیست - بکس سروش (ریمیکس) | <a href="https://soundcloud.com/motrebam/baxe-soroush-remix?si=ab20eee6ddc8415181d41f573c976430&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| حکم | فرشاد - رمان مضطرب (ریمیکس) | <a href="https://soundcloud.com/hokm/rmz?si=c296816576c44865bd2313220c012ded&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
   
 </div>
