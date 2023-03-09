@@ -1467,6 +1467,9 @@
 | عاریوژ | عمر | <a href="https://youtu.be/Ldzdrbr4vjA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | Gustav | DEMON TIME | <a href="https://youtu.be/0mtJcHIUCrA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | معراج تهرانی | حلال | <a href="https://youtu.be/dHIbOdIAGns"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| چرسی و یانگ صادن | Hate Pt. 2 | <a href="https://youtu.be/tM16yAKoJLo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| علیرضا جی جی و یسنا | بنگ بنگ | <a href="https://youtu.be/yOsbz0bT4M8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| امین تیجی | فری‌استایل Goosebumps | <a href="https://www.instagram.com/reel/CoIkGwqMtOT/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 
 </div>
 
@@ -1562,7 +1565,7 @@
 | Seininpain | THC | <a href="https://soundcloud.com/seyninpain/thc?si=09ac03a0626c41808b927e3e9c37f699&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | یاسر بینام | اسکار | <a href="https://open.spotify.com/track/7mIo36kvjoqE4aefI3U47q?si=63b2f6d24d574712"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | کیارش | مورفین | <a href="https://soundcloud.com/dekiarash/morphine?si=3023e4d992b4424aae8c5e5de5952f25&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| پارسا | هاها | <a href="https://open.spotify.com/album/6PFzaKBeb6zOdoXF7axwex?si=OmnujmuPRbGLLWHD0iXv8w"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پارسا | هه هه | <a href="https://open.spotify.com/album/6PFzaKBeb6zOdoXF7axwex?si=OmnujmuPRbGLLWHD0iXv8w"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | سنیور پارسا، سیا و پیدار | عشق پرواز | <a href="https://soundcloud.com/piidar/eshghe-parvaz-senior-x-30a-x-1?si=518d2eecb28a4806b0a8a5fe006450af&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | مهیار | دخترک دیوونه شد | <a href="https://t.me/mahyartunes/60"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="25"></a>
 | اوتلاو | کادو ولن | <a href="https://open.spotify.com/track/7HpzhsOGCDh64tHbTUhmZ8?si=f8d60fc20ea2433f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
@@ -1589,6 +1592,20 @@
 | وِیوی بوی | Turn Off | <a href="https://open.spotify.com/track/5JzdkSSUrNO5HeId57mBTM?si=de7a65b099974d03"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | سینایی | میرسه | <a href="https://open.spotify.com/track/459OrAt6NdVwVaUtvneWnE?si=e5cdfd3364154e56"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | معراج تهرانی | حلال | <a href="https://soundcloud.com/merajtehrani/halal?si=6cdfe61d6ddb48fda97a0f06396c8ae7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| چرسی و یانگ صادن | Hate Pt. 2 | <a href="https://open.spotify.com/track/6g16Nkxva4iwq1ac6E46ln?si=0d685c5797094763"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آرش دارا | مرگ شاعر | <a href="https://open.spotify.com/album/4pPB66EVQUgNrc54mWhUYj?si=7Ows3AQNSU-Af84RfEAoVw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پوری | جناب سروان منو بی‌خیال | <a href="https://t.me/godpoori/737"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="25"></a>
+| ریچ رُز | Huracan | <a href="https://soundcloud.com/richrosebaby/huracan?si=27d9abdc7b414d7bb44f2ba61a40baff&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ارشیا پروانه (PaPa Asli) | AK47 | <a href="https://open.spotify.com/album/2cDzhFjHJsh16oh8JM3t4z?si=Jo1rfvY2T22-8JP6Efzf2A"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پوبون | Lucid Dream | <a href="https://open.spotify.com/album/7JiY6cSpKNeKJWXYEkNYsi?si=dP8p6jjWSkCwJdAVXVyXOg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پارسالیپ | تیک تاک | <a href="https://open.spotify.com/album/1fNQCT7e6YUPuWmPngSWPX?si=AW0HcH39QjqauPFxwmljCA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| 021Kid | The Endz | <a href="https://open.spotify.com/track/2XkeVptutQIcLdoqZhclq2?si=1eb7cb2d4e6549a9"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سانبوی | ربنا | <a href="https://open.spotify.com/album/1Mpu91an6hLjOOeiD0PPcr?si=XQJbiy_sTX-09frunFeyYA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ایسین | Grey Goose | <a href="https://open.spotify.com/album/0br2gP15RKPhbphD5kIhxb?si=_vpxZLb2SYWQrmoupxDOkQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پوری | Untitled ll | <a href="https://open.spotify.com/album/47DDADekGIMasSoIOvb1ap?si=KRNH3XK1R9KDq4aGmWBbSw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| رضا پیشرو | شفا | <a href="https://open.spotify.com/album/173rZFy4OSHLb1eqBAfLdm?si=eM8uW0FOR42OVJwCNoafkw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| 021kid | Random | <a href="https://open.spotify.com/track/7y9K7zIG2ZPyByXqxBHUlf?si=35a29d2726de44ed"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سوگند | ایران من | <a href="https://open.spotify.com/album/4fyO5OcVPrkGaGT6eqc8O3?si=p7HDcV2SQo2l3OpAYXPY0w"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
