@@ -1415,6 +1415,7 @@
 | سیجل | SOLOJAL | <a href="https://open.spotify.com/album/4j5Rn1GY3pzAR9a3Cge8pp?si=F0lbR0F1Sri961HIZXgAvQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | وطن | دلی ام | <a href="https://open.spotify.com/album/5nkhr95qiZfzEOmQERLtWU?si=9a61817c92ae43ee"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | رسام سهرابی | پارادوکس | <a href="https://soundcloud.com/rasam-sohrabi/sets/paradox?si=502fdd8e936b4129882bb534ac2fe377&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| علی تی | فلورنس | <a href="https://open.spotify.com/album/2JzgY4lt3nRXSTfBriqetV?si=6nIR4eoISwakZRZzwvlM7g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
@@ -1470,6 +1471,7 @@
 | چرسی و یانگ صادن | Hate Pt. 2 | <a href="https://youtu.be/tM16yAKoJLo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | علیرضا جی جی و یسنا | بنگ بنگ | <a href="https://youtu.be/yOsbz0bT4M8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | امین تیجی | فری‌استایل Goosebumps | <a href="https://www.instagram.com/reel/CoIkGwqMtOT/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
+| دورچی | عمرا | <a href="https://youtu.be/6VJget0-iyU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -1606,6 +1608,15 @@
 | رضا پیشرو | شفا | <a href="https://open.spotify.com/album/173rZFy4OSHLb1eqBAfLdm?si=eM8uW0FOR42OVJwCNoafkw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | 021kid | Random | <a href="https://open.spotify.com/track/7y9K7zIG2ZPyByXqxBHUlf?si=35a29d2726de44ed"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | سوگند | ایران من | <a href="https://open.spotify.com/album/4fyO5OcVPrkGaGT6eqc8O3?si=p7HDcV2SQo2l3OpAYXPY0w"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| گویا | فری‌استایل ویرونی | <a href="https://soundcloud.com/gooya021/vrn?si=a7344b096a244067914d9504ebff7f43&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| علی اوج، بنجی جی دی و نوتریکا | سرسخت | <a href="https://open.spotify.com/track/7AYSXnvEVCKYwiYQd2kv9Z?si=fd86710e1e024964"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| علی پاشا و نیکی | منو ببخش | <a href="https://open.spotify.com/track/0TvYBvN3jTL2BVq997UvTM?si=173c208168d44931"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| امیر اوگو، آیدانی و آرش سرطان | میشه رفت | <a href="https://soundcloud.com/amirugo/mishe-raft-amir-ugo-idani-haajit-saretan?si=831475d392de432897e6ad0a8b57fa7e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| دورچی | عمرا | <a href="https://open.spotify.com/track/3vBDyKPa53iNjYTUmazMGW?si=868d6ad7530a4598"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| حسین تهی و فرشید | پشت ابر | <a href="https://open.spotify.com/track/2bZX49ATFUcYPfmWFMFJnr?si=5f560559e35f44fb"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سعید مجازی، جاستینا و جامین | مدال | <a href="https://open.spotify.com/track/0Fzdy6z50Q2VBiEsMYZjNr?si=112e08d2b163415f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| شایان سیف، ویناک و خشایار | تسویه حساب | <a href="https://open.spotify.com/track/2D7n42cs39vjAZGRliy6tc?si=a48c0f7717214b5b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| علی اردوان | دلی | <a href="https://t.me/aliardavanmusic/614"><img src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="25"></a>
 
 </div>
 
