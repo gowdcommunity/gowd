@@ -1398,7 +1398,6 @@
 
 ## بهمن
 - [مجموعه‌ها](#مجموعهها-10)
-- [مجموعه‌های بی‌کلام](#مجموعههای-بیکلام-2)
 - [مجموعه‌های همکاری](#مجموعههای-همکاری-2)
 - [ویدئوها](#ویدئوها-10)
 - [تک آهنگ‌ها](#تک-آهنگها-10)
@@ -1416,15 +1415,6 @@
 | وطن | دلی ام | <a href="https://open.spotify.com/album/5nkhr95qiZfzEOmQERLtWU?si=9a61817c92ae43ee"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | رسام سهرابی | پارادوکس | <a href="https://soundcloud.com/rasam-sohrabi/sets/paradox?si=502fdd8e936b4129882bb534ac2fe377&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | علی تی | فلورنس | <a href="https://open.spotify.com/album/2JzgY4lt3nRXSTfBriqetV?si=6nIR4eoISwakZRZzwvlM7g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-
-</div>
-
-### مجموعه‌های بی‌کلام
-
-<div dir="rtl">
-
-| هنرمند | نام مجموعه | لینک |
-|:-:|:-:|:-:|
 
 </div>
 
