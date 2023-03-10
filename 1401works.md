@@ -1648,7 +1648,7 @@
 - [ویدئوها](#ویدئوها-11)
 - [تک آهنگ‌ها](#تک-آهنگها-11)
 - [اینسترومنتال‌ها](#اینسترومنتالها-10)
-
+- [ریمیکس‌ها](#ریمیکسها-1)
 
 ### مجموعه‌ها
 
@@ -1656,7 +1656,9 @@
 
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
-  
+| سی و هشت و کوشا | Mixed Signals | <a href="https://open.spotify.com/album/0qUgyOWbgzJQVNkk7L1nVy?si=d2cd0d54f1024b98"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ایسین | Snow | <a href="https://open.spotify.com/album/5bU56lKn1aaHhWojffvNEX?si=q5hKMc76RfGAQuyEgqeNJQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+
 </div>
 
 
@@ -1686,7 +1688,18 @@
 
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
-  
+| آرتا، اسموک پرپ و کوروش | ردبول | <a href="https://youtu.be/GDocb10mKRs"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| دلو | اثر منفی 2 | <a href="https://youtu.be/YO_zBESL42I"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| فریانگ | Hero | <a href="https://youtu.be/PexDr_647Q8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| دورچی | تاریک‌تر | <a href="https://youtu.be/nkxY514xJwU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| سی و هشت، کوشا و داتسان | کافه‌ها | <a href="https://youtu.be/Gzjt-Qrc2SA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| فدی | The Prestige | <a href="https://youtu.be/11Y__caM0Ao"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| چرسی | 52Hz | <a href="https://youtu.be/cPfX7ANmKoY"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ترین | آزمایشگاه فصل 2 قسمت 12 | <a href="https://youtu.be/wmcGOZBwJg4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| جرشا | این کاره | <a href="https://youtu.be/SBjTg9deM8o"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| لاکی حسام | توپولوف | <a href="https://youtu.be/qpA2AYH4RbQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| اسدی و عرفان | بذر | <a href="https://youtu.be/UIgVI0NeuFk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+
 </div>
 
 
@@ -1696,7 +1709,52 @@
 
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
-  
+| آرتا، اسموک پرپ و کوروش | ردبول | <a href="https://open.spotify.com/track/0N7Zyh1gljtCxfc8VNUD2X?si=a80f47a77e424e7b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| الف هوداد | بازی بلد | <a href="https://open.spotify.com/track/4dofk1pPATgeBUTDkxLEE5?si=010d276808be4364"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سیکچ | Olympic | <a href="https://open.spotify.com/album/2fBf3IMe2vF59Ml2ZOhwFR?si=LUwKQ5mATh6LV2v2-kedNw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| عرفام | Blue | <a href="https://open.spotify.com/track/6Sc19C44A3vcQs6smCM38L?si=e8b41b6d67614977"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| امیر اسپار | اشهد | <a href="https://open.spotify.com/track/5odk22MS8sUTrRYn5yIUqh?si=d3c0fa13dbf840ed"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| دلو | اثر منفی 2 | <a href="https://open.spotify.com/track/2W6wOOmW0pxsJMY3WZuXm6?si=b2a1e4de130d4d16"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کاوه فارد | سلطان | <a href="https://soundcloud.com/kavehfared/soltan?si=f02c2ee74ad94b9abb8182da0d2eb181&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پوریا کی | Black Rose (Acoustic version) | <a href="https://open.spotify.com/album/1jDAH4Re01YM1Q2DXfBMHx?si=P1QqG0SiQCuxEoJYspLNjw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کیارپ | عمو (فری‌استایل) | <a href="https://open.spotify.com/album/6Nf2Z0z4ocQu2lS4y09L2C?si=bMFQst-gTwi7J-x1lyli4w"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ام سی تس | شور | <a href="https://open.spotify.com/track/20TkwAZ3J7ftHKvdJE7IUz?si=c5ce82be89944617"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| فریانگ | Hero | <a href="https://open.spotify.com/track/7mNL2SSnmx9E2S0X7TMuHn?si=3b2d6bcf82624618"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| دورچی | تاریک‌تر | <a href="https://open.spotify.com/track/60eScXRlQRpNhzbCKLm0w3?si=d7211fbc017e44af"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آیسم و هیپ‌هاپولوژیست | Whistler | <a href="https://open.spotify.com/track/6m8LlALVM2Z3e38qGeY3Po?si=b785f0b469574076"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| اهوراست | HOOD | <a href="https://soundcloud.com/user-336680342/hood-prod-mudyflame?si=950d4e7df1fd4d54bb113f1aecd918b9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| Cyrus The Persian, Seniar & Rich Rose | Wanted | <a href="https://soundcloud.com/cyrusdapersian/wanted-by-cyrus-the-persian-x-seniar-x-rich-rose?si=8657bcbde451459ba41c09102d1d3bbe&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| علیرضا جی جی، سپهر خلسه و یسنا | وقت ندارم | <a href="https://open.spotify.com/track/5Qai4ut2OR7MgCtjZ2UF02?si=1545a1bcc9f44939"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سینا ساعی | حضیون | <a href="https://open.spotify.com/track/5Hzp6K7U7lFiaj4Plgjv0W?si=ff3965a0cf1249fe"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| فدی | The Prestige | <a href="https://open.spotify.com/track/31FrkfHSNSILYqWx14Fr5l?si=8ba2c341107c4e1d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جیدال | لینک | <a href="https://open.spotify.com/track/3LCUY3Bp2WIjwWsVs9Y5UM?si=7f07a7ac50fa4395"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| AKG و یانگ مو | Snapp Dog | <a href="https://soundcloud.com/mhmadhooshmndd/snapp-dog-ft-ag?si=42f85388988e4fbc8dcafe137c9f1605&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سام | شب بخیر | <a href="https://soundcloud.com/tunes_sam/audio-mastering-mp3?si=939568b5686a46c99a3e780b340a88df&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| دِ مهرو | فاصله | <a href="https://open.spotify.com/track/3eiKANKOCIb5iSLah0PAA7?si=6f3894cdc8604039"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| علرضو | جام نیست | <a href="https://open.spotify.com/track/2q5ZKF9IXvzYlDDYqMzjvz?si=421efa134be7400c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آیدین وان و سپ SHZ | پابلو | <a href="https://open.spotify.com/track/3DjRJAZLziiTf6jGEjwJyU?si=e7efde3df9364308"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| واله | زهدان | <a href="https://soundcloud.com/shabdarkamine/zehdan?si=90a2935b6abc4aec8ab49d4cfa4474df&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| رسام سهرابی و امیر اسپار | 2002 | <a href="https://soundcloud.com/rasam-sohrabi/rasam-x-spar-2002-freestyle?si=d394dac93abe40109ae2cc1c3832ab2d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پوبون | MDNM (میدونم) | <a href="https://open.spotify.com/album/33DWgisrO6wJ6QbmOA2QjS?si=6w7f3Oz3SqGm2CRRmCguXg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سینا مافی و Shia | بی‌حسی | <a href="https://open.spotify.com/track/2E12HcK6YmYCmk31m81wKI?si=4e19d9274ca84923"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| انسیگان | UK | <a href="https://open.spotify.com/track/1xfFDzr94QW4goRx10wUip?si=e64804d1fff54b15"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| چرسی | 52Hz | <a href="https://open.spotify.com/track/3Qu0XGu9jpZxJGQOYdtjuy?si=4f1c737b5a024488"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ترین | آزمایشگاه فصل 2 قسمت 12 | <a href="https://open.spotify.com/track/0LP5KcWS50n9L3X2b6JKnl?si=9fde14acb0a845a7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پرهام | جده | <a href="https://open.spotify.com/track/0mHJmfG9YaMtUdi9CnrhwO?si=ca5a169467054e28"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ویناک و علی ازا | یه جای دور | <a href="https://open.spotify.com/track/0mPA0bv7jxd94vxcQOuJDA?si=b2bd4146cbff4f86"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| PIA | Lonely | <a href="https://open.spotify.com/track/3oDZqVUjAWQKDihqYk6xga?si=293f8dd4f7994ba6"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| شایان اشراقی | واسه خاطر من | <a href="https://youtu.be/dFNOAr0ZQkg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| امیر نوید | CoCa | <a href="https://soundcloud.com/amir_navid/coca?si=2d92dc480e9b4de4871f73a896ee317d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پابلو و رایان بدیعی | Red Cup | <a href="https://soundcloud.com/rayantrap/redcup?si=823fbafd055e4fb7ad5d2578e8af9195&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| د بهداد | ULTIMATUM | <a href="https://soundcloud.com/user-134690757-226539417/ultimatum?si=86e973c5d85f446a894901bf0163607f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| جرشا | این کاره | <a href="https://open.spotify.com/track/5DktzRVB0OiR1MqpqUpTUK?si=4db5f9588cd44914"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مشرقی | چن چیز | <a href="https://open.spotify.com/track/72wAEy5huZrEWLKvPgCmvI?si=00f776d0012f49a4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سالک | خبرچین | <a href="https://open.spotify.com/album/2pAR4FJQZGuRb8hjWfEYCR?si=G9J32sj8R8apPcSCTgUWRw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پوبون | ROOM100 | <a href="https://open.spotify.com/track/0IXONK0fTteysUyNqS3AC1?si=aa769c92cfbe4dda"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سمی لو | یه سایکو | <a href="https://open.spotify.com/album/35Ig9i0mosolyJpd6wiaYl?si=aDB2zYppSXCnqDbtLEvacw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سمی لو | یه سایکو (نسخه آکوستیک) | <a href="https://open.spotify.com/album/6Oypt9YWhC83ruePMxCOvj?si=uGy-dbliSraurZ4ZpuDKUA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| رادوین | میشکنه | <a href="https://open.spotify.com/track/3zEzlHX4tuXT1wvpUfduYc?si=1c14978f2afa4d56"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+
 </div>
 
 
@@ -1706,5 +1764,17 @@
 
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
-  
+| پوبون | Diss All (-21) | <a href="https://soundcloud.com/tetroparja/2561a?si=28869a8864c64a109810ec769af9e20d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+
+</div>
+
+
+### ریمیکس‌ها
+
+<div dir="rtl">
+
+| هنرمند | نام اثر | لینک |
+|:-:|:-:|:-:|
+| حکم | هیچکس و علی سورنا - بی‌نوایان | <a href="https://soundcloud.com/hokm/bnv?si=70d0db5bdfdb4a5eab634bbf877c460b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+
 </div>
