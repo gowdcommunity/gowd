@@ -1707,6 +1707,8 @@
 | کوشا | هللیوس | <a href="https://youtu.be/VmmcnxGEhn4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | Gomz (فرهود گمنام) | Rockstar | <a href="https://youtu.be/v5sjk_pz40E"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | ملکه، جاستینا، بهار آتیش و حانیه و... | فریاد آزادی | <a href="https://youtu.be/dL7UEZldy18"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| مجهول | اصن مهم نیست | <a href="https://www.instagram.com/reel/CpiQrKnJMKg/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
+| ام سی تس | ریرا | <a href="https://youtu.be/PHzjOV1KRTI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -1776,6 +1778,12 @@
 | ملکه، جاستینا، بهار آتیش و حانیه و... | فریاد آزادی | <a href="https://soundcloud.com/justinaam/various-artist-shout-of?si=d3e45f42200045bcb0a1aceb75feca0b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | AryJi | AP | <a href="https://open.spotify.com/track/0tP7Is18MslcqrFDCiZRlU?si=90b93923425c4a13"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | مجهول | اصن مهم نیست | <a href="https://soundcloud.com/officialmajhool/asan-mohem-nist?si=195958b6d48847628e42cced539bea04&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سیکچ، ریل سیناس و آرمانی | فراموشت می‌کنم | <a href="https://open.spotify.com/album/70qLvhBjrkXgQRJqzwVYHA?si=p32u3RT8SLCY5DXtq0h-zA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| فدایی | مشکی | <a href="https://open.spotify.com/album/2URg44kXVOHZSs70dWT5IB?si=dzeFhcSyTomikayi2cWtyg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ام سی تس | ریرا | <a href="https://open.spotify.com/album/4v0DInWECNJzYsZey44jFN?si=begFBGnGTTW5qjWekfJtQQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| شاهمون، امیر ریبار و لیدربیتز | ایولاه | <a href="https://soundcloud.com/liderbeatz/liderbeatz-x-ribar-x-shahemoon?si=682bb37ed2d648ee9bfefd260066e437&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| SeynInPain | دست خودم نی | <a href="https://soundcloud.com/seyninpain/dasse-khodam-ni?si=db6f317a829547008bc8136c70c2e882&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پی بک | حاکم (فری‌استایل) | <a href="https://open.spotify.com/album/7oeey0iWReFT2ELK6sLwFD?si=ok5IrGSrSduxSAnMVcKO3g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
