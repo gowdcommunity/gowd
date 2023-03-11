@@ -1660,6 +1660,8 @@
 | ایسین | Snow | <a href="https://open.spotify.com/album/5bU56lKn1aaHhWojffvNEX?si=q5hKMc76RfGAQuyEgqeNJQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | مستد | مهم | <a href="https://soundcloud.com/user-46998816/sets/mohem?si=d72dd581687a45acac64b7f3b508d6ce&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | امین تی جی | آدم برفی | <a href="https://open.spotify.com/album/0PrnJpBZWgUjoHtIU5ZDsy?si=c4Zov0r3SLCI8Yxe3CfVrw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| رحمت | زاهد گیانم | <a href="https://soundcloud.com/div4n/sets/zahed-giyanam?si=68af1a1e071c4885b94eda82d87568b0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| فرشاد | نویسنده | <a href="https://soundcloud.com/farshadhiphop/sets/nevisande-lp?si=c92046ec67de4ef7b7271af79173dc9f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
@@ -1784,6 +1786,7 @@
 | شاهمون، امیر ریبار و لیدربیتز | ایولاه | <a href="https://soundcloud.com/liderbeatz/liderbeatz-x-ribar-x-shahemoon?si=682bb37ed2d648ee9bfefd260066e437&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | SeynInPain | دست خودم نی | <a href="https://soundcloud.com/seyninpain/dasse-khodam-ni?si=db6f317a829547008bc8136c70c2e882&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | پی بک | حاکم (فری‌استایل) | <a href="https://open.spotify.com/album/7oeey0iWReFT2ELK6sLwFD?si=ok5IrGSrSduxSAnMVcKO3g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کیارپ و مجهول | الکل | <a href="https://open.spotify.com/album/6wdFv3EU4KD3y74ARivlqk?si=5GbJD7lTT1-SIWnlziCxLA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
