@@ -1658,6 +1658,8 @@
 |:-:|:-:|:-:|
 | سی و هشت و کوشا | Mixed Signals | <a href="https://open.spotify.com/album/0qUgyOWbgzJQVNkk7L1nVy?si=d2cd0d54f1024b98"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ایسین | Snow | <a href="https://open.spotify.com/album/5bU56lKn1aaHhWojffvNEX?si=q5hKMc76RfGAQuyEgqeNJQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مستد | مهم | <a href="https://soundcloud.com/user-46998816/sets/mohem?si=d72dd581687a45acac64b7f3b508d6ce&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| امین تی جی | آدم برفی | <a href="https://open.spotify.com/album/0PrnJpBZWgUjoHtIU5ZDsy?si=c4Zov0r3SLCI8Yxe3CfVrw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
@@ -1699,6 +1701,12 @@
 | جرشا | این کاره | <a href="https://youtu.be/SBjTg9deM8o"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | لاکی حسام | توپولوف | <a href="https://youtu.be/qpA2AYH4RbQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | اسدی و عرفان | بذر | <a href="https://youtu.be/UIgVI0NeuFk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| سجادی | نهال | <a href="https://youtu.be/aOz7-_Q6vbU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| گتونگ | شهر | <a href="https://youtu.be/7dcYNUmMklU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| مستقل | فری‌استایل | <a href="https://www.instagram.com/reel/CpfG7NYJxBb/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
+| کوشا | هللیوس | <a href="https://youtu.be/VmmcnxGEhn4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| Gomz (فرهود گمنام) | Rockstar | <a href="https://youtu.be/v5sjk_pz40E"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ملکه، جاستینا، بهار آتیش و حانیه و... | فریاد آزادی | <a href="https://youtu.be/dL7UEZldy18"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -1754,6 +1762,20 @@
 | سمی لو | یه سایکو | <a href="https://open.spotify.com/album/35Ig9i0mosolyJpd6wiaYl?si=aDB2zYppSXCnqDbtLEvacw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | سمی لو | یه سایکو (نسخه آکوستیک) | <a href="https://open.spotify.com/album/6Oypt9YWhC83ruePMxCOvj?si=uGy-dbliSraurZ4ZpuDKUA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | رادوین | میشکنه | <a href="https://open.spotify.com/track/3zEzlHX4tuXT1wvpUfduYc?si=1c14978f2afa4d56"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سجادی | نهال | <a href="https://open.spotify.com/album/78w4jRVoA0YQ7j7VnrgqkT?si=rMdHZBvbSyOBVA3K8LxedA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سینکو | T4L | <a href="https://open.spotify.com/album/2OPbHIanXkgH91RN1PjFbV?si=493accdc75174bb2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| گتونگ | شهر | <a href="https://soundcloud.com/gatvang/shahr?si=e265eb3ab01249b49e7959485dd85354&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| امیر تئور | دیجیتال | <a href="https://open.spotify.com/album/3CaVRnUt0kmuPoKYYnWUyB?si=da316ee7e29d495c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| اسمین | بذارید برید | <a href="https://soundcloud.com/user-775219771/bezarid-berid?si=0726584716aa4ce2944979cf4b506c35&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کوشا | هللیوس | <a href="https://open.spotify.com/track/6BYhguxb4PlsJnfjVdyvPb?si=950a05a05f154983"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کیارپ و مملی | چرا من | <a href="https://open.spotify.com/track/2jsSdjXbEED9tpEVcfqcyv?si=b9cddb5ff3404863"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آیسم و کوروش | OnlyFans | <a href="https://open.spotify.com/track/2Jdbq171GhKHbKLy4oUlhQ?si=13bd03d1d6b242e2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| Gomz (فرهود گمنام) | Rockstar | <a href="https://soundcloud.com/farhoodofficial/rockstar?si=3935aeb21746491a9c7d799f8ddd63e2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ناجی | ILL | <a href="https://open.spotify.com/track/10IC6DR08qvbz012B5S63D?si=e075b219f97d40cc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| رضا پیشرو، حسین تهی و عرفان | تمومش کن | <a href="https://open.spotify.com/album/30eu31MLhXN5fw848WrZ5N?si=5e1b25d5cd26443e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ملکه، جاستینا، بهار آتیش و حانیه و... | فریاد آزادی | <a href="https://soundcloud.com/justinaam/various-artist-shout-of?si=d3e45f42200045bcb0a1aceb75feca0b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| AryJi | AP | <a href="https://open.spotify.com/track/0tP7Is18MslcqrFDCiZRlU?si=90b93923425c4a13"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مجهول | اصن مهم نیست | <a href="https://soundcloud.com/officialmajhool/asan-mohem-nist?si=195958b6d48847628e42cced539bea04&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
