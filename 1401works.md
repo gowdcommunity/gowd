@@ -1787,6 +1787,7 @@
 | SeynInPain | دست خودم نی | <a href="https://soundcloud.com/seyninpain/dasse-khodam-ni?si=db6f317a829547008bc8136c70c2e882&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | پی بک | حاکم (فری‌استایل) | <a href="https://open.spotify.com/album/7oeey0iWReFT2ELK6sLwFD?si=ok5IrGSrSduxSAnMVcKO3g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | کیارپ و مجهول | الکل | <a href="https://open.spotify.com/album/6wdFv3EU4KD3y74ARivlqk?si=5GbJD7lTT1-SIWnlziCxLA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| علی ازا | VIBE | <a href="https://open.spotify.com/track/0erzb2rAPFDXQfLz1rf6zd?si=b2ba0a7807ca4188"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
