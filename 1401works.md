@@ -1788,6 +1788,12 @@
 | پی بک | حاکم (فری‌استایل) | <a href="https://open.spotify.com/album/7oeey0iWReFT2ELK6sLwFD?si=ok5IrGSrSduxSAnMVcKO3g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | کیارپ و مجهول | الکل | <a href="https://open.spotify.com/album/6wdFv3EU4KD3y74ARivlqk?si=5GbJD7lTT1-SIWnlziCxLA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | علی ازا | VIBE | <a href="https://open.spotify.com/track/0erzb2rAPFDXQfLz1rf6zd?si=b2ba0a7807ca4188"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| داری | Trust Issue | <a href="https://open.spotify.com/track/3mDzDqBU9i17kgEwT4uQ9r?si=7bb46648362d4e14"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ترین | شب تاب | <a href="https://soundcloud.com/tarinrap/shabtaab?si=d9370e6b15854bb59131d488cab61eb1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پوریا کی | TOXIC | <a href="https://open.spotify.com/track/2MC1qvj4e20wrIq2QZnpMp?si=c95f5c9a3e694aa3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مرصاد | Trust Issue | <a href="https://open.spotify.com/track/2NAMdTLMAtvar0rUuXkqtc?si=c9a924b379ce446e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| نیلا و سجادی | میشه | <a href="https://open.spotify.com/track/3XPi96BtwBvxj3s3tO9pBP?si=f85b448e9fb345ea"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ایکس ویسکی | یه خیال | <a href="https://soundcloud.com/pinkyheadboy/ye-khial?si=163d385ce4ab4351a611fda5f6aa90ab&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
@@ -1810,5 +1816,6 @@
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | حکم | هیچکس و علی سورنا - بی‌نوایان | <a href="https://soundcloud.com/hokm/bnv?si=70d0db5bdfdb4a5eab634bbf877c460b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| HITMYDM | پوبون - Runaway (Official Remix) | <a href="https://open.spotify.com/track/5zaCWhoilv5lkkOXXVrnRR?si=af131d092d964045"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
