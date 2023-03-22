@@ -1711,6 +1711,8 @@
 | ملکه، جاستینا، بهار آتیش و حانیه و... | فریاد آزادی | <a href="https://youtu.be/dL7UEZldy18"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | مجهول | اصن مهم نیست | <a href="https://www.instagram.com/reel/CpiQrKnJMKg/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 | ام سی تس | ریرا | <a href="https://youtu.be/PHzjOV1KRTI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| پوریا آدرویت | Get Siktir | <a href="https://youtu.be/aqyeqmdMoIQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| مهدی رهام و حسین اچ اف | سایفر 021 کمپانی | <a href="https://www.instagram.com/p/CpsX5GVJ6hr/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 
 </div>
 
@@ -1794,6 +1796,8 @@
 | مرصاد | Trust Issue | <a href="https://open.spotify.com/track/2NAMdTLMAtvar0rUuXkqtc?si=c9a924b379ce446e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | نیلا و سجادی | میشه | <a href="https://open.spotify.com/track/3XPi96BtwBvxj3s3tO9pBP?si=f85b448e9fb345ea"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ایکس ویسکی | یه خیال | <a href="https://soundcloud.com/pinkyheadboy/ye-khial?si=163d385ce4ab4351a611fda5f6aa90ab&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پوریا آدرویت | Get Siktir | <a href="https://open.spotify.com/album/7GDd0CIoVR4jW3NLzhhAdU?si=T8qXFwezQq6pa4jvJLel7g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ام سی یاغی | اولین خون | <a href="https://soundcloud.com/user-745134242/avalin-khoon-prod-hokm?si=80216abbf83b4435bdb19b4a49a03e7f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
