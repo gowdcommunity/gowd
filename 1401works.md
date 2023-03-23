@@ -1662,6 +1662,7 @@
 | امین تی جی | آدم برفی | <a href="https://open.spotify.com/album/0PrnJpBZWgUjoHtIU5ZDsy?si=c4Zov0r3SLCI8Yxe3CfVrw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | رحمت | زاهد گیانم | <a href="https://soundcloud.com/div4n/sets/zahed-giyanam?si=68af1a1e071c4885b94eda82d87568b0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | فرشاد | نویسنده | <a href="https://soundcloud.com/farshadhiphop/sets/nevisande-lp?si=c92046ec67de4ef7b7271af79173dc9f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| اِخ | تیزاب | <a href="https://open.spotify.com/album/0uwxxSXSDtGbmU5rISSCxK?si=O-nTMl7XRO6-zxkb0w1BaA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
@@ -1713,6 +1714,8 @@
 | ام سی تس | ریرا | <a href="https://youtu.be/PHzjOV1KRTI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | پوریا آدرویت | Get Siktir | <a href="https://youtu.be/aqyeqmdMoIQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | مهدی رهام و حسین اچ اف | سایفر 021 کمپانی | <a href="https://www.instagram.com/p/CpsX5GVJ6hr/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
+| اِخ | زهدان | <a href="https://www.instagram.com/reel/CpuQAcjOavQ/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
+| پوری | شوتیا | <a href="https://youtu.be/cB5sPMKWeDQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -1747,7 +1750,7 @@
 | دِ مهرو | فاصله | <a href="https://open.spotify.com/track/3eiKANKOCIb5iSLah0PAA7?si=6f3894cdc8604039"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | علرضو | جام نیست | <a href="https://open.spotify.com/track/2q5ZKF9IXvzYlDDYqMzjvz?si=421efa134be7400c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | آیدین وان و سپ SHZ | پابلو | <a href="https://open.spotify.com/track/3DjRJAZLziiTf6jGEjwJyU?si=e7efde3df9364308"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| واله | زهدان | <a href="https://soundcloud.com/shabdarkamine/zehdan?si=90a2935b6abc4aec8ab49d4cfa4474df&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| اِخ | زهدان | <a href="https://open.spotify.com/track/19DzPBR30ogF7IlAHdT1Fd?si=caea70fc6a7541b8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | رسام سهرابی و امیر اسپار | 2002 | <a href="https://soundcloud.com/rasam-sohrabi/rasam-x-spar-2002-freestyle?si=d394dac93abe40109ae2cc1c3832ab2d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | پوبون | MDNM (میدونم) | <a href="https://open.spotify.com/album/33DWgisrO6wJ6QbmOA2QjS?si=6w7f3Oz3SqGm2CRRmCguXg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | سینا مافی و Shia | بی‌حسی | <a href="https://open.spotify.com/track/2E12HcK6YmYCmk31m81wKI?si=4e19d9274ca84923"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
@@ -1800,7 +1803,9 @@
 | ام سی یاغی | اولین خون | <a href="https://soundcloud.com/user-745134242/avalin-khoon-prod-hokm?si=80216abbf83b4435bdb19b4a49a03e7f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | پاپا بویز | BOKOBOKOBOKO | <a href="https://open.spotify.com/track/6WLYIEuh52jjghescr7kga?si=b24f633e73e544ed"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ایسین و لیل شروین | MOON LIGHT | <a href="https://open.spotify.com/track/2uSmM0ENQnOjupcJY92Rcg?si=8be1ef3a6d6d43e2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| فر و شقایق | 28/08a href="https://soundcloud.com/pharr_id/28l08?si=a934102d44ba47ec9e03bfb6769bf464&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| فر و شقایق | 28/08 | <a href="https://soundcloud.com/pharr_id/28l08?si=c77e4d172ea843008c7d7006ae853343&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پوبون | دختر | <a href="https://open.spotify.com/track/249nVJgIYpJRGvzMQ0odB1?si=354dc5f1421c4130"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پوری | شوتیا | <a href="https://open.spotify.com/track/4HkyT5RKnIgOwlEQGyj5ky?si=ebe7428c50cb49ae"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
