@@ -1798,6 +1798,9 @@
 | ایکس ویسکی | یه خیال | <a href="https://soundcloud.com/pinkyheadboy/ye-khial?si=163d385ce4ab4351a611fda5f6aa90ab&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | پوریا آدرویت | Get Siktir | <a href="https://open.spotify.com/album/7GDd0CIoVR4jW3NLzhhAdU?si=T8qXFwezQq6pa4jvJLel7g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ام سی یاغی | اولین خون | <a href="https://soundcloud.com/user-745134242/avalin-khoon-prod-hokm?si=80216abbf83b4435bdb19b4a49a03e7f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پاپا بویز | BOKOBOKOBOKO | <a href="https://open.spotify.com/track/6WLYIEuh52jjghescr7kga?si=b24f633e73e544ed"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ایسین و لیل شروین | MOON LIGHT | <a href="https://open.spotify.com/track/2uSmM0ENQnOjupcJY92Rcg?si=8be1ef3a6d6d43e2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| فر و شقایق | 28/08a href="https://soundcloud.com/pharr_id/28l08?si=a934102d44ba47ec9e03bfb6769bf464&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
