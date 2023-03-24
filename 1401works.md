@@ -1663,6 +1663,7 @@
 | رحمت | زاهد گیانم | <a href="https://soundcloud.com/div4n/sets/zahed-giyanam?si=68af1a1e071c4885b94eda82d87568b0&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | فرشاد | نویسنده | <a href="https://soundcloud.com/farshadhiphop/sets/nevisande-lp?si=c92046ec67de4ef7b7271af79173dc9f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | اِخ | تیزاب | <a href="https://open.spotify.com/album/0uwxxSXSDtGbmU5rISSCxK?si=O-nTMl7XRO6-zxkb0w1BaA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آرتیست و مرداس | NITROUS | <a href="https://soundcloud.com/mardasbeatz/sets/nitrous?si=d631e45a5dec4c5d8a87ba0b257d1eed&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
@@ -1716,6 +1717,12 @@
 | مهدی رهام و حسین اچ اف | سایفر 021 کمپانی | <a href="https://www.instagram.com/p/CpsX5GVJ6hr/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 | اِخ | زهدان | <a href="https://www.instagram.com/reel/CpuQAcjOavQ/?utm_source=ig_web_copy_link"><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 | پوری | شوتیا | <a href="https://youtu.be/cB5sPMKWeDQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| نیش | بد بیت | <a href="https://youtu.be/-ShQ5xZic7w"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| اپریصا | اضافی | <a href="https://youtu.be/YisWjbDEdAs"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| پی بک | زائر | <a href="https://youtu.be/UhNP4gm8P2I"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| یانگ صادن | الفاتحه | <a href="https://youtu.be/H43XoEg5n4o"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| چرسی، آرما، کوشا و سی و هشت | حبیبی | <a href="https://youtu.be/tdi5Qv4YWEk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ایمانمون | تابوی نسل | <a href="https://youtu.be/f03uLALCUDs"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -1806,6 +1813,32 @@
 | فر و شقایق | 28/08 | <a href="https://soundcloud.com/pharr_id/28l08?si=c77e4d172ea843008c7d7006ae853343&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | پوبون | دختر | <a href="https://open.spotify.com/track/249nVJgIYpJRGvzMQ0odB1?si=354dc5f1421c4130"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | پوری | شوتیا | <a href="https://open.spotify.com/track/4HkyT5RKnIgOwlEQGyj5ky?si=ebe7428c50cb49ae"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| شهریار | روزمرگی | <a href="https://soundcloud.com/shahryarr/roozmaregi?si=f5d887db991144a398d6db6632377f87&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| امیر تئور | روز از نو | <a href="https://open.spotify.com/album/14uUsKJITGcdyDAraG4fPN?si=IaGsFXkmRe6-_cdJ94GX0g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| فیزر و رها ریکی | مخدری | <a href="https://open.spotify.com/track/1comMrDYbrp8ZNSwhIWhNB?si=f2a1ebeb844b485f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| Mazzalini | BERLIN | <a href="https://open.spotify.com/track/1JSzYVJsVbthcu7pbX2xu4?si=979ea4947d9548ec"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کوروش و سمی لو | کولاک | <a href="https://open.spotify.com/track/0dhMM3mZaMzUAKWD5GRmxd?si=6230e4b480c14c48"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سجاد شاهی | Ja Morant | <a href="https://open.spotify.com/track/7BEXwdeo4duSAcy91FuArg?si=3661de53449c475f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| نیش | بد بیت | <a href="https://soundcloud.com/neeshsound/neesh-badbeat?si=1b22d1d2d4654af9bbf19348028aadae&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| عنساد | Odd | <a href="https://soundcloud.com/enesaad/odd?si=d3cf78baeb3e46f4aa5537471f2727e9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ویناک | زیر جی | <a href="https://open.spotify.com/track/6mLjPP2i96wHg7yonpOU27?si=158ba47baad64df2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| اپریصا | اضافی | <a href="https://open.spotify.com/track/2px1psXumeQlCMXQj2176k?si=fe3cd9f07a8c4936"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پی بک | زائر | <a href="https://open.spotify.com/track/7magi1SztytPmeY3oJsD3w?si=27221648fa3c4b54"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سعید و مهرو | سرد | <a href="https://open.spotify.com/track/65JTpNaEBE8couLl2djsp9?si=e954016693ec4ed7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سیکچ و کاوه | تخت گاز | <a href="https://soundcloud.com/sunrecords2023/takhtgaz?si=212913cfbcf64e7eb0ca221f7a224633&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| رضا پیشرو | جای خالی | <a href="https://open.spotify.com/album/7onR1VImCNlsZGznuG77Y4?si=fkdQzF3TTI2fb0whY-rK-w"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سعید چیت | دیر | <a href="https://open.spotify.com/album/2yyANPc59qj7OsexppKEYU?si=4b7828bdbf9b4126"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جامین | لیلا | <a href="https://open.spotify.com/track/6l7thvng2eYzk3XajwX0UC?si=c8ebdb8f36db4266"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کابوس | معذرت نمی‌خوام | <a href="https://open.spotify.com/album/3UnQPnqlf9nEN8VWeQ7Ame?si=kHspIKqVRzOcZIg4R4R-Kg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آرش دارا | Metamorphosis | <a href="https://open.spotify.com/track/6M4yrvFR5xcu5HOizxvJeg?si=4d3b5e630c034646"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پندار | خودم | <a href="https://soundcloud.com/pe9dar/khodam?si=43749ac054fb4d4289186d875ec65796&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| یانگ صادن | الفاتحه | <a href="https://open.spotify.com/track/0z2bWZajTWN1nDARsJj8mQ?si=0f90d1fb2f7b41fa"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کوروش | All Star 2 | <a href="https://open.spotify.com/track/6KKyOMSCjRXpxHxM90wY0t?si=7ef13af6e1d04de8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| چرسی، آرما، کوشا و سی و هشت | حبیبی | <a href="https://open.spotify.com/track/3eqAVSL2EwOdA9vpp1T9nQ?si=b1fc97864a7045ac"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| عرفام | میزنه ستونم زنگ | <a href="https://open.spotify.com/track/1obt9pPCQ2AC0uc89lrDV8?si=bedfa0d1a19d46d2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ویوی بوی | Hazy | <a href="https://open.spotify.com/track/5vJ086i7obas725FfuXXtF?si=b5606814ac684068"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ویوی بوی | Hazy - Acoustic | <a href="https://open.spotify.com/track/4u9ZRIgei6IRFO1wRxb6rq?si=c80b81120f8c4bab"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ایمانمون | تابوی نسل | <a href="https://open.spotify.com/track/128f2UB7Xo4jvsy6sx6MxI?si=95712c00a35540e5"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
