@@ -1684,7 +1684,8 @@
 
 | هنرمند | نام مجموعه | لینک |
 |:-:|:-:|:-:|
-  
+| فر، شهریار، فهام، یحیی، شالو احمد و... | صداها | <a href="https://soundcloud.com/pharr_id/sets/sedaha-1401?si=ba7272b2bc9a4d8eab704824ed4d56a7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+
 </div>
 
 
@@ -1839,6 +1840,11 @@
 | ویوی بوی | Hazy | <a href="https://open.spotify.com/track/5vJ086i7obas725FfuXXtF?si=b5606814ac684068"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ویوی بوی | Hazy - Acoustic | <a href="https://open.spotify.com/track/4u9ZRIgei6IRFO1wRxb6rq?si=c80b81120f8c4bab"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ایمانمون | تابوی نسل | <a href="https://open.spotify.com/track/128f2UB7Xo4jvsy6sx6MxI?si=95712c00a35540e5"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جرشا و حسین موسوی | ماتریکس | <a href="https://open.spotify.com/track/1M5peXkILXqX2wrYLkA9zm?si=c9c2fe0aff614308"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پاپابویز و سایمن | Vision | <a href="https://open.spotify.com/track/3WdhysRuzSmwIQBo1BNaQw?si=5668845e06e147f9"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| لینی و ویلکس | LAMB | <a href="https://open.spotify.com/track/4In4rwSy42zrQs3UwH7hwW?si=c430fb5d6c7f4727"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پدی آی | Ariel | <a href="https://open.spotify.com/track/0b95a39y3EoygyGgFwnQBb?si=9aeb1293ff0d41d6"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کیوتین | Pink & Purple | <a href="https://soundcloud.com/user-180080211/pink-purple?si=b9550b22ff824e8088d7c45b00a14359&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
