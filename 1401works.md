@@ -1664,6 +1664,7 @@
 | فرشاد | نویسنده | <a href="https://soundcloud.com/farshadhiphop/sets/nevisande-lp?si=c92046ec67de4ef7b7271af79173dc9f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | اِخ | تیزاب | <a href="https://open.spotify.com/album/0uwxxSXSDtGbmU5rISSCxK?si=O-nTMl7XRO6-zxkb0w1BaA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | آرتیست و مرداس | NITROUS | <a href="https://soundcloud.com/mardasbeatz/sets/nitrous?si=d631e45a5dec4c5d8a87ba0b257d1eed&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| حسین بمب و فارسی | واقعی | <a href="https://open.spotify.com/album/1SWUS4Eq7Li0xC7AebNCAU?si=wstL4K2vSDi4TTWHHXmXmw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
@@ -1724,6 +1725,8 @@
 | یانگ صادن | الفاتحه | <a href="https://youtu.be/H43XoEg5n4o"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | چرسی، آرما، کوشا و سی و هشت | حبیبی | <a href="https://youtu.be/tdi5Qv4YWEk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | ایمانمون | تابوی نسل | <a href="https://youtu.be/f03uLALCUDs"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| سینکو و فریانگ | Persian Wave Live Session EP.02
+Perc | <a href="https://youtu.be/g2IQqm2Kjpw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -1845,6 +1848,12 @@
 | لینی و ویلکس | LAMB | <a href="https://open.spotify.com/track/4In4rwSy42zrQs3UwH7hwW?si=c430fb5d6c7f4727"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | پدی آی | Ariel | <a href="https://open.spotify.com/track/0b95a39y3EoygyGgFwnQBb?si=9aeb1293ff0d41d6"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | کیوتین | Pink & Purple | <a href="https://soundcloud.com/user-180080211/pink-purple?si=b9550b22ff824e8088d7c45b00a14359&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| موئر | منِ سابق | <a href="https://open.spotify.com/track/51gpSas9d7yxD8fSr5ZZi5?si=ca5de1ea64ad49fb"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| فربد ولچر و کی علی | 10K | <a href="https://soundcloud.com/farbod-vulture/10k?si=b0160deee01447a89955902bb3e09c49&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ناطق | زندگی به سبک انقلاب | <a href="https://rj.app/m/olWkXX1l"><img src="https://www.radiojavan.com/images/default_fb.png" width="25"></a>
+| سینکو و فریانگ | Persian Wave Live Session EP.02
+Perc | <a href="https://open.spotify.com/album/1L0diPYdkcIjArpak64DXs?si=yqVbKcJBTO6WMt1xIzeB9Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| راوی و سالک | سراب | <a href="https://open.spotify.com/album/2p99slOXseNge2FO1a2aSa?si=MXm8DSXaQWmTpSe_5oN4UQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
