@@ -1727,6 +1727,8 @@
 | ایمانمون | تابوی نسل | <a href="https://youtu.be/f03uLALCUDs"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | سینکو و فریانگ | Persian Wave Live Session EP.02
 Perc | <a href="https://youtu.be/g2IQqm2Kjpw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| آکو و مطرب | Alone | <a href="https://youtu.be/LjoSbjcwvZo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| فرزان | شاهانه | <a href="https://youtu.be/swTVWfikKhg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -1854,6 +1856,22 @@ Perc | <a href="https://youtu.be/g2IQqm2Kjpw"><img src="https://edent.github.io/
 | سینکو و فریانگ | Persian Wave Live Session EP.02
 Perc | <a href="https://open.spotify.com/album/1L0diPYdkcIjArpak64DXs?si=yqVbKcJBTO6WMt1xIzeB9Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | راوی و سالک | سراب | <a href="https://open.spotify.com/album/2p99slOXseNge2FO1a2aSa?si=MXm8DSXaQWmTpSe_5oN4UQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| لاکی حسام | Trunk | <a href="https://soundcloud.com/lucky_hesam/trunk-prod-alirezarj?si=27dec110676f4e618954c2446e3509ec&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| گتونگ و غیب | Broken | <a href="https://soundcloud.com/gatvang/broken?si=d28ef03c5fc540b9bcfcaa285ec7cd40&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| یانگ ریمان و ارشیا پی‌اس‌ام | 69 | <a href="https://open.spotify.com/track/5I3j3du3mlLGRLHI24zxSg?si=43fc07270531436a"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مسلک | مستی | <a href="https://open.spotify.com/track/3nqfg0pwTpmVHIaAI2ffMk?si=7add577be1974a5a"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| فیزر و RHD | کنسل | <a href="https://open.spotify.com/track/37LS0PxPldQorzrdtl4svr?si=4b96d3cd92d542c8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| علرضو | فری‌استایل بابام | <a href="https://soundcloud.com/alerzo/babam-freestyle?si=4789263129094afc9bde1974b9462b1a&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کچی بیتز (خشایار اس آر) | Range O | <a href="https://open.spotify.com/track/7Bx23fmKuxIVlHUPJTDFYl?si=7a0f54907d304c98"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| علی ریجل و پیلتن امشهی | یادم میاد | <a href="https://soundcloud.com/ali-rijel/yadam-miad-x-piltanemshahi?si=7ff8eef06c5d4a4380f5f38054051116&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پویام و ویناک | فیک نی | <a href="https://soundcloud.com/user-730574432-977477782/fake-ni-ft-vinak?si=6f4aa65ce0184efebbb517cf54feee89&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| توار | Paso Cheint | <a href="https://soundcloud.com/tawaar/tawwar-x-pooyar?si=2a0f34babb7d454fb3d2cb73c8f3c674&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| مهدی ویرا | Red Line | <a href="https://open.spotify.com/track/1tpD1C7NFzqN5NFYcoo1SH?si=cbd2cbf0341245f1"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آکو و مطرب | Alone | <a href="https://open.spotify.com/track/1zmCPKngnD6TOAlUGAJ5uP?si=a97131af761d4a76"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| فرزان | شاهانه | <a href="https://soundcloud.com/doorkhiz-records/farzan-x-bigkid-shahane?si=111e800e4b7d4e2a9903554feb336e43&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| عاریوژ | جلد | <a href="https://soundcloud.com/ariozh/jeld-prod-onwave?si=b98b9440f7e14c09a46c1c5b14a7e5ee&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| دورچی | Crazy | <a href="https://open.spotify.com/track/0ETgxrCiaoZoK6fSuoojBZ?si=153b70ce124045e1"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ویناک | پالت | <a href="https://open.spotify.com/album/1i1Eg76kEb8ny6OAHEerNt?si=oR0qeuF-R5yqUlwN5ic78g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
@@ -1877,5 +1895,6 @@ Perc | <a href="https://open.spotify.com/album/1L0diPYdkcIjArpak64DXs?si=yqVbKcJ
 |:-:|:-:|:-:|
 | حکم | هیچکس و علی سورنا - بی‌نوایان | <a href="https://soundcloud.com/hokm/bnv?si=70d0db5bdfdb4a5eab634bbf877c460b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | HITMYDM | پوبون - Runaway (Official Remix) | <a href="https://open.spotify.com/track/5zaCWhoilv5lkkOXXVrnRR?si=af131d092d964045"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| حکم | کابوس - همراه | <a href="https://soundcloud.com/hokm/kaboos-hamrah-hokm-remix-mp3?si=d18f82b98fa04256b00beb3f42794eca&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
