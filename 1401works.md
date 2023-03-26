@@ -1729,6 +1729,9 @@
 Perc | <a href="https://youtu.be/g2IQqm2Kjpw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | آکو و مطرب | Alone | <a href="https://youtu.be/LjoSbjcwvZo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | فرزان | شاهانه | <a href="https://youtu.be/swTVWfikKhg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| کیارپ و مجهول | الکل | <a href="https://youtu.be/yOyUOiBwAq8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| امین تی جی و نیگان | زمستون | <a href="https://youtu.be/NTLqSM7Z1bI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| شاهین نجفی | شاح | <a href="https://youtu.be/YaSxRE2xj7k"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -1872,6 +1875,15 @@ Perc | <a href="https://open.spotify.com/album/1L0diPYdkcIjArpak64DXs?si=yqVbKcJ
 | عاریوژ | جلد | <a href="https://soundcloud.com/ariozh/jeld-prod-onwave?si=b98b9440f7e14c09a46c1c5b14a7e5ee&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | دورچی | Crazy | <a href="https://open.spotify.com/track/0ETgxrCiaoZoK6fSuoojBZ?si=153b70ce124045e1"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ویناک | پالت | <a href="https://open.spotify.com/album/1i1Eg76kEb8ny6OAHEerNt?si=oR0qeuF-R5yqUlwN5ic78g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| علی ازا | Puzzle (Nadare Eyb 6) | <a href="https://open.spotify.com/track/5dvAwbwVunOYMYo4hyWLxK?si=e80a00bde8604612"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کنیس | برفا | <a href="https://open.spotify.com/track/2ENwVeBvIiJpfF0tqktDDx?si=b242df6eac674b01"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| امین تی جی و نیگان | زمستون | <a href="https://soundcloud.com/user-415042593/zemestoon-x-amin-tijay?si=80d2fe194a824307af70320479a22b63&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| شاهین نجفی | شاح | <a href="https://open.spotify.com/track/3T3TDfSKyIK38f8JEcRy7C?si=deddbb07bdfc4624"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پارسا سیمپسون، Amayar & Soha | شاید | <a href="https://open.spotify.com/track/0miMZQaLJRkRDxQDot34NC?si=b8e10bdab6c442d1"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آئین | نوازنده | <a href="https://soundcloud.com/aeinp/navazandeh?si=343c7c1cfccb47118702c8338cf9d6ab&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| الکاماندو و ویناک | وقتی نیستی | <a href="https://soundcloud.com/user163984094/vaghty-nisty?si=a6068511e99a4da7b8cc2b8c24afb19d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| امتداد و سهراب ام جی | Haya Vallah | <a href="https://soundcloud.com/emtedad-bit/haya-vallah-emtedad-ft?si=ccf8f3eaceb54a39a37163c13a90681f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| شایع | ایران خانوم | <a href="https://open.spotify.com/track/373PVZhmHgoTSj5SNnvQYa?si=0821a633cef94ae2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
