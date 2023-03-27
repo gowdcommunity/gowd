@@ -1732,6 +1732,9 @@ Perc | <a href="https://youtu.be/g2IQqm2Kjpw"><img src="https://edent.github.io/
 | کیارپ و مجهول | الکل | <a href="https://youtu.be/yOyUOiBwAq8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | امین تی جی و نیگان | زمستون | <a href="https://youtu.be/NTLqSM7Z1bI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | شاهین نجفی | شاح | <a href="https://youtu.be/YaSxRE2xj7k"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| شایع و پوری | تیزر واویلا | <a href="https://youtu.be/OGvbJvEgPyw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| شایع و امیر خلوت | تیزر ول کن | <a href="https://youtu.be/WaxFbG50x_s"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| شایع | تیزر خواب نباشیم؟ | <a href="https://youtu.be/qp821egDyoY"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -1773,7 +1776,7 @@ Perc | <a href="https://youtu.be/g2IQqm2Kjpw"><img src="https://edent.github.io/
 | انسیگان | UK | <a href="https://open.spotify.com/track/1xfFDzr94QW4goRx10wUip?si=e64804d1fff54b15"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | چرسی | 52Hz | <a href="https://open.spotify.com/track/3Qu0XGu9jpZxJGQOYdtjuy?si=4f1c737b5a024488"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ترین | آزمایشگاه فصل 2 قسمت 12 | <a href="https://open.spotify.com/track/0LP5KcWS50n9L3X2b6JKnl?si=9fde14acb0a845a7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
-| پرهام | جده | <a href="https://open.spotify.com/track/0mHJmfG9YaMtUdi9CnrhwO?si=ca5a169467054e28"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پرهام | جاده | <a href="https://open.spotify.com/track/0mHJmfG9YaMtUdi9CnrhwO?si=ca5a169467054e28"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ویناک و علی ازا | یه جای دور | <a href="https://open.spotify.com/track/0mPA0bv7jxd94vxcQOuJDA?si=b2bd4146cbff4f86"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | PIA | Lonely | <a href="https://open.spotify.com/track/3oDZqVUjAWQKDihqYk6xga?si=293f8dd4f7994ba6"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | شایان اشراقی | واسه خاطر من | <a href="https://youtu.be/dFNOAr0ZQkg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
@@ -1884,6 +1887,10 @@ Perc | <a href="https://open.spotify.com/album/1L0diPYdkcIjArpak64DXs?si=yqVbKcJ
 | الکاماندو و ویناک | وقتی نیستی | <a href="https://soundcloud.com/user163984094/vaghty-nisty?si=a6068511e99a4da7b8cc2b8c24afb19d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | امتداد و سهراب ام جی | Haya Vallah | <a href="https://soundcloud.com/emtedad-bit/haya-vallah-emtedad-ft?si=ccf8f3eaceb54a39a37163c13a90681f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | شایع | ایران خانوم | <a href="https://open.spotify.com/track/373PVZhmHgoTSj5SNnvQYa?si=0821a633cef94ae2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پی بک | FESS DEAL | <a href="https://open.spotify.com/track/55fustcIAZFAPEY0cn9MlL?si=449cd089914940d4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ایسین و استایل | آواتار | <a href="https://soundcloud.com/16ylh0mrqkdy/style-eycin-avatar?si=850cf2dfea94437e9ece6ef5b53260d7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/sounndcloud.svg" width="25"></a>
+| سینکو | 555 | <a href="https://open.spotify.com/track/1o3GXygfv5VVbez9Gnoihu?si=9258ea5aebd44490"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| DIXR | آبی | <a href="https://open.spotify.com/track/1uZKFJOku9xSbOuZBj7H3h?si=561ef40d4da84901"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
