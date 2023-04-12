@@ -54,7 +54,8 @@
 
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
-
+| پوری | AK46 | <a href="https://youtu.be/o8MsCFwKmGo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| هوداد کا | فری‌استایل مهره | <a href="https://soundcloud.com/hoodadk4/mohreh-freestyle?si=cddac20540df4ab2a72933b699228c92&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 </div>
 
 ### اینسترومنتال‌ها
