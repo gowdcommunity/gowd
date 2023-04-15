@@ -79,9 +79,6 @@
 | عیهود | عقده‌ای | <a href="https://www.instagram.com/tv/Cbfj5l5unIe/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
 | پوریا ادرویت و کاوه | میباخ | <a href="https://youtu.be/rouJdG8D4iU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | میلاد هانیبال | آزمایشگاه | <a href="https://youtu.be/12YMyTWaIII"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
-| مثلث و ایمانوف | چچریک | <a href="https://www.youtube.com/watch?v=ifHdmhnX7Wk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
-
-
 </div>
 
 ### تک آهنگ‌ها
@@ -1737,6 +1734,7 @@ Perc | <a href="https://youtu.be/g2IQqm2Kjpw"><img src="https://edent.github.io/
 | شایع و پوری | تیزر واویلا | <a href="https://youtu.be/OGvbJvEgPyw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | شایع و امیر خلوت | تیزر ول کن | <a href="https://youtu.be/WaxFbG50x_s"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | شایع | تیزر خواب نباشیم؟ | <a href="https://youtu.be/qp821egDyoY"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| مثلث و ایمانوف | چچریک | <a href="https://www.youtube.com/watch?v=ifHdmhnX7Wk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
