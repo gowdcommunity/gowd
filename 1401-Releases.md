@@ -773,6 +773,7 @@
 | پوریا ادرویت و روحی | تیرکس | <a href="https://soundcloud.com/shemroonii/kenare-to?si=37af4c6cbd6c40ff974009f51e6f81dd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | پویان جی سی، شایان اشراقی و کوریبوم | مال من باش | <a href="https://youtu.be/NUotYqr7jAk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | امیر رقاب | اوریگامی | <a href="https://open.spotify.com/track/5rvP2VjhZjVbiyIcGilRpA?si=44eb7bd38ccc4bfe"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+  | مثلث و ایمانوف | آدم اینجا تنهاست | <a href="https://open.spotify.com/track/0RZgZrTFxpn9qoiQ6MAzIZ?si=d3f7cb02884b4373"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
