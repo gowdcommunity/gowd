@@ -1158,6 +1158,7 @@
 
 ## آذر
 - [مجموعه‌ها](#مجموعهها-8)
+- [مجموعه‌های بی‌کلام](#مجموعههای-بیکلام)
 - [ویدئوها](#ویدئوها-8)
 - [تک آهنگ‌ها](#تک-آهنگها-8)
 - [اینسترومنتال‌ها](#اینسترومنتالها-7)
@@ -1175,6 +1176,15 @@
 | GOMZ (فرهود گمنام) | فردا میاد | <a href="https://soundcloud.com/farhoodofficial/sets/farda-miad-ep?si=03a7a76a258b42139a9b6249be81abba&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
+
+
+### مجموعه‌های بی‌کلام
+
+<div dir="rtl">
+
+| هنرمند | نام مجموعه | لینک |
+|:-:|:-:|:-:|
+| ایمانوف | زن، زندگی، آزادی | <a href="https://soundcloud.com/imaanov/sets/zan-zendegi-azadi"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ### ویدئوها
 
