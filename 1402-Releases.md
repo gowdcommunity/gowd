@@ -57,6 +57,7 @@
 
 | مثلث | Shahid Namere | <a href="https://soundcloud.com/mosalas/shahid-namere"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
+</div>
 ### اینسترومنتال‌ها
 
 <div dir="rtl">
