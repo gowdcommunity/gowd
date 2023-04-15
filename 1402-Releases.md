@@ -52,10 +52,10 @@
 
 <div dir="rtl">
 
-| هنرمند | نام اثر | لینک |
-|:-:|:-:|:-:|
+| هنرمند | نام مجموعه | لینک
+|:----------------:|:----------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| مثلث و ایمانوف | Shahid Namere | <a href="https://soundcloud.com/mosalas/shahid-namere"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
-| مثلث | Shahid Namere | <a href="https://soundcloud.com/mosalas/shahid-namere"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 </div>
 
 ### اینسترومنتال‌ها
