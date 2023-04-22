@@ -79,7 +79,6 @@
 | عیهود | عقده‌ای | <a href="https://www.instagram.com/tv/Cbfj5l5unIe/?utm_source=ig_web_copy_link"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="25"></a>
 | پوریا ادرویت و کاوه | میباخ | <a href="https://youtu.be/rouJdG8D4iU"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | میلاد هانیبال | آزمایشگاه | <a href="https://youtu.be/12YMyTWaIII"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
-
 </div>
 
 ### تک آهنگ‌ها
@@ -774,6 +773,7 @@
 | پوریا ادرویت و روحی | تیرکس | <a href="https://soundcloud.com/shemroonii/kenare-to?si=37af4c6cbd6c40ff974009f51e6f81dd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | پویان جی سی، شایان اشراقی و کوریبوم | مال من باش | <a href="https://youtu.be/NUotYqr7jAk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | امیر رقاب | اوریگامی | <a href="https://open.spotify.com/track/5rvP2VjhZjVbiyIcGilRpA?si=44eb7bd38ccc4bfe"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+  | مثلث و ایمانوف | آدم اینجا تنهاست | <a href="https://open.spotify.com/track/0RZgZrTFxpn9qoiQ6MAzIZ?si=d3f7cb02884b4373"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
@@ -1158,6 +1158,7 @@
 
 ## آذر
 - [مجموعه‌ها](#مجموعهها-8)
+- [مجموعه‌های بی‌کلام](#مجموعههای-بیکلام-2)
 - [ویدئوها](#ویدئوها-8)
 - [تک آهنگ‌ها](#تک-آهنگها-8)
 - [اینسترومنتال‌ها](#اینسترومنتالها-7)
@@ -1175,6 +1176,15 @@
 | GOMZ (فرهود گمنام) | فردا میاد | <a href="https://soundcloud.com/farhoodofficial/sets/farda-miad-ep?si=03a7a76a258b42139a9b6249be81abba&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
+
+
+### مجموعه‌های بی‌کلام
+
+<div dir="rtl">
+
+| هنرمند | نام مجموعه | لینک |
+|:-:|:-:|:-:|
+| ایمانوف | زن، زندگی، آزادی | <a href="https://soundcloud.com/imaanov/sets/zan-zendegi-azadi"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 ### ویدئوها
 
@@ -1735,6 +1745,7 @@ Perc | <a href="https://youtu.be/g2IQqm2Kjpw"><img src="https://edent.github.io/
 | شایع و پوری | تیزر واویلا | <a href="https://youtu.be/OGvbJvEgPyw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | شایع و امیر خلوت | تیزر ول کن | <a href="https://youtu.be/WaxFbG50x_s"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | شایع | تیزر خواب نباشیم؟ | <a href="https://youtu.be/qp821egDyoY"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| مثلث و ایمانوف | چچریک | <a href="https://www.youtube.com/watch?v=ifHdmhnX7Wk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
