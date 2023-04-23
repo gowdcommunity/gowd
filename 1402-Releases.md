@@ -54,6 +54,8 @@
 | آکو و مطرب | Alone | <a href="https://youtu.be/LjoSbjcwvZo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | طومار و سویج عرف | جدیدا | <a href="https://youtu.be/k5J-bPNYUtg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | میلاد هانیبال | ساقی | <a href="https://youtu.be/sgIQqV6HMmk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| امین تیجی | آزمایشگاه 13 | <a href="https://youtu.be/XhOccQmSq70"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| Son of Space & Mehrzvd| Justin | <a href="https://youtu.be/R2JmkLl4r_Y"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -77,6 +79,16 @@
 | پارسا سیمپسون | GoodBye Remix | <a href="https://youtu.be/o4VH4QEu7ys"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | طومار و سویج عرف | جدیدا | <a href="https://open.spotify.com/track/1neTPXoVqvGx24O5rWyvTT?si=a4865fde6c14498c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | میلاد هانیبال | ساقی | <a href="https://open.spotify.com/track/7v2Hk0GhVEjGGK0Lz0Erya?si=969668df6ed0445d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| AKO | FANI | <a href="https://open.spotify.com/track/5DN4P79AhwGogKG2UBIG2l?si=46f144f361f24998"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پویان جی سی | مِه | <a href="https://soundcloud.com/jeyceez/pooyan-jc-meh?si=62453a03434d4e989060ece8dec52379&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| علی تی و علی پاشا | جواتی | <a href="https://open.spotify.com/track/5TENflOpjoe7Oazausfi0q?si=b2453d492f684e04"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| امین تیجی | آزمایشگاه 13 | <a href="https://open.spotify.com/track/768AiVgfnB9zImo1mxzB0C?si=940593be4e0b499b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ممزی، سیا و روحی | بده بره | <a href="https://open.spotify.com/track/547EYL8biUPZn6p1UA0dbP?si=915fd125fcc04e1e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| بهزاد لیتو و 021کید | همه جوره هست | <a href="https://open.spotify.com/track/24Md9XjzNWfeICXcneQdkc?si=cba61d742ade415d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| صفیر و نجوا | OO | <a href="https://open.spotify.com/track/4znT0tsGY3aMQnTRfXWHdZ?si=105c424a3c514947"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| شایان اس، آیسم و پوریا کی | آسیب | <a href="https://open.spotify.com/track/0e29HFw1LxUHt8Imhg5Atb?si=2ac7d7f919804f2f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| Son of Space & Mehrzvd | Justin | <a href="https://open.spotify.com/track/3Pxh9v1As4KJRjiHxlY3lI?si=fd8c5da9bb994715"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| فدی | معلق | <a href="https://open.spotify.com/track/27aYMyqDftBc55G0oh7OwM?si=0ba19bcf45714e54"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
