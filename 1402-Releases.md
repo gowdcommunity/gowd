@@ -56,6 +56,12 @@
 | میلاد هانیبال | ساقی | <a href="https://youtu.be/sgIQqV6HMmk"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | امین تیجی | آزمایشگاه 13 | <a href="https://youtu.be/XhOccQmSq70"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | Son of Space & Mehrzvd| Justin | <a href="https://youtu.be/R2JmkLl4r_Y"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| فدی | معلق | <a href="https://youtu.be/4iJ51_e_7j8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| تیِم و ایسین | اوجی | <a href="https://youtu.be/hl8lALjDU4Y"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| سپهر سین جیم | غلافی | <a href="https://youtu.be/dBYpQyoDe-Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| امیر خلوت | پارانویا (فری‌استایل) | <a href="https://youtu.be/HP47Qz6Og9c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| بیگ موری | خود اثر منفی | <a href="https://youtu.be/7RlnPZDxYG0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| راودی و بینام | Samollah | <a href="https://youtu.be/vraGsVRMMY8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -89,6 +95,22 @@
 | شایان اس، آیسم و پوریا کی | آسیب | <a href="https://open.spotify.com/track/0e29HFw1LxUHt8Imhg5Atb?si=2ac7d7f919804f2f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | Son of Space & Mehrzvd | Justin | <a href="https://open.spotify.com/track/3Pxh9v1As4KJRjiHxlY3lI?si=fd8c5da9bb994715"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | فدی | معلق | <a href="https://open.spotify.com/track/27aYMyqDftBc55G0oh7OwM?si=0ba19bcf45714e54"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پابلو | Young Thug | <a href="https://open.spotify.com/track/6Xr9sT05MsaodS1D13Cvi0?si=8613435984dd44a3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تیِم و ایسین | اوجی | <a href="https://open.spotify.com/track/6Xr9sT05MsaodS1D13Cvi0?si=8613435984dd44a3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آرموند | 11 | <a href="https://open.spotify.com/track/7Jy5457YeIiPR1s2ljRQCN?si=38b268ddecb7467a"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| فَر | پارو (فری‌استایل 02) | <a href="https://soundcloud.com/pharr_id/freestyle-02-paaroo?si=dd9851c173324b5bb59a0b9c949c800f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| کوری بوم و آیزان | ژلوفن | <a href="https://soundcloud.com/koorosh-maboodi/jelofen-1?si=1d1c31a2b38743cdb2ddd929929f65c3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سپهر سین جیم | غلافی | <a href="https://open.spotify.com/track/2XFEs7sYWSMpNEJr972Ntj?si=9dd772ab866d483b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| هومان | پروانه‌ها | <a href="https://open.spotify.com/album/7ANVAdXAYN9Hh6XoGeAkpW?si=jgL7fmdiRh6K-Yg_CAl8Og"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آیسم | پاریس | <a href="https://open.spotify.com/track/4rfSJxv6d13ze6QETT2LcX?si=16004e00e0d84ca6"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پی بک | آب انار | <a href="https://open.spotify.com/track/2soKnEDNLXiBPkDZ052fr3?si=0dd6aecd6a354d33"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| فورتم | SWAGGY | <a href="https://open.spotify.com/track/2v2msXXu8pXSzt2yiNlZZi?si=8feec6224b0e4d04"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| امیر خلوت | پارانویا (فری‌استایل) | <a href="https://open.spotify.com/track/3YMEwXy2RHguCv1vrDiEDn?si=25928bc31d25455e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سِین این پِین و میداس | Pink | <a href="https://soundcloud.com/seyninpain/pink-x-midas?si=1c61a4c9a7c14d48be4c767d43ff68ea&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| امیر فئو | ویو ابر | <a href="https://soundcloud.com/amirfeo/viewabr?si=2b2e5f9958bc42c7a96625b25facf2c3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| بیگ موری | خود اثر منفی | <a href="https://soundcloud.com/bigmori/khode-asar-manfi-prod-by-khoderfm-t3chlabz?si=d7d58f203bb24724a7471cae33a5f17b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| راودی و بینام | Samollah | <a href="https://open.spotify.com/track/7mEgVl3NcdyL70I61GPBrC?si=eb4eee739557460a"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پرهام و ارشیا | کارما | <a href="https://open.spotify.com/track/7h71tmasLGMEAbcaTb4BY1?si=764581c779f141f7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
@@ -99,6 +121,8 @@
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | فغان | 02 | <a href="https://soundcloud.com/hichrecords/faghan-02?si=08b1bb6fa1a747cda41b78d6566c73bd&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| فربد درویش | Sensless | <a href="https://open.spotify.com/track/7ckPFzo0DajvomffwnjJWo?si=7c1d649c0b154dd6"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+
 </div>
 
 ### ریمیکس‌ها
@@ -107,5 +131,6 @@
 
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
+| دژاک | بیلی ایلیش - I LOVE YOU REMIX | <a href="https://soundcloud.com/zhak-beat/billie-eilish-i-love-you-remix?si=1e42153d6cf94b828bf0e1b13eb12c5f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
