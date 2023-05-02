@@ -21,6 +21,8 @@
 | نوید صدر | به وقت نون | <a href="https://soundcloud.com/divarrecords/sets/be-vaghte-noon?si=37d87d1c7f714cd284d9d47b61db70f7&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | ASTRAP | Ethernal* | <a href="https://open.spotify.com/album/3RU6IHyb7USQOEQ60UrnoD?si=8d_Bky02R82oIhl-HUl5GQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | PersianPlugTV | آزادی | <a href="https://open.spotify.com/album/3Q764JUip8DxlAiZnUPhuI?si=vR3JlQAjRq6jf6rijNlqkw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| راودی | Radium | <a href="https://open.spotify.com/album/5Ko66wgb077Gtr9Ssa5v0K?si=kI7CUa3wTsC-KwL7oAKrkw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| 021kid | Mixtape Bonuses | <a href="https://open.spotify.com/album/4evqWvS8xmLQdWczy7wWXh?si=-m0lHiYOQ7emGH4_zJqnrw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
@@ -62,6 +64,9 @@
 | امیر خلوت | پارانویا (فری‌استایل) | <a href="https://youtu.be/HP47Qz6Og9c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | بیگ موری | خود اثر منفی | <a href="https://youtu.be/7RlnPZDxYG0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | راودی و بینام | Samollah | <a href="https://youtu.be/vraGsVRMMY8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| سینا مافی و Shia | بی‌حسی | <a href="https://youtu.be/Fbpa-DmY6N4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| کوروش و هومان | تو این خونه | <a href="https://open.spotify.com/track/0dbbZsno0GaUce88ffT3LA?si=be7fac91a05f4981"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| حمید صفت | مِی‌خونه | <a href="https://youtu.be/6HyIZs7qmlI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -111,6 +116,12 @@
 | بیگ موری | خود اثر منفی | <a href="https://soundcloud.com/bigmori/khode-asar-manfi-prod-by-khoderfm-t3chlabz?si=d7d58f203bb24724a7471cae33a5f17b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | راودی و بینام | Samollah | <a href="https://open.spotify.com/track/7mEgVl3NcdyL70I61GPBrC?si=eb4eee739557460a"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | پرهام و ارشیا | کارما | <a href="https://open.spotify.com/track/7h71tmasLGMEAbcaTb4BY1?si=764581c779f141f7"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| طومار | Hustler | <a href="https://open.spotify.com/track/7liYro7Nn2yQcTEgSqTHl9?si=e97fe1d47d604c03"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کوروش و هومان | تو این خونه | <a href="https://open.spotify.com/track/0dbbZsno0GaUce88ffT3LA?si=be7fac91a05f4981"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پوریا آدرویت | بمون | <a href="https://open.spotify.com/album/4O7R1QvtSsEbpSxEZU6gPG?si=TGXOLo-YS128O-6Bo9LymA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سالک | سیاه مست | <a href="https://open.spotify.com/album/5rziLG6Eai0wFsXGUPsCWc?si=PeeO9hDyToC3YI6VL9quMg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سیکچ و شف بیتز | نداریم حرف | <a href="https://open.spotify.com/track/1NGB4CUMiZQ9Auz8vJT1uP?si=ebc0fecbb59f4ec9"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| حمید صفت | مِی‌خونه | <a href="https://open.spotify.com/track/6RRAitDZu3Rp5KrkOctgIJ?si=bbbc9598b6ef410b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
@@ -132,5 +143,6 @@
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
 | دژاک | بیلی ایلیش - I LOVE YOU REMIX | <a href="https://soundcloud.com/zhak-beat/billie-eilish-i-love-you-remix?si=1e42153d6cf94b828bf0e1b13eb12c5f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| اشیلین | پوبون - Runaway (Ashylin Remix) | <a href="https://soundcloud.com/prodbyashylin/poobon-runawayashylin-remix?si=b7e4ad33a7d4485c81e8e83aab0faa07&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
