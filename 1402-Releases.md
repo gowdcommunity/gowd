@@ -67,6 +67,11 @@
 | سینا مافی و Shia | بی‌حسی | <a href="https://youtu.be/Fbpa-DmY6N4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | کوروش و هومان | تو این خونه | <a href="https://open.spotify.com/track/0dbbZsno0GaUce88ffT3LA?si=be7fac91a05f4981"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | حمید صفت | مِی‌خونه | <a href="https://youtu.be/6HyIZs7qmlI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| هوداد کا | فری‌استایل مهره | <a href="https://youtu.be/0hrUu72xB0Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| Real DOPE | W.B.I | <a href="https://youtu.be/vNc4IcmALRc"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| نیگزد | بانداژ | <a href="https://youtu.be/SUHwIjbbunM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| د مهرو و د آریا | باحاله | <a href="https://youtu.be/VzQXdoOobVE"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| اسمین | بلاله | <a href="https://youtu.be/xRz9l-IEHio"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -105,7 +110,7 @@
 | آرموند | 11 | <a href="https://open.spotify.com/track/7Jy5457YeIiPR1s2ljRQCN?si=38b268ddecb7467a"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | فَر | پارو (فری‌استایل 02) | <a href="https://soundcloud.com/pharr_id/freestyle-02-paaroo?si=dd9851c173324b5bb59a0b9c949c800f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | کوری بوم و آیزان | ژلوفن | <a href="https://soundcloud.com/koorosh-maboodi/jelofen-1?si=1d1c31a2b38743cdb2ddd929929f65c3&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-| سپهر سین جیم | غلافی | <a href="https://open.spotify.com/track/2XFEs7sYWSMpNEJr972Ntj?si=9dd772ab866d483b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سپهر سین جیم و پوریا آدرویت | غلافی | <a href="https://open.spotify.com/track/2XFEs7sYWSMpNEJr972Ntj?si=9dd772ab866d483b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | هومان | پروانه‌ها | <a href="https://open.spotify.com/album/7ANVAdXAYN9Hh6XoGeAkpW?si=jgL7fmdiRh6K-Yg_CAl8Og"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | آیسم | پاریس | <a href="https://open.spotify.com/track/4rfSJxv6d13ze6QETT2LcX?si=16004e00e0d84ca6"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | پی بک | آب انار | <a href="https://open.spotify.com/track/2soKnEDNLXiBPkDZ052fr3?si=0dd6aecd6a354d33"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
@@ -122,6 +127,22 @@
 | سالک | سیاه مست | <a href="https://open.spotify.com/album/5rziLG6Eai0wFsXGUPsCWc?si=PeeO9hDyToC3YI6VL9quMg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | سیکچ و شف بیتز | نداریم حرف | <a href="https://open.spotify.com/track/1NGB4CUMiZQ9Auz8vJT1uP?si=ebc0fecbb59f4ec9"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | حمید صفت | مِی‌خونه | <a href="https://open.spotify.com/track/6RRAitDZu3Rp5KrkOctgIJ?si=bbbc9598b6ef410b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آکو و مطرب | Cold Dream | <a href="https://open.spotify.com/track/7zqikpM9IcBZJe3cfe4bmf?si=1bd20e3083af44ee"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| 021kid | April Fool | <a href="https://open.spotify.com/track/4TtasLIHLhFM7Bv1lu6Eyo?si=f90259b04d1c45da"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| رادوچی | OONAOONAS | <a href="https://open.spotify.com/track/6FFEY9KzR2uGynp6ITYAi1?si=23c8fe9502ae498a"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سجاد شاهی | 3AM | <a href="https://open.spotify.com/album/1FPLrPMSBTL3qedJiG11QY?si=I0sycCCxRGOmKw4Ev8CpAQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| د بهداد | دو طرفه | <a href="https://open.spotify.com/album/0pzqRoNOEModisQHSRYVLG?si=Dhok2PCqRPirqUv6ghalUQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آر تی و سعید دهقان | واسه داداشام | <a href="https://open.spotify.com/track/1ly3t7trnEVmZ6yLvAOjm6?si=e239b779cf1f4ae8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| هوداد کا | فری‌استایل مهره | <a href="https://soundcloud.com/hoodadk4/mohreh-freestyle?si=a0c5a71f4a874b20878f4166dd2cb4ac&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| Real DOPE | W.B.I | <a href="https://open.spotify.com/album/1iP4Ih9HwonG4iohcooAuT?si=cfa620d2583f4802"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پوبون | YOLO | <a href="https://open.spotify.com/album/4SvjvWmO7VRbC3Mso6JDlD?si=Dzra1hYYQTyEJ4f_PRgl0w"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| نیگزد | بانداژ | <a href="https://soundcloud.com/nigzed/bandage?si=ade84ce22cbb4e9cbe91fce610519f7b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| اوتلاو | بالابر | <a href="https://open.spotify.com/track/5CshwDNLHDRDFOaQchv6at?si=ba41abba633d4c2d"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| خان عمو | شهردار | <a href="https://open.spotify.com/album/48GR9VQvR7lDJMqSUh6fxD?si=tt-BpRLDThKSDZYckLAdig"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| عاریوژ | روح | <a href="https://open.spotify.com/track/2g7orgwuK9RkUz8uvTVVcM?si=92e4fc608b1b4281"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ونوس | راه بیا کنارم | <a href="https://soundcloud.com/user-326248006/rah-bia-kenaram-mp3?si=ce0b2fcdf7cb48a5acfe87d20dd1a751&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| د مهرو و د آریا | باحاله | <a href="https://open.spotify.com/track/22Yo1cj8L74Iy2phKfAjgJ?si=1be9b95593ba49ca"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| اسمین | بلاله | <a href="https://soundcloud.com/user-775219771/balae?si=7754ce906b2d49d1b364e88671c5c813&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
