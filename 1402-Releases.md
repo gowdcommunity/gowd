@@ -23,6 +23,7 @@
 | PersianPlugTV | آزادی | <a href="https://open.spotify.com/album/3Q764JUip8DxlAiZnUPhuI?si=vR3JlQAjRq6jf6rijNlqkw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | راودی | Radium | <a href="https://open.spotify.com/album/5Ko66wgb077Gtr9Ssa5v0K?si=kI7CUa3wTsC-KwL7oAKrkw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | 021kid | Mixtape Bonuses | <a href="https://open.spotify.com/album/4evqWvS8xmLQdWczy7wWXh?si=-m0lHiYOQ7emGH4_zJqnrw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آر تی | SHHH | <a href="https://soundcloud.com/rtistkid/sets/shhh?si=e6cb2ffa8ddd4b7c9ec72dd637a26f95&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
@@ -72,6 +73,8 @@
 | نیگزد | بانداژ | <a href="https://youtu.be/SUHwIjbbunM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | د مهرو و د آریا | باحاله | <a href="https://youtu.be/VzQXdoOobVE"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | اسمین | بلاله | <a href="https://youtu.be/xRz9l-IEHio"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| رضا پیشرو | عطسه | <a href="https://youtu.be/yGsOTDsJ2W8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| تیِم | بتادین | <a href="https://youtu.be/YeUI8rWgaOs"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -143,6 +146,19 @@
 | ونوس | راه بیا کنارم | <a href="https://soundcloud.com/user-326248006/rah-bia-kenaram-mp3?si=ce0b2fcdf7cb48a5acfe87d20dd1a751&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | د مهرو و د آریا | باحاله | <a href="https://open.spotify.com/track/22Yo1cj8L74Iy2phKfAjgJ?si=1be9b95593ba49ca"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | اسمین | بلاله | <a href="https://soundcloud.com/user-775219771/balae?si=7754ce906b2d49d1b364e88671c5c813&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| ارشیا پی اس ام | NARCISSIST | <a href="https://open.spotify.com/track/1KuxW9CnesiwTDTKtHMRVH?si=02a832e8a14b4f78"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| هیپی و دژاک | آسمون | <a href="https://soundcloud.com/zhak-beat/hippie-x-dezhak-asemoon?si=efe315263ee948bdb4b45d303457b69d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| فرنگ | پرته حواست | <a href="https://open.spotify.com/track/35iVmBFHgQrJnlWJj1FZUz?si=254b2930b6e146b6"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کوشا و سی و هش | با کی کار داری | <a href="https://open.spotify.com/track/7E0WbDEDNctFZBsapbBFYs?si=e21928b52bde4a15"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| داریوش تبهکار و سعید دهقان | تبهکار دوباره | <a href="https://open.spotify.com/track/2EVT5KXEVQFoW0387qWZ3y?si=6f8451d7efc64716"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| نیما سایه | قول | <a href="https://open.spotify.com/track/5IFSnexwz9Ux8wwV11NSvP?si=a38382f2884d45f8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| علی تی و الفیش | کوسه | <a href="https://open.spotify.com/album/5PV0IEv8WnvE0NV6ZazY7C?si=a93b04fd31f8407f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کولی | مست و خراب | <a href="https://soundcloud.com/kolifarsi/mast-o-kharab?si=81dc2ce153c04dffa581c7981aad0cf9&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| مشرقی | Highest In The Car | <a href="https://open.spotify.com/track/0CGJtNu76APPkO5TYcTIbf?si=0d33c42eba9c497a"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کوروش | یه سری | <a href="https://open.spotify.com/album/2ZrjoJgnkthU9iALuqly7A?si=Y6Eilhl3RDSfQ_6mbzL2WA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| رضا پیشرو | عطسه | <a href="https://open.spotify.com/track/4lglcshFd5LbGJH3VifMSE?si=1426b04908234d16"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تیِم | بتادین | <a href="https://open.spotify.com/album/6oLaV3Oaz65QhasPfgOyDz?si=e55e354ef08b4602"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جریان | وازلین | <a href="https://soundcloud.com/saman-hosseinzadeh-996570525/vaseline?si=a3c94f58dd784f2b8602d75ee9708a98&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
