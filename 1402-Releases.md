@@ -159,6 +159,13 @@
 | رضا پیشرو | عطسه | <a href="https://open.spotify.com/track/4lglcshFd5LbGJH3VifMSE?si=1426b04908234d16"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | تیِم | بتادین | <a href="https://open.spotify.com/album/6oLaV3Oaz65QhasPfgOyDz?si=e55e354ef08b4602"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | جریان | وازلین | <a href="https://soundcloud.com/saman-hosseinzadeh-996570525/vaseline?si=a3c94f58dd784f2b8602d75ee9708a98&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| شایان اشراقی، سهراب ام جی و شایان یو | ندونستی قدرمو | <a href="https://rj.app/m/olWkX8Ol"><img src="https://www.radiojavan.com/images/default_fb.png" width="25"></a>
+| کیوتین | OVERTHINK | <a href="https://soundcloud.com/user-180080211/overthink?si=0ad960e79a8a428a82804b81bb410e80&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| آرموند و لیدربیتز | 11 ریمیکس | <a href="https://open.spotify.com/track/5o5bR0H57yAKcLpNTZ1zyM?si=d484b27739bc4a4f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| امیرعلی مورف | UwU | <a href="https://open.spotify.com/track/2B1p5XwpVcfZxU0jZD6Gxv?si=9eb96901b79e497e"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سیکج و یانگ ریمان | Delusion | <a href="https://open.spotify.com/track/1q04d2spnkeuharRPOgWpJ?si=3ca2d014510942c0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| حسین تهی و رضا پیشرو | مجلسی | <a href="https://open.spotify.com/track/1Rm6tb2Hp416rIqAS6SQRh?si=1c068199e413405f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مشرقی و علی جانک | حس می‌کنم | <a href="https://open.spotify.com/track/0PE5jqR7VDh0fLcMOO64IU?si=9904f9c649e2457b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
