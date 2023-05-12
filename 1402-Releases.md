@@ -24,6 +24,7 @@
 | راودی | Radium | <a href="https://open.spotify.com/album/5Ko66wgb077Gtr9Ssa5v0K?si=kI7CUa3wTsC-KwL7oAKrkw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | 021kid | Mixtape Bonuses | <a href="https://open.spotify.com/album/4evqWvS8xmLQdWczy7wWXh?si=-m0lHiYOQ7emGH4_zJqnrw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | آر تی | SHHH | <a href="https://soundcloud.com/rtistkid/sets/shhh?si=e6cb2ffa8ddd4b7c9ec72dd637a26f95&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| بهرام نورایی | خودها | <a href="https://open.spotify.com/album/0Ke17UNvnha7KdZJRW1v2y?si=q82hBsGcT4yBvQVzKGZ64A"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
@@ -75,6 +76,7 @@
 | اسمین | بلاله | <a href="https://youtu.be/xRz9l-IEHio"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | رضا پیشرو | عطسه | <a href="https://youtu.be/yGsOTDsJ2W8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | تیِم | بتادین | <a href="https://youtu.be/YeUI8rWgaOs"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| اسکورپ و پیلتن امشهی | Real High | <a href="https://youtu.be/ftF7g-RG8c0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -166,6 +168,18 @@
 | سیکج و یانگ ریمان | Delusion | <a href="https://open.spotify.com/track/1q04d2spnkeuharRPOgWpJ?si=3ca2d014510942c0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | حسین تهی و رضا پیشرو | مجلسی | <a href="https://open.spotify.com/track/1Rm6tb2Hp416rIqAS6SQRh?si=1c068199e413405f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | مشرقی و علی جانک | حس می‌کنم | <a href="https://open.spotify.com/track/0PE5jqR7VDh0fLcMOO64IU?si=9904f9c649e2457b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| گتونگ و غیب | مومنین | <a href="https://soundcloud.com/gatvang/momenin?si=d63f80bb38e54df29f47a1a09e3cf713&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| آر2، سیاوش ام ایکس و ویکسر | AK KILLY | <a href="https://soundcloud.com/gatvang/momenin?si=d63f80bb38e54df29f47a1a09e3cf713&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سایمن | KCH | <a href="https://soundcloud.com/gatvang/momenin?si=d63f80bb38e54df29f47a1a09e3cf713&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| اسکورپ و پیلتن امشهی | Real High | <a href="https://open.spotify.com/track/69UlIr3WyaGY3RSDSL1iTv?si=12a9c4c47d3c4ca8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| لیل موو | اصلی | <a href="https://open.spotify.com/album/2V9cEmisEokQ3ipO6U6r1I?si=CXszD4JQRiOyCSueJUxdOA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آرون و مهرزاد | Fess o Low | <a href="https://open.spotify.com/album/0YIekFlIKYhPVOqadvGs0o?si=S43Fu5jOSGeILII7gEQ91Q"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پی بک | 20G | <a href="https://open.spotify.com/track/33JVMSPnqujkGcLsM1OIED?si=4ac1a781ddd14d20"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تیِم و لیل تیم | بیگ بنگ | <a href="https://open.spotify.com/album/3hfgk4LQId2qIKANpj8Ch8?si=362077dd97cc4525"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| وطن | عادی نی که برم | <a href="https://open.spotify.com/track/42TOpol6zpZP9kR9lBeeuu?si=85186788bb454ec4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| رادوچی | فریکی چی میخوای | <a href="https://open.spotify.com/album/4Vk4yWXmtHrqoCYpB7plnD?si=cmRnyQTwQxq9odoZf744KA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ویناک و امین تیجی | دوس دارم | <a href="https://open.spotify.com/track/2lWOBzhmRZVZGu2YnSQG4I?si=19babd3aebdd45f2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| Trvpshia | Faraway | <a href="https://soundcloud.com/trvpshia/far-away?si=8c077843c69945b59fb5266f73861359&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
