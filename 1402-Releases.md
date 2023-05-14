@@ -77,6 +77,9 @@
 | رضا پیشرو | عطسه | <a href="https://youtu.be/yGsOTDsJ2W8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | تیِم | بتادین | <a href="https://youtu.be/YeUI8rWgaOs"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | اسکورپ و پیلتن امشهی | Real High | <a href="https://youtu.be/ftF7g-RG8c0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| مهیار | ساقی | <a href="https://youtu.be/_U1bjIOoT1I"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ایلیاشین | WASTED Live | <a href="https://www.instagram.com/reel/CrEIe0eouuN/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA=="><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
+| اوتلا و تنسی | الله الله | <a href="https://youtu.be/4VXD3UJaypg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -180,6 +183,15 @@
 | رادوچی | فریکی چی میخوای | <a href="https://open.spotify.com/album/4Vk4yWXmtHrqoCYpB7plnD?si=cmRnyQTwQxq9odoZf744KA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ویناک و امین تیجی | دوس دارم | <a href="https://open.spotify.com/track/2lWOBzhmRZVZGu2YnSQG4I?si=19babd3aebdd45f2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | Trvpshia | Faraway | <a href="https://soundcloud.com/trvpshia/far-away?si=8c077843c69945b59fb5266f73861359&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| مستر ام پی | کابوس | <a href="https://soundcloud.com/mrmp_official/mr-mp-kaboosa?si=4710cb1d3eae49098f102204679c22ec&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پیدار و لاکی حسام | Warning | <a href="https://soundcloud.com/piidar/warning-2-mp3?si=7cb839c7cdc446de9444f2e65637cd83&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| مهیار | ساقی | <a href="https://open.spotify.com/track/2ESSy3U9kdmJz11cRgZ6Bn?si=0a883cefb5fa4247"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تیِم و ایسین | اجی مجی | <a href="https://open.spotify.com/album/4LrgKPT9v1hw3N5R32N1Kf?si=WKRMdklsSkSliP01o4RC_w"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| اسمین | می‌خوام | <a href="https://soundcloud.com/user-775219771/mikham?si=fc6015eb14ba4a72ae61a7a5d91ffe5b&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| واله | 598 | <a href="https://open.spotify.com/track/62uPIgcTWAYPFKLrDjmNMN?si=1de5b93b66424e6b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| امیر ریبار | آلفا اومگا | <a href="https://open.spotify.com/track/62uPIgcTWAYPFKLrDjmNMN?si=1de5b93b66424e6b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| سینا منشی، ممزی، روحی و نکو | دلم تنگ میشه | <a href="https://open.spotify.com/track/38pGAJtNAj7vABcgd1rSDs?si=268ab0b46a764db8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| اوتلا و تنسی | الله الله | <a href="https://open.spotify.com/album/5DbvqZTgnyWBW0AoEvXBnc?si=ZojfkPEzSdeI21XIJFIC-g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
