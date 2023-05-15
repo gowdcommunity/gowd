@@ -80,6 +80,13 @@
 | مهیار | ساقی | <a href="https://youtu.be/_U1bjIOoT1I"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | ایلیاشین | WASTED Live | <a href="https://www.instagram.com/reel/CrEIe0eouuN/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA=="><img src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="25"></a>
 | اوتلا و تنسی | الله الله | <a href="https://youtu.be/4VXD3UJaypg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| د دان | مواظبم باش | <a href="https://youtu.be/HlXqsBE2uWg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| جرشا | ذبخ | <a href="https://youtu.be/uSJbcb2Jhzw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| امین تی جی | Goosebumps | <a href="https://youtu.be/4Vsu9-hmsW0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| لیفتر و اتک | RAT | <a href="https://youtu.be/GvEW0w9b3c8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| بیگ زد | No Matter What | <a href="https://youtu.be/hZ44DJd6nZ0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| آرتا | ازت بدم میاد | <a href="https://youtu.be/XZncptlde9g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| یانگ مو | والا | <a href="https://youtu.be/GO8VjH1GdUI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -192,6 +199,23 @@
 | امیر ریبار | آلفا اومگا | <a href="https://open.spotify.com/track/62uPIgcTWAYPFKLrDjmNMN?si=1de5b93b66424e6b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | سینا منشی، ممزی، روحی و نکو | دلم تنگ میشه | <a href="https://open.spotify.com/track/38pGAJtNAj7vABcgd1rSDs?si=268ab0b46a764db8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | اوتلا و تنسی | الله الله | <a href="https://open.spotify.com/album/5DbvqZTgnyWBW0AoEvXBnc?si=ZojfkPEzSdeI21XIJFIC-g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| د دان | مواظبم باش | <a href="https://open.spotify.com/album/2XWh3V6ahAjqvQqDeZRWW8?si=fn648uyDSB2vUTKqZf8p1g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| علرضو | 365 | <a href="https://open.spotify.com/album/20ugydb9W95VdhkjXcDbiG?si=MbISQjd4R66fQckhleFcWg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آروین ای اف | Die Tomorrow | <a href="https://open.spotify.com/album/6sWgh68UhMNXDlEbEuVZ1K?si=28_XEZ9vSiu4huAmKT3TKg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جرشا | ذبخ | <a href="https://open.spotify.com/track/5ozIxDIicXDk5w4XYr2YOC?si=8b528211e545422c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| لوکی | Persian Cats | <a href="https://open.spotify.com/album/19vplnudkgKfUMW1jCQ9nb?si=8eae3c1d2a784bfd"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| 021کید، سیجل و خلسه | Backseat | <a href="https://open.spotify.com/track/6B5SWtxDhBTH8zFf2nqKAL?si=ff1eb27d68454277"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| علی تی | Calvin klein | <a href="https://open.spotify.com/album/5f3DqEJZ7U7W4xHGRE7KBn?si=bSo6XVuGRYOPOJuoRW4wXw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| لیفتر و اتک | RAT | <a href="https://soundcloud.com/liphter/liphter-x-attak-ah?si=55d402d1efec4033a4dd9282864931c6&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سپهر سین جیم | RUNAWAY (Remix) | <a href="https://open.spotify.com/track/3TR5bByKFEs4yRBljkw9ZK?si=3fe05d0fd5f741d8"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| بیگ زد | No Matter What | <a href="https://open.spotify.com/track/1fMzizwxxJkL3riaajKXbS?si=3ae19245a8284c78"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پیدار | 29 | <a href="https://soundcloud.com/piidar/29-prod-rj?si=f8750343480f413d8595ff81f30adfd1&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| آرتا | ازت بدم میاد | <a href="https://open.spotify.com/track/3NacsPYTixnAMx8966rVeQ?si=10a4496459c64050"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| لینی | VISA | <a href="https://open.spotify.com/track/38XrJRGift5SNQXqOrdmPd?si=ca5720db7da345e3"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| تلخون | نشم | <a href="https://open.spotify.com/track/25w5v10JOD18YiyJgdDxoE?si=0df4c0a888384363"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| فربد ولچر | محکوم | <a href="https://open.spotify.com/album/6V4aoVOc4X4oCi5aditPGl?si=HcAotQfwSSyk6LujCEpwiw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| رضا پیکه | بابی بابی | <a href="https://open.spotify.com/track/0rDnjhkxWcL9VRWwTvEyHj?si=588382adfd3c458f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| یانگ مو | والا | <a href="https://soundcloud.com/mhmadhooshmndd/walla?si=3bf84a0eaebd42e38944214722a80e95&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
