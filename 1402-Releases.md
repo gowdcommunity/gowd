@@ -224,6 +224,7 @@
 | لوکی و پرهام | UNO | <a href="https://open.spotify.com/track/6rE7teRFrumsds3nd5z3z7?si=70d723a7ea884909"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | کوروش، پوبون، آیسم و 021کید | رولت | <a href="https://open.spotify.com/track/6n4VFzhcNx0q91n7YvSpI1?si=2f37c35a827a4a06"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | انسیگان | تهران کثیف | <a href="https://soundcloud.com/ensigan021/tehran-kasif-freestyle?si=f259614816d64176a927675db01096a2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| شاپور و مهدیار آقاجانی | کرکره | <a href="https://open.spotify.com/track/7gd1XxUDQuNaSmCG0OIzek?si=0e28c9dbba3443e5"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
