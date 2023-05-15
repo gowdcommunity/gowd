@@ -25,6 +25,7 @@
 | 021kid | Mixtape Bonuses | <a href="https://open.spotify.com/album/4evqWvS8xmLQdWczy7wWXh?si=-m0lHiYOQ7emGH4_zJqnrw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | آر تی | SHHH | <a href="https://soundcloud.com/rtistkid/sets/shhh?si=e6cb2ffa8ddd4b7c9ec72dd637a26f95&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | بهرام نورایی | خودها | <a href="https://open.spotify.com/album/0Ke17UNvnha7KdZJRW1v2y?si=q82hBsGcT4yBvQVzKGZ64A"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| هیپ‌هاپولوژیست و کاگان | لیک شت | <a href="https://open.spotify.com/album/66TIT5URycd54KR4aGZDtX?si=1hPM6DHPQx-BfMqzWR1U6A"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
@@ -87,6 +88,7 @@
 | بیگ زد | No Matter What | <a href="https://youtu.be/hZ44DJd6nZ0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | آرتا | ازت بدم میاد | <a href="https://youtu.be/XZncptlde9g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | یانگ مو | والا | <a href="https://youtu.be/GO8VjH1GdUI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| پوری | کلهم | <a href="https://youtu.be/Ujh0O1U3crM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -216,6 +218,12 @@
 | فربد ولچر | محکوم | <a href="https://open.spotify.com/album/6V4aoVOc4X4oCi5aditPGl?si=HcAotQfwSSyk6LujCEpwiw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | رضا پیکه | بابی بابی | <a href="https://open.spotify.com/track/0rDnjhkxWcL9VRWwTvEyHj?si=588382adfd3c458f"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | یانگ مو | والا | <a href="https://soundcloud.com/mhmadhooshmndd/walla?si=3bf84a0eaebd42e38944214722a80e95&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| آکو و مطرب | Black Angel | <a href="https://open.spotify.com/track/5eH0P3XcCw4i5fvVZX3IAX?si=c0d03c848e3e4892"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پوری | کلهم | <a href="https://open.spotify.com/track/008pF1mZi2Xuqs5G87K4oU?si=27175e9a002748e1"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| موئر | تُف | <a href="https://open.spotify.com/album/0qVlhLsxsmnLvsDo5tkOMU?si=6F1fW3DGTkmiY_aqatOidg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| لوکی و پرهام | UNO | <a href="https://open.spotify.com/track/6rE7teRFrumsds3nd5z3z7?si=70d723a7ea884909"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| کوروش، پوبون، آیسم و 021کید | رولت | <a href="https://open.spotify.com/track/6n4VFzhcNx0q91n7YvSpI1?si=2f37c35a827a4a06"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| انسیگان | تهران کثیف | <a href="https://soundcloud.com/ensigan021/tehran-kasif-freestyle?si=f259614816d64176a927675db01096a2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
