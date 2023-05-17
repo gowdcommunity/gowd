@@ -89,6 +89,9 @@
 | آرتا | ازت بدم میاد | <a href="https://youtu.be/XZncptlde9g"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | یانگ مو | والا | <a href="https://youtu.be/GO8VjH1GdUI"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | پوری | کلهم | <a href="https://youtu.be/Ujh0O1U3crM"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| 021کید | The Cold Room | <a href="https://youtu.be/qYWzSlejBxg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| آیسم و کوروش | OnlyFans | <a href="https://youtu.be/COoeRV0UDA4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| جرشا | فری‌استایل بابابزرگ | <a href="https://youtu.be/MiGfPnoPKpw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -225,6 +228,15 @@
 | کوروش، پوبون، آیسم و 021کید | رولت | <a href="https://open.spotify.com/track/6n4VFzhcNx0q91n7YvSpI1?si=2f37c35a827a4a06"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | انسیگان | تهران کثیف | <a href="https://soundcloud.com/ensigan021/tehran-kasif-freestyle?si=f259614816d64176a927675db01096a2&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | شاپور و مهدیار آقاجانی | کرکره | <a href="https://open.spotify.com/track/7gd1XxUDQuNaSmCG0OIzek?si=0e28c9dbba3443e5"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پوبون | Runaway (Studio Acapella) | <a href="https://soundcloud.com/tetroparja/poobon-runaway-studio-acapella?si=bcbec738bc5c40ccb1d56bf21788b52f&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پارسالیپ و موژان وای زد | Time Zone | <a href="https://open.spotify.com/track/5jKgBl3cBzKN5wN8btuqdr?si=c15f4c23608b4cad"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| 021کید | The Cold Room | <a href="https://open.spotify.com/track/4NFkMuCJH1ZfKfg8H9BkTC?si=9838dd1473f94521"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| رادوچی | Moonlight | <a href="https://open.spotify.com/track/0EjBwtgNClHrHu6nsKL1bR?si=b3fc3b318fee4808"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ایمانمون | فری‌استایل سولو | <a href="https://open.spotify.com/album/5dOp4zU0Jgutw2704H1MRq?si=jHv66Eu-SGmU2l6V_Ufadg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آرش سرطان، پارسا و علی اسپم | صلوات | <a href="https://youtu.be/OAXdrPOuGn4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| اردلان طعمه و O.I.AM | بانوی ایرانی | <a href="https://youtu.be/bVzdACBUMKY"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ویناک | Flex Mode | <a href="https://open.spotify.com/track/0Ux1l5MsKdf0yjSvpg0H0S?si=68b77e72c9e04bab"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ممزی و میک جی | بور | <a href="https://open.spotify.com/track/0bG30WGtx7lXJJc2uor3iA?si=a8279688b4fe44a4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
