@@ -93,6 +93,8 @@
 | آیسم و کوروش | OnlyFans | <a href="https://youtu.be/COoeRV0UDA4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | جرشا | فری‌استایل بابابزرگ | <a href="https://youtu.be/MiGfPnoPKpw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | علی اردوان، سپهر خلسه و بهزاد لیتو | دانسِت | <a href="https://youtu.be/eTKE0jLVZVo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| سانبوی | بِیرو | <a href="https://youtu.be/4an7G_3DgKY"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| سوگند | داد نزن | <a href="https://youtu.be/Lq2BSZ2jJH4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -244,6 +246,12 @@
 | عرفان | به یاد | <a href="https://open.spotify.com/track/3MjZnUDUZ5AW48pntCL8AP?si=8e084c69d2124779"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | پایا و نوا | کشور گشایی | <a href="https://open.spotify.com/track/5ipcFgHnFpdn5plwsaJbgS?si=9006d7223ec241b5"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | پارسالیپ و آرمین رابر | برو کی*** | <a href="https://soundcloud.com/parsalipofficial/boro-ki-feat-armin-robber?si=72fb2a2affeb44fa9b2af046658d266e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| بهراد و ایسین | کارتل | <a href="https://soundcloud.com/user-47319822/behrad-feat-eycin_cartel?si=8eec26cdc30846ae992a5e038c8a5e7d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| سانبوی | بِیرو | <a href="https://soundcloud.com/sunboy_official/sunboy-beyro-mp3?si=c123080e9ff54af39729949d734e8513&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| عرفان جیدال و ایمانمون | ریمیکس به یاد | <a href="https://open.spotify.com/track/0k7QKCMxOidJxe5FIdZt7Z?si=994c879539fc44e9"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جیدال و مهتا | ماهرخ | <a href="https://open.spotify.com/track/5UqHSo5nnD63ZrMrliARte?si=ed737c1428ff440c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| امین تی جی | Marry Wanna | <a href="https://open.spotify.com/album/0KaVCGrD9fEW3kOk4uucfh?si=EAlOKNGDT0eULWuVd6jwGA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| جاستینا | آبی | <a href="https://open.spotify.com/album/5IMH4kTC7sqQomeImIzGN8?si=wlHrNaF_TQqK7dTm8pgcKA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
