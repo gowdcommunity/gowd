@@ -26,6 +26,7 @@
 | آر تی | SHHH | <a href="https://soundcloud.com/rtistkid/sets/shhh?si=e6cb2ffa8ddd4b7c9ec72dd637a26f95&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 | بهرام نورایی | خودها | <a href="https://open.spotify.com/album/0Ke17UNvnha7KdZJRW1v2y?si=q82hBsGcT4yBvQVzKGZ64A"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | هیپ‌هاپولوژیست و کاگان | لیک شت | <a href="https://open.spotify.com/album/66TIT5URycd54KR4aGZDtX?si=1hPM6DHPQx-BfMqzWR1U6A"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| مشرقی | Unreleased Mixtape +14 | <a href="https://soundcloud.com/mvshreghi/sets/unreleased-mixtape?si=3c81db8cdbc943f282d5fa09ff525a88&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
@@ -95,6 +96,7 @@
 | علی اردوان، سپهر خلسه و بهزاد لیتو | دانسِت | <a href="https://youtu.be/eTKE0jLVZVo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | سانبوی | بِیرو | <a href="https://youtu.be/4an7G_3DgKY"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | سوگند | داد نزن | <a href="https://youtu.be/Lq2BSZ2jJH4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| عرفان، اسدی و ملیکا فتحی | اجرای زنده بذر | <a href="https://youtu.be/d_L6b3_z_1E"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -252,6 +254,11 @@
 | جیدال و مهتا | ماهرخ | <a href="https://open.spotify.com/track/5UqHSo5nnD63ZrMrliARte?si=ed737c1428ff440c"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | امین تی جی | Marry Wanna | <a href="https://open.spotify.com/album/0KaVCGrD9fEW3kOk4uucfh?si=EAlOKNGDT0eULWuVd6jwGA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | جاستینا | آبی | <a href="https://open.spotify.com/album/5IMH4kTC7sqQomeImIzGN8?si=wlHrNaF_TQqK7dTm8pgcKA"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| Rispoow | Out of Control | <a href="https://open.spotify.com/album/0cWB2zE746kwraldPaN6EG?si=kCU5x0ivSHCBrLhZbWocPQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| آریجی | Don't Worry | <a href="https://open.spotify.com/album/4WTxqrQ9iybvdMkZ9LtpLR?si=-UWSokTgRyWJDpUItaHneQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ریچ رُز | See You Again | <a href="https://soundcloud.com/richrosebaby/see-you-again"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| پوریا کی | Montblanc | <a href="https://open.spotify.com/album/0D0VbKdr2GL5jLAiSAPBt1?si=oZWuH-LoRICaTw0hL8peiQ"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پیا و DIXR | Pause | <a href="https://open.spotify.com/track/5wRm2ARrKxJ9fZzuw7Or9C?si=a5877bcbb94a43b5"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
