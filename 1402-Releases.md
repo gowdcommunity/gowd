@@ -92,6 +92,7 @@
 | 021کید | The Cold Room | <a href="https://youtu.be/qYWzSlejBxg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | آیسم و کوروش | OnlyFans | <a href="https://youtu.be/COoeRV0UDA4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | جرشا | فری‌استایل بابابزرگ | <a href="https://youtu.be/MiGfPnoPKpw"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| علی اردوان، سپهر خلسه و بهزاد لیتو | دانسِت | <a href="https://youtu.be/eTKE0jLVZVo"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -237,6 +238,12 @@
 | اردلان طعمه و O.I.AM | بانوی ایرانی | <a href="https://youtu.be/bVzdACBUMKY"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 | ویناک | Flex Mode | <a href="https://open.spotify.com/track/0Ux1l5MsKdf0yjSvpg0H0S?si=68b77e72c9e04bab"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 | ممزی و میک جی | بور | <a href="https://open.spotify.com/track/0bG30WGtx7lXJJc2uor3iA?si=a8279688b4fe44a4"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| معراج تهرانی | دویدم X کلام آخر | <a href="https://soundcloud.com/merajtehrani/meraj-doidam-x-kalam-akhar?si=3179329ef5084eb8955e39e59f38d133&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| علی اردوان، سپهر خلسه و بهزاد لیتو | دانسِت | <a href="https://open.spotify.com/track/4a3xBMOuJh2koucu4n5cV7?si=501d32429ad5468b"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| امین تی جی و جریان | قانع شدم | <a href="https://soundcloud.com/saman-hosseinzadeh-996570525/ghane-shodam-feat-amintijay?si=1cff04f4a6cb410695f18d2b870df821&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| عرفان | به یاد | <a href="https://open.spotify.com/track/3MjZnUDUZ5AW48pntCL8AP?si=8e084c69d2124779"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پایا و نوا | کشور گشایی | <a href="https://open.spotify.com/track/5ipcFgHnFpdn5plwsaJbgS?si=9006d7223ec241b5"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پارسالیپ و آرمین رابر | برو کی*** | <a href="https://soundcloud.com/parsalipofficial/boro-ki-feat-armin-robber?si=72fb2a2affeb44fa9b2af046658d266e&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 
 </div>
 
