@@ -330,6 +330,9 @@
 
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
+| علی ازا و میک جی | Hero | <a href="https://youtu.be/jDY1ZjBpIFY"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| پویان اردلان | مثه خواب | <a href="https://youtu.be/hTGmFm6xXJ0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
+| ممرض، Cyrus the Persian و Soren.mr | SINNER | <a href="https://youtu.be/o3zL_5YinNg"><img src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="25"></a>
 
 </div>
 
@@ -339,6 +342,12 @@
 
 | هنرمند | نام اثر | لینک |
 |:-:|:-:|:-:|
+| رضا اودین | NS | <a href="https://soundcloud.com/rezaodin/zech-prod-by-scoobi?in=gowdcommunity/sets/ordibehesht-1402-1402&si=34651a98b05b4d0f9a831f0b36a19e12&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+| علی ازا و میک جی | Hero | <a href="https://open.spotify.com/track/7cZ1saS7P8EAUEEfPpF0pI?si=ae8306621c1e4bc9"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پاپابویز | KotoKerevat | <a href="https://open.spotify.com/track/5Ii8WOfjtsGYf9zuLAjoxL?si=977bc4bee46c4a68"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ارشیا، چیت 2 ای ام و آرسیدی | حبسم | <a href="https://open.spotify.com/track/1XtkZzVXWDy5lZA3KnzLK9?si=e749ab7b77594d13"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| پویان اردلان | مثه خواب | <a href="https://open.spotify.com/track/3Xsrr0x6EcqUpZD47TdTkb?si=f0fa0bea191c4463"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
+| ممرض، Cyrus the Persian و Soren.mr | SINNER | <a href="https://open.spotify.com/track/2nbgZ38m1wGbqzzKTp6zBR?si=243af9c4ff054fb0"><img src="https://edent.github.io/SuperTinyIcons/images/svg/spotify.svg" width="25"></a>
 
 </div>
 
