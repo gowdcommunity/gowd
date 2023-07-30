@@ -397,7 +397,7 @@
 |Sarv             |Saleck - Alak Dolak [Prod, By Alani]       |<a href="https://soundcloud.com/sarvcrew/alakdolak"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 |Sarv             |Saleck - Falsh [Prod. By Alani]            |<a href="https://soundcloud.com/sarvcrew/falsh"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 |Sarv             |Saleck - 30                                |<a href="https://soundcloud.com/sarvcrew/sii"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-|rez]|Sarv         |Sefrism &amp; Saleck - Tasian [Prod. By Moh|<a href="https://soundcloud.com/sarvcrew/tasian"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
+|Sarv             |Sefrism &amp; Saleck - Tasian [Prod. By Mohrez]|<a href="https://soundcloud.com/sarvcrew/tasian"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 |Sarv             |Mordad - Alpha [Prod. By Teor]             |<a href="https://soundcloud.com/sarvcrew/alpha"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 |Melli            |Rokh - 2Ghotbi [Prod. Najwa]               |<a href="https://soundcloud.com/mellistream/2ghotbi"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 |Ali Pakzad       |Khune Baqali - (Prod. Hedi)                |<a href="https://soundcloud.com/alipakzadofficial/khune-baqali-prod-hedi"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
@@ -537,7 +537,6 @@
 |Prsa             |Chizi Namoond Az Man                       |<a href="https://soundcloud.com/prsa_music/chizi-namoond-az-man"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 |Prsa             |Meset Peyda Nemishe (feat. Alrow)          |<a href="https://soundcloud.com/prsa_music/meset-peyda-nemishe-feat-alrow"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 |Shadm3hr         |The Calm Before The Storm                  |<a href="https://soundcloud.com/shadm3hr/cbs"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
-|Young Danny      |Kinto’un                                   |<a href="https://soundcloud.com/youuuungdanny/kintoun"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 |HezvM            |Vlone [Prod. Ravan]                        |<a href="https://soundcloud.com/hezvm/vlone-prod-ravan"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 |ADVIN            |Back to Back ( ft. Siavash MX )            |<a href="https://soundcloud.com/advinshah/back-to-back-ft-siavash-mx"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
 |ADVIN            |Jean Valjean ( ft. R2 )                    |<a href="https://soundcloud.com/advinshah/jean-valjean-ft-r2"><img src="https://edent.github.io/SuperTinyIcons/images/svg/soundcloud.svg" width="25"></a>
